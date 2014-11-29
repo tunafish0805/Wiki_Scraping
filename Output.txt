@@ -1,5 +1,4 @@
 peginterferon alfa-2b
-sagopilone
 clomifenoxide
 chloroprocaine
 troxolamide
@@ -11,27 +10,25 @@ E-Base
 meloxicam
 becampanel
 HumaSPECT
-enviradene
+ditophal
 amphotericin B
-Biamine Injection
+tienopramine
 oxabrexine
-Risperdal
-tiapride
 Xyzal
 Revia
+norethisterone
 Acular
-nosantine
+Panheprin
 Neo-Synalar
 velafermin
 triflocin
-Benhepazone
+climiqualine
 Amino-Cerv
-Vasocon
-Cardura
+siratiazem
 Nebcin
 muraglitazar
 Isordil
-pramlintide
+oxcarbazepine
 oxarbazole
 Neggram
 Codrix
@@ -42,8 +39,9 @@ tiametonium iodide
 Salazopyrine
 lusupultide
 Ciproxin
-Roaccutane
+enciprazine
 bumadizone
+aprinocarsen
 Cefadyl
 pentamethonium bromide
 prednylidene
@@ -56,26 +54,25 @@ boxidine
 anivamersen
 piperylone
 Teril
-VasoClear
 pyricarbate
 Uniphyl
 Wyamine Sulfate
 Statex
-lemidosul
+propiomazine
 nizofenone
 pifoxime
 Cystagon
 Vosol
-etifoxine
+levocabastine
 Bardoxolone
 clofluperol
 sampirtine
 Urispas
-sulfasuccinamide
+Procapan
 Benfurodil hemisuccinate
 tauroselcholic acid
 palonidipine
-adomiparin
+butaclamol
 Phosphotope
 C-Crystals
 nordazepam
@@ -85,42 +82,46 @@ levlite
 sparfosic acid
 Monopril
 atiglifozin
-letosteine
-Sulten-10
+cinchophen
+Rolicyclidine
+Kinevac
 Athrombin-K
 oxodipine
+Bromisoval
 somantadine
 Vitec
 Crolom
+etorphine
 Abitrexate
-esomeprazole
+ebiratide
 fenoxedil
 vatanidipine
 mephenytoin
 Diasone Sodium
 endrisone
-eufauserase
+pentifylline
 vinrosidine
-Rotoxamine
-nihydrazone
+Econochlor
+ranimustine
+carfentanil
 Dispermox
-morinamide
+Fluocet
 Uracil Mustard Capsules
 Taztia XT
 propetandrol
-Strontium Chloride Sr-89
+Actonel
 Kefzol
 phencyclidine
 Adderall
 disogluside
 Compazine
 ecabet
-Proglycem
+nisobamate
 Eutonyl
 phentermine
-tienopramine
-irinotecan
-flesinoxan
+Biamine Injection
+droperidol
+clopidogrel
 aminoquinol
 decamethonium bromide
 Benzodent
@@ -128,7 +129,7 @@ cuproxoline
 calcitriol
 mitonafide
 otilonium bromide
-fezakinumab
+lanepitant
 tomopenem
 truxicurium iodide
 allobarbital
@@ -148,9 +149,9 @@ alanosine
 trapencaine
 nicofuranose
 masoprocol
-Chlorate Oral
+Diovan
 piposulfan
-Verelan
+etodroxizine
 minamestane
 pegfilgrastim
 sodium gualenate
@@ -162,25 +163,24 @@ buformin
 Konazol
 Aldoril
 fexicaine
-Imitrex
 flosatidil
 pafuramidine maleate
-noretynodrel
+Tricor
 Triaminic-12
-Humulin
+imagabalin
 pramiconazole
 lexiva
 butinoline
 alovudine
-abacavir
+pinadoline
 tandutinib
 piroxicillin
 Vitaneed
 flumethiazide
 denufosol tetrasodium
 amiflamine
-Bermoprofen
-allopurinol
+trebenzomine
+Pertofrane
 alusulf
 Liposyn
 deserpidine
@@ -191,45 +191,45 @@ buclosamide
 dioxadilol
 chloramphenicol
 Hexal Ranitic
-milatuzumab
+carbifene
 oxisuran
 dextrothyroxine sodium
 abexinostat
 levomepromazine
-Novafed
+cinflumide
 Folicet
 fenclozic acid
 pancuronium bromide
 lisinopril
 erythromycin acistrate
 Adipost
-regavirumab
+Dial
 V-Cillin
-K+
+bemetizide
 Batoprazine
 Teldrin
-Noroxin
+verazide
 methallenestril
 feclobuzone
 Texacort
 quazinone
-Rhogam
+sontuzumab
 temodox
-Raplon
+taranabant
 Biofed
 bedaquiline
 pazelliptine
-cellaburate
+Benhepazone
+acetaminophen
 mephenoxalone
-ramipril
 Eurax
-siratiazem
+Cardura
 binodenoson
 Brofaromine
 Ultra-Technekow Fm
 octapinol
 Volmax
-5-FU
+phenytoin
 taltrimide
 disufenton sodium
 Oxycet
@@ -237,23 +237,23 @@ tameridone
 tolamolol
 prenylamine
 pheneticillin
-ancarolol
+Methylin
 tocofenoxate
 Sorine
-levobunolol
+pramlintide
 amitriptylinoxide
 olprinone
 Betamicin
 azaloxan
 Vascor
 doxylamine
-diacetylmorphine
 tolpiprazole
 carotegrast
 Pentam
 Enlon-Plus
 BayHep B
 camiverine
+levolet
 Atabrine
 fomivirsen
 crilvastatin
@@ -267,20 +267,21 @@ Rivaroxaban
 Dexasporin
 Tapazole
 Actos
-framycetin
+Asellacrin 10
 phanquinone
-toremifene
-Vicoprin
+lecozotan
+otelixizumab
 trapidil
-Koglucoid
-stevaladil
+Tab-Profen
+cefaloram
 Condylox
 levolansoprazole
 Benzotript
 tenivastatin calcium
 sitafloxacin
-Bristacycline
+Dyclone
 mifobate
+Roaccutane
 Solatene
 ethiodized oil (131 I)
 Delta-Cortef
@@ -288,7 +289,7 @@ Siblin
 tivozanib
 fluperlapine
 Namenda
-orestrate
+indeglitazar
 myrophine
 vecuronium bromide
 susalimod
@@ -297,7 +298,7 @@ Bezalip
 muplestim
 Accurbron
 aviscumine
-oglufanide disodium
+ifosfamide
 pralatrexate
 piroctone
 pelubiprofen
@@ -306,6 +307,7 @@ cifostodine
 fenetradil
 Navane
 ibacitabine
+prednisone
 Metelimumab
 lumiliximab
 Periogard
@@ -314,7 +316,7 @@ quinaldine blue
 eticyclidine
 mobecarb
 diprophylline
-cocarboxylase
+arasertaconazole
 trimexiline
 dimethyltryptamine
 dimadectin
@@ -326,10 +328,10 @@ Magnevist
 Actinex
 acetohexamide
 Micro-K
-cefatrizine
+Pindac
 cyclopyrronium bromide
 pirepolol
-fexofenadine
+fluclorolone acetonide
 Predair
 valproic acid
 maprotiline
@@ -339,13 +341,14 @@ aspartame
 quinupramine
 Aldomet
 disulfiram
-Adacel
+Alimta
+halazone
 levisoprenaline
 muromonab-CD3 monoclonal antibody
 Cellufresh
 mipimazole
 irbesartan
-flavoxate
+diaziquone
 Renese
 bisegliptin
 doxapram
@@ -358,6 +361,7 @@ triclocarban
 prodipine
 mofoxime
 Mylaxen
+halocortolone
 volinanserin
 Methoxsalen
 Emete-Con
@@ -366,9 +370,10 @@ mociprazine
 cyacetacide
 testosterone
 corbadrine
+Metioxate
 medetomidine
 trazolopride
-beclotiamine
+Sudafed 12 Hour
 Isopto Cetapred
 Camila
 mebendazole
@@ -378,21 +383,22 @@ botiacrine
 nadide
 clindamycin
 paulomycin
+Ergoloid Mesylates
 actagardin
 Domeboro
 cimepanol
 isometamidium chloride
 Nipride
 Bentiromide
-Voltarol
+triamcinolone benetonide
 cethromycin
-Rosaramicin
+etamocycline
 salmisteine
 menatetrenone
 Cylert
 tazarotene
 Medrol
-propiomazine
+Unitensen
 flubepride
 Technelite
 nilotinib
@@ -401,20 +407,22 @@ losindole
 dextranomer
 lobaplatin
 lixazinone
+amprolium
 alimadol
 albuterol
-eprodisate
+dabuzalgron
 hemoglobin crosfumaril
-sulfaguanidine
 Amoscanate
-Advicor
+Cosmegen
 Penlac
-lividomycin
+tribromsalan
 prednicarbate
 Cetane
 CoActifed
+Betameprodine
+etifoxine
 chlorphentermine
-fonturacetam
+pumitepa
 ocrelizumab
 Alphaquin HP
 Retin-A
@@ -430,16 +438,17 @@ bupranolol
 Uristat
 clantifen
 sulfanitran
-mirimostim
+Stromectol
 Sleep-Aid
-Procapan
+sulfasuccinamide
 interferon beta
+Metoclopramide
 amikhelline
-viomycin
+Metochalcone
 tiodazosin
 nalfurafine hydrochloride
 Unasyn
-Batebulast
+Calbon
 anagestone
 Pristiq
 Colonaid
@@ -449,7 +458,7 @@ ferrocholinate
 Robalzotan
 Citrucel
 peldesine
-nuclomedone
+Metofoline
 Estazolam
 ecastolol
 morphine
@@ -457,11 +466,11 @@ iodinated (131 I) human serum albumin
 pidolic acid
 Depakene
 Airomir
-talampicillin
+ilonidap
 tiprelestat
 droxacin
 reserpine
-Clear Eyes ACR
+mitocarcin
 quinethazone
 Arvestin
 acitretin
@@ -471,36 +480,35 @@ Hectorol
 Avinza
 oxysonium iodide
 Vitrasert
-exiproben
 tefludazine
+biphasic insulin injection
 sitimagene ceradenovec
 Ibuprom
 sulfaproxyline
 Deca-Durabolin
-Sotret
+Truphylline
 Cellcept
 nicogrelate
-ciclosidomine
+Soyacal
 Theoclear
 Aggrastat
-Biphetamine
+bisaramil
 Thrombostat
 epoetin theta
 Rituxan
 Argatroban
 Libritabs
-prazocillin
+dizatrifone
 ioversol
 Maxair
 mannitol hexanitrate
-cargutocin
+Kytril
 mexoprofen
-sulfaphenazole
+Indimacis-125
 mecloralurea
 Aplisol
 motesanib
-Methestrol
-polybenzarsol
+canertinib
 Suprefact
 molfarnate
 felodipine
@@ -516,13 +524,14 @@ beloxepin
 Maxibolin
 cefmetazole
 CGP 57148B
-Emgel
-troclosene potassium
-Rauval
+etosalamide
+Talohexal
+letosteine
 Neptazane
 spiroplatin
 sulfadiazine sodium
 emylcamate
+Resaid
 ftormetazine
 mepenzolate bromide
 Metheptazine
@@ -530,67 +539,67 @@ Benzoxiquine
 Extra-Strength Aim
 Thyrel TRH
 febuprol
-ditazole
+fernisone
 Clindets
 Benzquercin
 CHG Scrub
 iotetric acid
 chorionic gonadotropin
 pelitrexol
-Tabron
+amlodipine
 silperisone
-mofegiline
-Junel
+Isoptin
+Crinone
 Besulpamide
 ReFacto
 Tymtran
 iliparcil
 enahexal
 Dovonex
-cetotiamine
-Marcaine
+fostamatinib
 cicloheximide
-lercanidipine
+talactoferrin alfa
 fluspirilene
 sulfonterol
 intedanib
 mitosper
 asimadoline
-Brinase
 conorfone
 talotrexin ammonium
+tilisolol
 naxaprostene
 Micort-HC
 Isolyte
 fluvoxamine
-flugestone
+Meticorten
 Therabid
 aminoglutethimide
 cefpimizole
-Duphalac
-azilsartan medoxomil
+Metrizamide
+efungumab
 tasonermin
 tasisulam
 FS Shampoo
 Conray
-ebiratide
+esomeprazole
 difeterol
 tropanserin
 Bephenium hydroxynaphthoate
-compound insulin zinc suspension
+sulfachrysoidine
 agalsidase alfa
-macrosalb (131 I)
+lobuprofen
 Aquacare
 dimethyl fumarate
-Nix
+lidamidine
 anidoxime
 Theobid
 ferrotrenine
 maletamer
+pheniramine
 levoxyl
 toceranib
-Lotrimin Ultra
-tolnidamine
+Cefotan
+Meticortelone
 tralokinumab
 Strifon Forte DSC
 Acyclovir
@@ -598,72 +607,75 @@ Sorbitrate
 E-Solve 2
 Bamate
 Myotonachol
+capromorelin
 Serevent
 butoxylate
 cobamamide
 ethacridine
 Benzacot
-amuvatinib
+Bile-zyme
 cloracetadol
-spirilene
+Remsed
 tizanidine
-Econochlor
+Rotoxamine
 sulisatin
 dehydrocholic acid
-mebutamate
-angiotensin ii
+domperidone
+phenindione
 benazepril
+esoxybutynin chloride
 dimemorfan
 oxiramide
 scopolamine
 femhrt
-Vaprisol
+Besifovir
 tiagabine
 nesertide
+Bentamapimod
 revizinone
 Rotigaptide
 aprikalim
 Beperminogene perplasmid
 flusalan
-pralmorelin
+sonepcizumab
+nihydrazone
 trantelinium bromide
 diazoxide
 abagovomab
+Vermox
 Edecrin
-Lortab
 Tantum
-fenclofos
+tazolol
 estazolam
 elvitegravir
-thiethylperazine
-propetamide
-Travatan
+fluripiridaz (18F)
+propranolol
 Betaxon
 oblimersen
 Cyclogyl
-Korostatin
+Trovan
 Prepidil
-Hydrodiuril
+sibenadet
 Remicade
 Metamelfalan
 Amaryl
 mesulfen
-pralidoxime iodide
-marizomib
+Metoxepin
+xibenolol
 Proben-C
 Banthine
 lisofylline
 ticlatone
 etofenprox
 Rodorubicin
-Fluocet
-noreximide
+Spasmoject
+tioxaprofen
 leconotide
-Methylprednisolone
-decominol
+nicoracetam
+naminterol
 Condyline
 Tempra
-Cerose-DM
+oxiniacic acid
 fenoldopam
 phenoxybenzamine
 Anadrol-50
@@ -679,8 +691,10 @@ fenisorex
 Methyclothiazide
 Chirocaine
 sodium iopodate
-carmantadine
+Lotronex
+Strontium Chloride Sr-89
 Bel-Tabs
+toralizumab
 Betamethasone acibutate
 Soliris
 Biltricide
@@ -692,9 +706,9 @@ proglumide
 tetracycline
 mebolazine
 picobenzide
-cladribine
-Trendar
-eribulin
+tolrestat
+bumetrizole
+palonosetron
 etizolam
 mesterolone
 Riodipine
@@ -704,43 +718,47 @@ miristalkonium chloride
 piridoxilate
 trioxysalen
 cyclobarbital
+Trianal
 Bexophene
 Liquamar
+hopantenic acid
 iobutoic acid
 Rofelodine
 Pediazole
 parapropamol
-tonapofylline
+arcitumomab
+Prelone
 Miostat
-flufenamic acid
 Rociverine
 picloxydine
+darinaparsin
 Flolan
 Aromasin
 Renografin
 isamoxole
-mirisetron
+acetylmethadol
 Crystamine
 Estrasorb
 prodeconium bromide
 amiterol
 Miradon
+Metapramine
 Phenetron
 vesencumab
-Benzethidine
+niridazole
 unoprostone
-Regitine
+Prolixin
 polihexanide
 Cafcit
+Codafed
 Seffin
 celiprolol
-tadocizumab
+Hexa-Betalin
 faralimomab
 Lungaggregate Reagent
 rebamipide
 reproterol
 didanosine
-ularitide
 Cromoptic
 ibalizumab
 heptaminol
@@ -758,34 +776,36 @@ sulfocon B
 nicodicodine
 Tev-Tropin
 racephedrine
-Freamine
-cixutumumab
+quadazocine
+trandolaprilat
 Lipitor
 naglivan
 rescinnamine
-droperidol
+egualen
 lotrafiban
-clopidogrel
+flesinoxan
 anaxirone
-Ketek
+isaxonine
+Besifloxacin hydrochloride
 meclofenamic acid
 ebanicline tosylate
 Megace
 Dyazide
 valopicitabine
-Accuretic
 Synagis
-Beta-Val
+astuprotimut-R
 Ocuflox
 adafenoxate
 azaribine
 alclofenac
-tropapride
-dinsed
+croconazole
+Xeloda
 sargramostim
-nifurpipone
+pexiganan
+Doxil
+Locholest
 palmidrol
-isotretinoin
+Alli
 Corgonject
 veltuzumab
 labetalol
@@ -797,29 +817,31 @@ Omniscan
 Brivudine
 Cis-MDP
 mitolactol
-pheniprazine
+doxifluridine
 clorexolone
 falipamil
+etonogestrel
 Cor-Oticin
 linotroban
 amiloride
-cefteram
+libenzapril
 ferric fructose
 Sterane
 Bromatapp
 mirfentanil
-Abenol
+Betagan
+pleconaril
 tinzaparin sodium
 mefexamide
 Tenoretic
-lisadimate
+nafetolol
 Rose bengal (131 I) sodium
-Metioxate
+nedaplatin
 Ultralente
 Xalatan
 Ronidazole
 Apri
-DHC Plus
+ectylurea
 Brinazarone
 Broxuridine
 Otocort
@@ -846,23 +868,23 @@ inosine
 Bromerguride
 thiazinamium metilsulfate
 capecitabine
-Bevasiranib
+flamenol
 toquizine
-ftorpropazine
+sagandipine
 Ocuclear
 Cycofed Pediatric
 lymecycline
 cyproheptadine
 tosagestin
-nortetrazepam
+tametraline
 fermagate
 fencarbamide
 bufuralol
-Corsym
+Adrucil
 lunacalcipol
 penbutolol
 Cathflo Activase
-oxantel
+biclodil
 vidofludimus
 lodenosine
 drinabant
@@ -873,21 +895,23 @@ ilomastat
 mefenamic acid
 Pantopaque
 cyclexanone
+Corlopam
 Premphase
 Lomanate
+Dolophine
 pivopril
 nifenalol
-sodium sulamyd
+butynamine
 teriparatide
 talopram
-Barobag
+trimecaine
 Lodosyn
-Amosene
+etravirine
 Evex
 flualamide
 Stie-Cort
 iodoxamic acid
-protiofate
+sibrotuzumab
 olpimedone
 carpipramine
 Benmoxin
@@ -896,7 +920,7 @@ nealbarbital
 lonidamine
 Robenidine
 Chloromycetin
-chlormidazole
+Hydrodiuril
 Cloderm
 rasagiline
 Travasol
@@ -904,14 +928,16 @@ Urasal
 thalidomide
 midazogrel
 Preludin
+amisulpride
 Sofra-Tulle
 Bristagen
 trafermin
+pranlukast
 estradiol undecylate
 Ripazepam
 Thypinone
 pipofezine
-carfentanil
+denipride
 Synacort
 hydracarbazine
 neramexane mesylate
@@ -926,17 +952,17 @@ Cholografin Meglumine
 esreboxetine
 spironolactone
 pinoxepin
-Diovan
+Chlorate Oral
 ipsapirone
-tampramine
+Cardem
 telimomab aritox
 lometraline
-ciclazindol
+iminophenimide
 hydroxypethidine
 Relistor
 Hydropane
 indopine
-Loraz
+nafcillin
 ecadotril
 Cotrim
 tendamistat
@@ -953,6 +979,7 @@ ambroxol
 aminocaproic acid
 dimevamide
 perindopril
+Evalose
 Prandase
 Anestacon
 treprostinil
@@ -961,102 +988,108 @@ filaminast
 peradoxime
 sorbinicate
 Acetated Ringer's
+Tornalate
 dacopafant
 nepafenac
 spinosad
 flotrenizine
-ipragratine
-Avandamet
+Codeprex
+flordipine
 Hytone
 Saizen
-Berlafenone
+axitinib
 bolazine
 levometiomeprazine
 Enpresse
 Ritrosulfan
 intermedine
 apixaban
-Doryx
+cetuximab
 Wellbutrin
 Anoquan
 pasireotide
 Lotusate
 picumast
+apadenoson
 cortivazol
 cinolazepam
 usistapide
 ciadox
 timepidium bromide
-Cimehexal
+Panmycin
 oxyphenisatine
 piritramide
+pifarnine
 pinaverium bromide
-Minodyl
+dieldrin
 Naqua
-moexiprilat
+dizocilpine
+Cognex
 dibromsalan
 moxidectin
 mirtazapine
 aliskiren
 Antrenyl
 belinostat
-tacrolimus
+enramycin
 clopenthixol
-cloticasone
+Boniva
 tyrothricin
 Lotrisone
 tomoglumide
-imagabalin
+Humulin
 Vioxx
 Atridox
 Rotraxate
-Nasalcrom
-pifarnine
+Snaplets-EX
+iopamidol
 tropodifene
 Emadine
-sotrastaurin
+Arestin
 elanzepine
 sulfacecole
 lubiprostone
 siponimod
 8-Mop
-Antineaream
+Rusalactide
 securinine
 cefroxadine
 apafant
-acexamic acid
+ocrase
+pegnartograstim
+clogestone
 orotirelin
-lisdexamfetamine dimesylate
+piretanide
 tanexaban
 cloxypendyl
-Hepflush-10
 Triad
 Predsulfair
 BSS Plus
 amcinafide
-Theolate
-3M Avagard
+travoprost
+mespirenone
 tylvalosin
 valtorcitabine dihydrochloride
-perhexiline
+tenilapine
 milacainide
 maraciclatide
 Redisol
 Oruvail
-cetirizine
+bisobrin
 racemorphan
-Carbastat
+saterinone
 lamivudine
 cyanocobalamin (58 Co)
 pentamoxane
-AMPT
+sulfaclomide
 mesulergine
 ranpirnase
+orvepitant
 Profen
 khellin
 decoquinate
 Isoclor
-omonasteine
+macrosalb (99m tc)
 eprotirome
 Mupirocin
 c7E3
@@ -1068,17 +1101,19 @@ asunaprevir
 reviparin sodium
 spiclomazine
 Wolfina
-Azolid
-methaqualone
-capromorelin
+Bel-Phen-Ergot S
+triciribine
+safingol
 Ruvite
 desipramine
 Plasma-Lyte
+Romergoline
 trabedersen
 Naprosyn
 ramucirumab
-CGP-42446
+Nevrin
 Starnoc
+tabalumab
 soquinolol
 efalizumab
 Atozine Oral
@@ -1087,10 +1122,10 @@ tazanolast
 ABLC
 BG 9273
 Ultram
-niometacin
+Dycill
 amifloxacin
 aclantate
-Dolophine
+afovirsen
 ethoxazorutoside
 tifurac
 Carimune
@@ -1109,7 +1144,7 @@ igovomab
 Bromchlorenone
 Neopap
 levosulpiride
-topotecan
+meprobamate
 SSKI
 Penntuss
 patupilone
@@ -1118,9 +1153,9 @@ albendazole oxide
 oxybutynin
 octamoxin
 Nicolar
-Clear Tussin 30
-Nordette
-Bena-D
+sepantronium bromide
+Sparine
+tilomisole
 pumaprazole
 nupafant
 ketobemidone
@@ -1134,21 +1169,22 @@ telotristat
 teserstigmine
 Broncho Saline
 octacaine
-Axid
+flunoprost
+peliglitazar
 indantadol
 cynarine
 azithromycin
-Tiseb
+Ocufen
 Salutensin
 racemetirosine
 dapiclermin
-nilprazole
+Pandel
 dopexamine
 ferric carboxymaltose
 Topicort
 amodiaquine
-nonoxinol
-picartamide
+eldacimibe
+Agenerase
 Novantrone
 Rautensin
 captodiame
@@ -1160,17 +1196,17 @@ miripirium chloride
 octocog alfa
 Chloroptic
 technetium (99mTc) sestamibi
-Hemsol-HC
-indisetron
+Select 1/35
 clofezone
 moxifloxacin
+Hemsol-HC
 etilefrine
 condoliase
 Balazipone
 aprofene
-Rogaine
+Cal-Gest
 indenolol
-Tandearil
+Tronolane
 Vascoray
 migalastat hydrochloride
 teclozan
@@ -1178,18 +1214,20 @@ Chloromag
 altumomab
 Fludara
 saxagliptin
-caramiphen
-cinflumide
+neldazosin
+nifuradene
+Novafed
 Hyperstat
 atovaquone
 paromomycin
 Sureprin 81
-Berubigen
+paracetamol
 Ora-Testryl
-Bextra
-ramoplanin
+Methenamine
+englitazone
 dexelvucitabine
-efrotomycin
+etofenamate
+bucladesine
 iocetamic acid
 trimipramine
 Edex
@@ -1197,11 +1235,10 @@ radavirsen
 Ultane
 Lumigan
 Eryc
-cefotiam
-troglitazone
+talsupram
 Theochron
 calcitonin, salmon
-tobuterol
+tretoquinol
 Dicopac Kit
 ximoprofen
 oxprenolol
@@ -1211,10 +1248,10 @@ Allegra
 cizolirtine
 AK-Dex
 decloxizine
-phenampromide
+Nitro-Dur
 Pepcid
 alprenolol
-Hexal Clofeme
+Donnatal "D" tablets
 Precose
 Hydergine
 Fluoroplex
@@ -1231,24 +1268,25 @@ Mucomyst
 Metacetamol
 AK-T-Caine
 eplerenone
-cyanocobalamin (57 Co)
+nonapyrimine
 thiotepa
 loprazolam
 Bendopa
-Corlopam
+fenamisal
 quisultazine
 mecrilate
 Stilbestrol
-tafoxiparin sodium
+pridinol
 orgotein
-verazide
-AK-Tracin
-visilizumab
+Noroxin
+stacofylline
+azficel-T
 fluprofen
-Betaprone
+insulin lispro
 parconazole
 Spirozide
-Acetasol
+Rogaine
+PMB
 oxanamide
 Polaramine
 evatanepag
@@ -1261,23 +1299,23 @@ Ristianol
 Arfonad
 desoximetasone
 Menrium
-Spectracef
+Metreleptin
 celgosivir
 sudoxicam
 saquinavir
-bumetrizole
 Vanticon
+pentalamide
 pendecamaine
 tetriprofen
-calcipotriene
-sontuzumab
+difetarsone
+Rhogam
 pseudoephedrine
 fenofibrate
 simaldrate
 alfaxalone
 avridine
 lamifiban
-Azasan
+Bellatal
 belarizine
 osmadizone
 alacizumab pegol
@@ -1291,10 +1329,12 @@ sodium diprotrizoate
 cuprimyxin
 Terramycin
 Lodine
+etacepride
 etisomicin
 apramycin
 dimepheptanol
 mitozolomide
+anthiolimine
 fezatione
 temanogrel
 Benzarone
@@ -1304,19 +1344,19 @@ Neoral
 vaniprevir
 remoxipride
 tinofedrine
-Carbocaine with Neo-Cobefrin
+Today
 flutomidate
 Fortovase
 Rescula
-Cerverix
 lanperisone
 Foradil
-Renova
+Duricef
 Delcobese
 dibenzepin
-hydroxyzine
+venritidine
 midodrine
 Antabuse
+cismadinone
 perastine
 sulfarsphenamine
 Span-FF
@@ -1326,6 +1366,7 @@ taspoglutide
 lebrikizumab
 Calan
 pincainide
+Mydriafair
 Wellcovorin
 mitindomide
 Chromalbin
@@ -1333,19 +1374,19 @@ safotibant
 Acticin
 Rescriptor
 carbetapentane tannate
+lemidosul
 mepiroxol
-memantine
+Septisol
 Laniazid
-bemegride
+oxypyrronium bromide
 amantanium bromide
 retelliptine
-dimpylate
+asoprisnil
 perampanel
-Col-Probenecid
+cefoxazole
 Pramosone
 cefquinome
 sotalol
-obatoclax mesylate
 thyrotrophin
 satavaptan
 Twinrix
@@ -1357,12 +1398,12 @@ Bebulin
 Pheny-Pas-Tebamin
 Roxanol
 Tricosal
-iodofiltic acid (123 I)
+abitesartan
 Suppress
 diprobutine
 Rozrolimupab
 eflumast
-Miltown
+Trexall
 amidefrine mesilate
 meglucycline
 emopamil
@@ -1374,7 +1415,7 @@ tigatuzumab
 halopredone
 mofloverine
 tedisamil
-phenytoin
+boldenone
 Neumega
 Nasacort
 suricainide
@@ -1383,32 +1424,35 @@ MPI Krypton 81m Gas Generator
 amustaline dihydrochloride
 selfotel
 vorinostat
-luxabendazole
+tameticillin
 carpindolol
 Placidyl
 voriconazole
 prajmalium bitartrate
 lonafarnib
 Dendrid
-aloxiprin
+medrysone
 Percocet
 quazodine
 minaxolone
 Cloxapen
 penimepicycline
-Norpramin
-neldazosin
+Metalkonium chloride
+Metazamide
+Nasalide
 aclidinium bromide
 silicristin
 Azdone
 mesabolone
-diampromide
+Ser-A-Gen
 valdecoxib
 Cafergot
 ardeparin sodium
 suriclone
 doxaminol
 napamezole
+iralukast
+Batebulast
 isopropamide iodide
 oxycodone
 catramilast
@@ -1419,7 +1463,7 @@ sulmarin
 exenatide
 Travamulsion
 cinoxolone
-Kerledex
+ralitrexed
 Propulsid
 Fluor-Op
 Norpace
@@ -1429,6 +1473,7 @@ Cytomel
 isomethadone
 ioglycamic acid
 nafoxidine
+antelmycin
 tilarginine acetate
 Vospire
 Spectamine
@@ -1439,7 +1484,10 @@ methamphetamine
 visnafylline
 ferric (59 Fe) citrate injection
 amoxicillin
+Comhist
+cinfenoac
 Berupipam
+prucalopride
 oxiglutatione
 carmegliptin
 fanetizole
@@ -1452,28 +1500,29 @@ vedaclidine
 Tenuate
 spirazine
 Epifoam
+levobunolol
 Ancobon
 teverelix
 Orabase HCA
-Tomycine
+nitroxoline
 pirodavir
 pentamidine
 Ucephan
 vinylbital
-azilsartan kamedoxomil
+salazosulfamide
 seganserin
-Betagan
+Biodine
 Renocal
 ozolinone
-Sleepinal
+mirisetron
 Moxam
 Viramune
-hexobarbital
+Abelcet
 Prostaphlin
 tropirine
-xinidamine
+norbudrine
 decitabine
-kebuzone
+Ritodrine
 denileukin diftitox
 pafenolol
 alosetron
@@ -1492,7 +1541,7 @@ Periactin
 tofisopam
 Benzydamine
 becatecarin
-lanoteplase
+valdetamide
 Nubain
 elliptinium acetate
 tecarfarin
@@ -1501,41 +1550,41 @@ Prostep
 Epivir
 citalopram
 edotecarin
-tinoridine
+Kappadione
+Unidet
 Pergonal
-carbazochrome
+Senolax
 alicaforsen
 Viread
 MPI DTPA Kit - Chelate
-Rimadyl
+tolfenamic acid
 tretazicar
 nandrolone
-Somnote
+xaliproden
 Benzocol
 Tilade
 quindoxin
 homopipramol
 Denavir
 butirosin
-terfluranol
+ipragratine
 Estratab
 Rokitamycin
 argiprestocin
-delequamine
-tiliquinatine
+desocriptine
 Diastat
-cefuzonam
+atreleuton
 Errin
 adosopine
 exbivirumab
-Fluotrex
+trilostane
 piclamilast
 isoniazid
-cinepazide
-cinoxopazide
+tioclomarol
+Bronkodyl
 fendosal
 adelmidrol
-Surfak
+dronedarone
 sobuzoxane
 octreotide
 litgenprostucel-L
@@ -1545,18 +1594,21 @@ limaprost
 lombazole
 vetrabutine
 Prilosec
-Ridaforolimus
+Novocain
 Nystop
 amfebutamone
 D.H.E. 45
 enoxolone
 ciprostene
-amiglumide
+padoporfin
 Duoneb
+Riomet
 Chronulac
 melitracen
 Ibu
-tolfenamic acid
+Marcaine
+azacyclonol
+etonam
 benderizine
 Bromadoline
 mexafylline
@@ -1565,40 +1617,40 @@ Scabene
 Bonamine
 Tri-Levlen
 almorexant
+Vigamox
 cloridarol
 ReoPro
 tenonitrozole
-estriol succinate
 Cataflam
-Tarka
+carsatrin
 Bromarest
-levetiracetam
+Cutivate
 tinabinol
-ocrase
+clorindanic acid
 properidine
 cinoxate
 nefazodone
 cefdaloxime
-Beroctocog alfa
+orbifloxacin
 ticarbodine
-tolciclate
+aldesleukin
 sulfanilamide
-Imagent
+aclarubicin
 BO Supprettes
 Citanest
 perbufylline
 pridefine
 nalorphine
 nitromifene
-menitrazepam
+aganodine
 Sabril
 mefloquine
 Aricept
-mopidamol
+probarbital sodium
 Tolu-Sed DM
 3M Cavilon Skin Cleanser
 Patanol
-Comfort Tears Solution
+Frova
 racepinefrine
 denaverine
 Uri-Tet
@@ -1609,13 +1661,12 @@ homidium bromide
 piperoxan
 Tomudex
 meptazinol
-meprobamate
 silmitasertib
-nifurfoline
+artemisinin
 tomoxetine
 dirucotide
 Virilon
-etosalamide
+Emgel
 intetumumab
 noberastine
 Lithium Carbonate
@@ -1624,9 +1675,9 @@ pelitinib
 Pentolair
 pharmaceutical drugs
 Methixene
-azatadine
+Sarisol
 Triderm
-Retrovir
+Naturetin
 liarozole
 Aquamephyton
 Balneol-HC
@@ -1639,9 +1690,11 @@ dexlansoprazole
 Apogen
 Skelex
 tolmesoxide
+Fortamet
 tenamfetamine
+prideperone
 lontucirev
-Hipputope
+doreptide
 fetoxilate
 oxitropium bromide
 Serophene
@@ -1651,8 +1704,9 @@ Promacta
 piclopastine
 Yutopar
 milenperone
+Methotrexate
 caracemide
-Asellacrin 10
+framycetin
 delfantrine
 Virazole
 Antrizine
@@ -1663,15 +1717,16 @@ fasidotril
 fempatch
 nitrofural
 sunepitron
+Rilapladib
 benafentrine
 Innovar
-Proval #3
+israpafant
 milfasartan
 kitasamycin
 hioxifilcon D
 Winstrol
 democonazole
-Taxotere
+carbaldrate
 toripristone
 Candistatin
 Fluidil
@@ -1684,52 +1739,57 @@ quadrosilan
 moxipraquine
 Urese
 Proklar
+Vicoprin
 Chlorofair
 Veriloid
 thiamphenicol
-Ethmozine
+Koglucoid
 fluotracen
 Pravachol
+Mexate
 Diulo
 Lanoxin
 Agrylin
-cefaloram
+stevaladil
 ethyl biscoumacetate
 tecadenoson
 levobetaxolol
 Marplan
 Tazocin
-potassium nitrazepate
-piriprost
+Wydase
+ulipristal
 pimetremide
-fosenazide
+flufosal
 procaine
 maitansine
 ibazocine
 elacridar
-Cicloral
+elziverine
 bunolol
-dulaglutide
+Roflufocon B
 Parahexal
-sodium ascorbate
+celivarone
 Decaderm
 teopranitol
 nexopamil
 carmofur
-Radiogardase
+sirolimus
+5-FU
 Coactin
 merafloxacin
-Vitrase
+thiotetrabarbital
+esorubicin
 Ticar
 dobutamine
 Bravelle
 Tazidime
 Amitid
+Benzbromarone
+Rilozarone
 spirogermanium
 tiludronic acid
-emiglitate
+lemildipine
 Tri-Vi-Sol
-oxonazine
 Iodotope
 Batilol
 flumetramide
@@ -1743,9 +1803,9 @@ Adenoscan
 epitumomab cituxetan
 Cipralan
 fenethazine
-ambenoxan
+eslicarbazepine
 nicardipine
-Akineton
+Teargen
 Clocort Maximum Strength
 Choledyl
 thyropropic acid
@@ -1754,7 +1814,7 @@ flutroline
 peforelin
 indomethacin
 sulfafurazole
-polysorbate 81
+dimazole
 Aldactazide
 Rontalizumab
 Bronkaid Mist
@@ -1762,39 +1822,40 @@ teroxalene
 trepipam
 Benrixate
 bithionol
-sulfametrole
+Limbitrol
 Valisone
 Theo-X
+tapentadol
 Bethanechol
 ceftazidime
-Copaxone
+Triacet
 vinflunine ditartrate
-becaplermin
-atilmotin
+Crotan
+Ultraquin
 Botox
-Uni-Fed
+Valcyte
 tonzonium bromide
 Vivitrex
 Antizol
 sarmoxicillin
 Mysoline
 avoparcin
-locicortolone dicibate
+arsanilic acid
 Vansil
 davunetide
 Serpate
-levo-Dromoran
+afacifenacine
 difemetorex
-Vi-Twel
-Flumadine
+tiropramide
+Brinase
 alonimid
 amfenac
 Baby Gasz
 Ascriptin
 danaparoid sodium
-Rebetol
+MDP-Bracco
 etazepine
-Doca
+sevitropium mesilate
 Sal-Acid
 aprotinin
 Azactam
@@ -1802,50 +1863,53 @@ diproxadol
 lucanthone
 Antagonate
 Tycolet
-indeglitazar
+orestrate
 Romiplostim
 Bonefos
 filenadol
 sutezolid
 azipramine
 lorajmine
+anazolene sodium
+ketocaine
 Paser
 Progestasert
 cefazedone
 sotirimod
 sulfadicramide
-Ovulen
+levopropylhexedrine
 duometacin
 ofatumumab
-AK-Zol
+Clavulin
 Benzashave
+apalcillin
 nitrosulfathiazole
 oxiconazole
 teclothiazide
 recoflavone
 porfiromycin
 serine
-Chloroserpine
+feldene
 Utradol
 medorubicin
 sparteine
 menabitan
 cafedrine
 pimeclone
-aceclidine
+tridecatide
 floverine
 Atolone Oral
 domipizone
-butaclamol
+adomiparin
 velusetrag
-Rimactane
 hexapropymate
 Betnesol
 Cefanex
 isothipendyl
+morclofone
 piromidic acid
 carsalam
-lanepitant
+fezakinumab
 ivarimod
 Arrestin
 exifone
@@ -1855,61 +1919,62 @@ aminoacridine
 doqualast
 Repan
 Pentacef
-pinadoline
+abacavir
 nimazone
 maroxepin
 Accure
 fosinoprilat
 polysorbate 65
-tenilapine
-bemetizide
+acetergamine
+pirsidomine
 Finacea
 cinepaxadil
 demecarium bromide
-tilisolol
+oglufanide disodium
 parapenzolate bromide
 isofezolac
 Ophthaine
 onaclostox
-oxindanac
 Trelstar
 desglugastrin
 Thiamilate
 Technetium (99mTc) votumumab
 oxilofrine
-icatibant
+Rucaparib
 xamoterol
 cefbuperazone
 imidaprilat
 etasuline
 saletamide
 Triavil
-Pindac
+cefatrizine
 octanoic acid
 adalimumab
 almecillin
 ethynerone
 aldosterone
+bederocin
 quinacainol
 levomoprolol
+cinepazide
 prenisteine
 Darvocet
 Camptosar
 nimesulide
 taniplon
-RS-25259
+elantrine
 remiprostol
 regramostim
-ciclopirox
+normorphine
 indalpine
-Fortaz
+almagate
 Brometenamine
 butoprozine
 Plendil
 amphotalide
 caldiamide
 imecasermin
-Vivactil
+Brosuximide
 Rauvolfia serpentina
 nictiazem
 teroxirone
@@ -1919,24 +1984,23 @@ CeeBU
 nikethamide
 Climara
 Albalon
-Metrizamide
+Duphalac
 C-Gram
+Plegine
 manozodil
 prezatide copper acetate
 PsoriGel
 butanserin
 papaveroline
 Hydro-Ride
-Rociclovir
-Alphagan
 laurolinium acetate
 buserelin
 dimetholizine
-fluripiridaz (18F)
+propetamide
 noxiptiline
-Cylex
 Dizac
 Bromazine
+mildronate
 pipratecol
 butamisole
 prizidilol
@@ -1950,10 +2014,10 @@ bencisteine
 acitemate
 Cal-G
 lotifazole
-Hexa-Betalin
+Metaterol
 Lonox
 flovagatran
-dirlotapide
+sufotidine
 Metaglycodol
 nilvadipine
 ibuverine
@@ -1961,7 +2025,7 @@ teloxantrone
 orciprenaline
 dexsotalol
 felipyrine
-clemeprol
+bixalomer
 Tindamax
 oxitefonium bromide
 naproxen
@@ -1980,7 +2044,7 @@ cilengitide
 clofedanol
 panadiplon
 Delalutin
-amisulpride
+streptomycin
 Akrinol
 nifurzide
 clorindanol
@@ -1988,10 +2052,11 @@ Melfiat
 Ismo
 Darunavir
 Bentiamine
+Mircette
 Claravis
 danoprevir
 Elixomin
-almagate
+inocoterone
 Mevacor
 Cardizem
 butikacin
@@ -2000,13 +2065,13 @@ intoplicine
 capeserod
 tizoprolic acid
 belaperidone
-Tagamet
+Quibron-T
 cefcapene
 peraquinsin
-Mircette
+Metrogel
 butalamine
 chloropyrilene
-toralizumab
+iohexol
 lometrexol
 oxolamine
 maridomycin
@@ -2016,7 +2081,7 @@ Metesculetol
 paraxazone
 proguanil
 Ceftin
-Mycograb
+mycophenolic acid
 Esimil
 Prosom
 corticorelin
@@ -2032,11 +2097,11 @@ timolol
 Rhinalar
 amitriptyline
 isobromindione
-Norlestrin
+stibosamine
 carbocisteine
 proheptazine
 Exelon
-pridinol
+Imitrex
 Centrax
 Mycelex
 urelumab
@@ -2045,11 +2110,14 @@ Sulfose
 triclabendazole
 nifurmazole
 acotiamide
+Baciguent
 dribendazole
 Methylcellulose
 detomidine
 nartograstim
+nosantine
 moclobemide
+Kariva
 Roxindole
 Metiapine
 dihydrocodeine
@@ -2067,6 +2135,7 @@ dimetacrine
 tesicam
 saruplase
 azanidazole
+cipropride
 triclazate
 flurotyl
 amobarbital
@@ -2074,7 +2143,8 @@ Ropidoxuridine
 hydroxyprogesterone
 Cerezyme
 Chloromyxin
-xylamidine tosilate
+quinapril
+azelaic acid
 avilamycin
 Bromociclen
 clocanfamide
@@ -2082,6 +2152,7 @@ serfibrate
 vintiamol
 viroxime
 carbocromen
+norepinephrine
 C8-CCK
 phenylalanine
 Chlo-Amine Oral
@@ -2089,7 +2160,7 @@ Clearsil Maximum Strength
 sodium iodide (125 I)
 SalineX
 ostreogrycin
-probarbital sodium
+idoxuridine
 atibeprone
 chymopapain
 Sulphrin
@@ -2098,52 +2169,53 @@ Vertavis
 sulfamerazine
 oxaceprol
 octoxinol
-prideperone
+Copegus
 etofibrate
-A-Hydrocort
+Prandin
 cyprenorphine
-Rilapladib
-israpafant
+Humorsol
+Proval #3
+chloropyramine
 Nuvaring
 flumoxonide
-cinanserin
+Amidate
 Mitozytrex
 Myphetane
+Dicurin Procaine
 Aceon
-tosufloxacin
+pentizidone
+hemoglobin raffimer
 lactuca virosa
-sirolimus
+Radiogardase
 arfalasin
 nifurthiazole
+letrazuril
 Charcoaid
 Myfed
-Codeprex
+Biobase
 Theo-Organidin
-pirsidomine
 promethazine teoclate
 anisopirol
 modaline
 dexamethasone acefurate
 Testim
-apolizumab
+Rebetol
 deramciclane
-ciclafrine
-ketocaine
+flavoxate
 lazabemide
 Forane
 atenolol
 saperconazole
-feldene
+efetozole
 simenepag
 penprostene
 Rexomun
+camostat
 Roxilox
-neutramycin
 ursodeoxycholic acid
 altizide
 Ropinirole
 urokinase alfa
-Recombivax HB
 Vaniqa
 erythromycin stinoprate
 S.A.S.-500
@@ -2156,7 +2228,7 @@ Serpasil
 viminol
 esproquine
 teprotumumab
-sufotidine
+dirlotapide
 Sotradecol
 Sensipar
 evandamine
@@ -2165,15 +2237,16 @@ lexofenac
 Endosol Extra
 pirazmonam
 trenizine
-hemoglobin raffimer
 paxamate
 renanolone
+colextran
 buprenorphine
 amfepramone
 emitefur
 Dilatrate-SR
 Prozac
 Alphanate
+flutrimazole
 mezilamine
 Baricon
 Kemadrin
@@ -2182,7 +2255,7 @@ budotitane
 Castellani paint
 Trocaine
 Elixicon
-quinapril
+xylamidine tosilate
 agalsidase beta
 promolate
 tropigline
@@ -2192,35 +2265,35 @@ lersivirine
 lorcaserin
 Probalan
 embusartan
-sipoglitazar
+ranimycin
 Dextrostat
 bunitrolol
 cyclomethycaine
 alphafilcon A
-Beconase
+Basifungin
 histrelin
 Predamide
 Azo Gantrisin
 mesuprine
-Ultravate
+Trisoralen
 ramifenazone
 salcolex
-Physiolyte
+adinazolam
 Antivert
 pribecaine
 digoxin
 milnacipran
-Novrad
+Jeanatope
 tibric acid
 dodeclonium bromide
-aminoquinuride
+pipobroman
 itrocainide
 daclizumab
 menoctone
 nepadutant
 euprocin
 Covera-HS
-lumiracoxib
+Rubitecan
 ubenimex
 haloxon
 troleandomycin
@@ -2229,7 +2302,7 @@ amfonelic acid
 Inderide
 5-FC
 Cephadyn
-Fansidar
+cefsulodin
 suleparoid sodium
 Apidra
 Rev-Eyes
@@ -2240,12 +2313,12 @@ Methyltestosterone
 sulforidazine
 imipramine
 Lotemax
-calcitonin, bovine
-midamaline
+dibekacin
+Avalide
 Mucosil
-noracymethadol
+ortetamine
 medazepam
-Jeanatope
+Novrad
 imipraminoxide
 Aminosol
 tiapamil
@@ -2258,34 +2331,33 @@ Mepro-Aspirin
 Bremazocine
 Ophthochlor
 atagabalin
-Osmitrol
-modithromycin
+Eldepryl
+cefmenoxime
 corticotropin zinc hydroxide
 dimenoxadol
 Tatum-T
 naphazoline
 Betapen-VK
-cetrimonium bromide
+dametralast
 Actagen-C
 lasmiditan
-Nitro-Dur
-losigamone
+Brovanexine
 voglibose
 Benoject
-candesartan
+pareptide
 tisopurine
-Beperidium iodide
+priliximab
 Tacaryl
 Premasol
 cyclandelate
 monoethanolamine oleate
 clodronate disodium
-Sudafed 12 Hour
+beclotiamine
 Elase-Chloromycetin
 mesna
 cyclopregnol
-oxfenicine
 domoprednate
+conessine
 minodronic acid
 prednisolone steaglate
 tematropium metilsulfate
@@ -2293,11 +2365,10 @@ Indocin
 Betoxycaine
 Fluothane
 Omnicef
-Supartz
-oxendolone
+stearylsulfamide
 sugammadex
 propyl docetrizoate
-etonogestrel
+ecabapide
 cabiotraxetan
 Dilantin
 lenefilcon A
@@ -2306,35 +2377,36 @@ Remodulin
 fenoverine
 polysorbate 1
 dalotuzumab
-Rupatadine
+Wyamycin
 Albamycin
-ciclesonide
+norletimol
 Rufloxacin
 nibroxane
 Roxifiban
 clazuril
-Vitaped
+cicrotoic acid
 esaprazole
 amadinone
 bumecaine
 Unisom
 sufentanil
 Romycin
+Carmol HC
 Iosat
 Normozide
+Avitene
 edetic acid
 polyetadene
 indatraline
-azaftozine
+cebaracetam
 impacarzine
-inolimomab
+ibufenac
 vincristine
-clofarabine
+cetocycline
 Meclan
-Roflufocon C
-Methyprylon
+Oramorph SR
 velaresol
-Rifabutin
+simetride
 T-diet
 mizolastine
 Orgatrax
@@ -2344,7 +2416,7 @@ eritrityl tetranitrate
 Xeneisol
 Inocor
 fluocortolone
-CortaGel
+bietaserpine
 acamprosate
 Orap
 tifemoxone
@@ -2352,7 +2424,7 @@ piprinhydrinate
 Staticin
 omecamtiv mecarbil
 sulfacetamide
-fluoresone
+nelfinavir
 iomeglamic acid
 ibipinabant
 Permitil
@@ -2362,14 +2434,15 @@ Rythmol
 idazoxan
 milodistim
 netoglitazone
+Barnidipine
 Amvisc
-indium (111In) altumomab pentetate
+tacedinaline
 Invagesic
 Pre-Op
 drozitumab
 Avapro
 Avodart
-triclofylline
+Soy-Dome
 itazigrel
 clobazam
 atecegatran
@@ -2377,10 +2450,10 @@ Salivart
 ergotamine
 somidobove
 dextriferron
-cefsulodin
+Fansidar
 demiditraz
 Orphengesic
-Metrolotion
+pibaxizine
 bornaprine
 alizapride
 apovincamine
@@ -2389,9 +2462,9 @@ Bromphen
 Cardiolite
 Benzestrol
 ethosuximide
-BayGam
+Ruplizumab
 sulfathiourea
-imisopasem manganese
+chlormezanone
 FibriScint
 Janimine
 Panixine Disperdose
@@ -2399,7 +2472,7 @@ docusate sodium
 levoprotiline
 nicofurate
 isaglidole
-Phrenilin
+fenalcomine
 Decapryn
 tripelennamine
 dagapamil
@@ -2409,21 +2482,23 @@ Ceradon
 Metethoheptazine
 Durabolin
 Suprane
-Primaxin
+climbazole
+isepamicin
 Baci-Rx
 phthalylsulfamethizole
 Sulfatrim
 flutamide
 serelaxin
 pirozadil
-Avitene
+Arimidex
 Theracim
 clonazepam
 lodiperone
 dinoprost
-Xolair
+lesopitron
 trihexyphenidyl
-dibekacin
+Beconase
+calcitonin, bovine
 trimetrexate
 Cetacort
 Permapen
@@ -2431,32 +2506,29 @@ nilestriol
 conivaptan
 capadenoson
 floctafenine
-isoaminile
 cilostamide
 Esterified Estrogens
 custirsen
-Avalide
+midamaline
 Bensulfoid
 fenticonazole
 floredil
 fazarabine
-kalafungin
+Carnation Instant Breakfast
 dyclonine
-Nitropress
 insulin aspart
 aminopterin sodium
-suxibuzone
+Vagilia
 ibopamine
-anthiolimine
-morantel
-asoprisnil
+sucrosofate
+epoetin iota
+disopyramide
 dexproxibutene
-Cl-719
 iprazochrome
 prazosin
-lefradafiban
+Demulen
 maropitant citrate
-ortetamine
+noracymethadol
 Buspar
 dexecadotril
 tazofelone
@@ -2468,12 +2540,12 @@ itraconazole
 buquineran
 naratriptan
 tasocitinib
-lidocaine
+pranolium chloride
 megalomicin
-Auralgan
+tiquinamide
 IFEX
 belatacept
-ampyrimine
+Aleve
 Crysti 1000
 caroverine
 levocarnitine
@@ -2488,29 +2560,31 @@ terofenamate
 praxadine
 Ruvazone
 Supeudol
-Ventolin
+taprostene
 Cortimyxin
 duvoglustat
 incyclinide
 meralein sodium
 cianidanol
 pazoxide
+tafoxiparin sodium
 dipipanone
-Alertec
+diclazuril
 Bentyl
 mebezonium iodide
 cloranolol
-Suplasyn
+butorphanol
 etodolac
 parethoxycaine
-Novothyrox
+Logen
 halothane
 tixadil
+Prempro
 feminone
 obidoxime chloride
 dimabefylline
 Tepanil
-Modicon
+Florone
 Sulfacel-15
 Daricon
 estrapronicate
@@ -2519,6 +2593,7 @@ plaunotol
 phenobarbital sodium
 latrepirdine
 Hexal PI Antiseptic Ointment
+halazepam
 Metkefamide
 Tranxene
 bicozamycin
@@ -2534,14 +2609,14 @@ acreozast
 pipamperone
 Wigrettes
 Rocastine
-Eldepryl
+sulicrinat
 Mentax
 loflucarban
-cefmenoxime
+modithromycin
 tefibazumab
 flibanserin
 Vagitrol
-didrovaltrate
+Stimate
 Hiwolfia
 Uromitexan
 nitrodan
@@ -2549,7 +2624,7 @@ profenamine
 Protropin
 angiotensinamide
 pheneturide
-tribromsalan
+sulfabenzamide
 Loprox
 protizinic acid
 afimoxifene
@@ -2560,22 +2635,22 @@ Rismorelin
 tofenacin
 oxetacillin
 Semprex-D
-ellagic acid
+thymopentin
 Benoxaprofen
 Metiamide
 edetol
 Cholebrine
-clevidipine
+diiodohydroxyquinoline
 lexacalcitol
-Benzbromarone
+Ovide
 ampyzine
-cartazolate
+Urovist
 Depinar
 bolasterone
 oxalinast
 Bal
 Di-Atro
-menglytate
+Aviane
 Barosperse
 Cap-Profen
 amesergide
@@ -2587,24 +2662,24 @@ dibuprol
 edotreotide
 quinbolone
 pipemidic acid
-pregnenolone
+Veltane
 pentacynium chloride
 sodium hexacyclonate
 ibuterol
+Tagamet
 turoctocog alfa
 Rolicyprine
 divabuterol
 mabuprofen
 amsilarotene
-pumitepa
+fonturacetam
 phoxim
 hydrocortisone aceponate
-filibuvir
-nonathymulin
+tracazolate
+fenprinast
 Xyrem
-Brovanexine
+losigamone
 razobazam
-triciribine
 tianafac
 sultroponium
 epelestat
@@ -2617,13 +2692,12 @@ Neo Tect Kit
 Baciim
 Enjuvia
 diminazene
-Norgesic
-estrofurate
-pheniramine
+quifenadine
+candesartan
 pizotifen
-semparatide
-LeukoScan
-tonazocine
+plinabulin
+thiamazole
+clazolimine
 cenicriviroc
 Vaponefrin
 norgesterone
@@ -2632,15 +2706,18 @@ chloralodol
 Daunoxome
 Xigris
 Rhulicaine
-pepstatin
+Macrodantin
 Biomox
-priliximab
+chromocarb
+eclazolast
 fenocinol
 tefinostat
 azamulin
 Chlorofon-A Tablet
+milatuzumab
 A/T/S
 Rifampin
+minoxidil
 alprostadil
 emepronium bromide
 propafenone
@@ -2655,35 +2732,32 @@ peginterferon alfa-2a
 Chloroptic-P S.O.P.
 amrubicin
 naftoxate
-alloclamide
 Semilente
 Benzilonium bromide
 clometerone
 oregovomab
-canagliflozin
+Urologic
 talinolol
-diethadione
 idrocilamide
 esmirtazapine
-linopirdine
-amicibone
+hydromadinone
 neutral insulin injection
 tebipenem
 cresotamide
 cefcanel daloxate
 Penapar-VK
-tilorone
+fenretinide
 tiaramide
-tricyclamol chloride
-mevastatin
+Aquatag
+adozelesin
 tropenziline bromide
 Doral
 carubicin
 Anthranol
-suritozole
-Multifuge
+Relafen
+AK-Pentolate
 flucetorex
-hydroxyprogesterone caproate
+Corticaine
 etamivan
 pipoctanone
 lofemizole
@@ -2697,34 +2771,35 @@ Betaseron
 ocriplasmin
 Optomycin
 cefetrizole
-Rhodacine
+propicillin
 fosquidone
 Aerosporin
-quinetalate
-hopantenic acid
-prozapine
-etacepride
+Metamfetamine
+acequinoline
+lovastatin
+Tetramune
 Isuprel
 liatermin
 triflupromazine
 sitogluside
-Allay
+Ritolukast
 quitiapine
 mesuximide
-Tebamide
-targinine
+clenoliximab
+timefurone
 bucricaine
 Phenytek
-Micrainin
-Rauverid
-lecozotan
+Proketazine
+prodilidine
+phenyracillin
 amatuximab
-montelukast
-Stromectol
+Urised
+Nizoral
 treosulfan
 ivacaftor
 Theolair
 lonaprisan
+poldine metilsulfate
 Bioscrub
 Paxil
 deslorelin
@@ -2732,18 +2807,19 @@ parcetasal
 enoxacin
 onsifocon A
 cicloxilic acid
-vepalimomab
+butofilolol
 Rymed
 pengitoxin
+ethotoin
+Cimehexal
 relacatib
 tinazoline
-davalintide
 sofinicline
-moctamide
+calcitonin, rat
 regadenoson
 oxamarin
 fontolizumab
-Metochalcone
+viomycin
 Vivitrol
 cadexomer
 Lithane
@@ -2753,9 +2829,8 @@ etofamide
 Bumex
 calcitonin, chicken
 Citrihexal
-stearylsulfamide
-isoleucine
-valnoctamide
+probucol
+spiramycin
 estrazinol
 butocrolol
 febuverine
@@ -2763,16 +2838,16 @@ fodipir
 narlaprevir
 icopezil
 elsibucol
-Calbon
+auranofin
 exalamide
 tolazamide
-flutemazepam
-dexfosfoserine
+sifalimumab
+Tiamate
 talsaclidine
 cericlamine
 Betaxolol
 xinomiline
-prucalopride
+Tisit
 Bronitin Mist
 epoprostenol
 Cena-K
@@ -2785,8 +2860,8 @@ Teslac
 suprofen
 sodium aurothiomalate
 calcium glucoheptonate
-Cebid
-sonepcizumab
+Parnate
+Broparestrol
 linarotene
 quinfamide
 levora
@@ -2805,10 +2880,11 @@ carbantel
 sorbinil
 phytonadiol sodium diphosphate
 Barixibat
-morocromen
+etazolate
+Retavase
+Besunide
 Coly-Mycin S
 Synthroid
-xenipentone
 flavodic acid
 imepitoin
 Huntexil
@@ -2818,12 +2894,12 @@ Urecholine
 Primsol
 Sab-Prenase
 Cresylate
-Metofoline
-tocofibrate
+nuclomedone
+Slo-Niacin
 Duraclon
 sulazuril
 itrocinonide
-Bevonium metilsulfate bolenol
+flumecinol
 Metaxalone
 quatacaine
 ilatreotide
@@ -2831,7 +2907,7 @@ eltrombopag olamine
 Haldrone
 tipropidil
 292 MEP
-propranolol
+relomycin
 piquindone
 Quinamm
 regorafenib
@@ -2843,25 +2919,24 @@ sulodexide
 delamanid
 oxeladin
 norethandrolone
-danofloxacin
+protirelin
 Alamast
 fluindione
 Varivax
 pulmonol
 iseganan
 Estradiol
-ilonidap
+talampicillin
 amcinonide
-dexniguldipine
+buphenine
 idoxifene
 Hylorel
-vanutide cridificar
 topiramate
 ladostigil
 dobupride
-fomocaine
+nadroparin calcium
 Combivir
-Bromaline Elixir
+Trilyte
 Lithostat
 mavacoxib
 beclamide
@@ -2880,27 +2955,27 @@ T-Phyl
 Thiosulfil
 Uni-Dur
 mapinastine
-cotriptyline
+Biopatch
 axamozide
 oxprenoate potassium
 eprinomectin
 tipelukast
 tucotuzumab celmoleukin
 sopitazine
-ciglitazone
-Actiq
+Sulfacet-R
+BioCox
+Brodalumab
 ditolamide
 solifenacin succinate
 doxepin
-Nutropin
-Elitek
+Ophthetic
 iopydone
 Aeroseb-Dex
 colfosceril palmitate
 dioxybenzone
-cicrotoic acid
+Vitaped
 Azmacort
-halazone
+Sulfaloid
 Desyrel
 Quaalude
 cloquinozine
@@ -2909,7 +2984,6 @@ Donnatal Elixir
 eptifibatide
 Claripel
 hydroxindasate
-cinchophen
 Bamnidazole
 quintiofos
 droloxifene
@@ -2923,30 +2997,31 @@ suxemerid
 hydroxytetracaine
 iturelix
 ipramidil
+chlordiazepoxide
 Besipirdine
 trichlormethine
 Ultramop
-vistatolon
+diaplasinin
 Mefoxin
 polacrilin
 tiflucarbine
 butamirate
 interferon alfa
-apilimod
+Epitol
 darglitazone
 Endrate
 torezolid
 arofylline
-penoctonium bromide
+bosentan
 promegestone
 Vistaril
 azabuperone
-Betameprodine
+Maolate
 Adsorbonac
 umeclidinium bromide
 tofogliflozin
 Burn-O-Jel
-Westcort
+Anspor
 Otobione
 teneliximab
 altrenogest
@@ -2954,13 +3029,12 @@ Acys-5
 Equipin
 estrone
 Theraloc
-Metaglip
-Anthraforte
-oxcarbazepine
+Tavist
+sparsomycin
 cibenzoline
-Prednicen-M
+nadoxolol
 Caduet
-ethyl carfluzepate
+Biozyme-C
 Rivenprost
 tiplimotide
 flerobuterol
@@ -2968,22 +3042,22 @@ tiprenolol
 edoxudine
 meclozine
 Atapryl
-Kariva
+pararosaniline embonate
 fendiline
 terciprazine
 Sulfair
-aprinocarsen
+Rivasol
 BSS
 terizidone
 Metyrapone
 pridopidine
-phenylmercuric borate
-Microlite
-Kainair
+tridihexethyl iodide
+sulfaclozine
+polynoxylin
 propinetidine
 Tearisol
 cilutazoline
-cebaracetam
+azaftozine
 Microzide
 alacepril
 repaglinide
@@ -2991,15 +3065,14 @@ leminoprazole
 succinobucol
 Bonine
 felbamate
-entinostat
+inolimomab
 nafcaproic acid
 etamiphylline
-vigabatrin
-Droxia
+cefoperazone
+litronesib
 pegacaristim
-alonacic
+fenoxazoline
 upamostat
-tiemonium iodide
 chymotrypsin
 Slim-Mint
 iproheptine
@@ -3008,42 +3081,45 @@ mifentidine
 canrenoic acid
 Metacycline
 Noludar
-cilastatin
+Tylenol
 proadifen
 sulfaquinoxaline
 levoprome
 levomenol
-delavirdine
+temefos
 tifuvirtide
 apratastat
+Polocaine
 Desferal
 Ribavirin
 pirnabin
 clomegestone
 Triphasil
-carbamazepine
+candoxatrilat
 bivalirudin
 polidronium chloride
+Roflufocon C
 Paredrine
 Univol
-onabotulinumtoxinA
+elgodipine
 cyclopentamine
 Vivelle
-Venofer
+oxazafone
 perfluamine
 cantuzumab ravtansine
 Celluvisc
 etiprednol dicloacetate
-Truphylline
+Sotret
 chlordimorine
 amiprilose
-Prelone
+carbachol
 Kaon Cl
 Definity
 Chorex
-simetride
-Soyacal
-K-Dur
+Rifabutin
+Symbyax
+ciclosidomine
+lacidipine
 mecetronium etilsulfate
 phendimetrazine
 trecovirsen
@@ -3060,33 +3136,33 @@ epicainide
 veralipride
 tenegliptin
 Medihaler-Epi
+colterol
 hepzidine
 mifamurtide
 tisocromide
 acrocinonide
 Ergostat
-Codafed
+ActHIB
 Ortho-Novum
 modecainide
 Pfizer-E
-tolgabide
+hachimycin
 Matulane
 doxpicomine
-pegdinetanib
-Angio-Conray
+fencamfamin
+murocainide
 K-Tab
-bucrilate
 Promethacon
 nabazenil
-dizatrifone
+prazocillin
 tiadenol
 Fiorinal
 mikamycin
 Diprosone
 Serdaxin
 Trilitron
-TheraCys
-Metalkonium chloride
+Voltaren
+velneperit
 oxytetracycline
 elacytarabine
 Pro-Banthine
@@ -3094,32 +3170,32 @@ idralfidine
 chlorambucil
 tolperisone
 Mohexal
-bietaserpine
-secretin
+epirizole
+tiflamizole
 flufylline
-vinpocetine
+Ristocetin
+camylofin
 isosorbide dinitrate
 icodextin
-Bemitradine
+Metampicillin
 flumezapine
 dalbraminol
 veliparib
 Vercyte
 ciproximide
 doconazole
-droxidopa
 Batabulin
 cinepazet
 Tri-Luma
-polysorbate 60
+Halflytely
 suxethonium chloride
 Sandomigran
 Proamatine
 oxapium iodide
 colestipol
 Temodar
-Nutrilipid
-otenzepad
+Dionosil Aqueous
+siccanin
 lactalfate
 bendazol
 butopiprine
@@ -3128,7 +3204,7 @@ Tolinase
 tofacitinib
 tipetropium bromide
 ARA-C
-canertinib
+Methestrol
 Surital
 droclidinium bromide
 fluprofylline
@@ -3137,11 +3213,12 @@ Sandril
 demeclocycline
 razinodil
 citatuzumab bogatox
+hexobarbital
 aplaviroc
 sameridine
 Aquazide H
 Contac 12 Hour
-Ponstel
+bialamicol
 sorbitan laurate
 Codamine
 etomidate
@@ -3149,22 +3226,22 @@ cioteronel
 pirprofen
 piracetam
 persilic acid
-Resaid
+flumizole
 Roxibolone
 Methoxyphenamine
 Profloxin
 sinapultide
-leuprorelin
+Metubine Iodide
 Accuzyme
 clopirac
 Congest
 Myidyl
 iodothiouracil
+monometacrine
 Omnitarg
 dimethylthiambutene
-aclarubicin
-nuclotixene
-nelfinavir
+azlocillin
+fluoresone
 Brasofensine
 nicergoline
 cloxestradiol
@@ -3173,9 +3250,8 @@ elucaine
 acolbifene
 clemastine
 norvinisterone
-quinacillin
 liranaftate
-menogaril
+axomadol
 Banophen
 Alu-Tab
 diprogulic acid
@@ -3191,7 +3267,7 @@ tranexamic acid
 Terazol
 tarenflurbil
 nicafenine
-ertapenem sodium
+lexxel
 Lariam
 cefaloglycin
 proxyphylline
@@ -3200,7 +3276,7 @@ proflazepam
 nomelidine
 Metetoin
 Paradione
-cobiprostone
+lonapalene
 Pregnyl
 clodanolene
 Dexferrum
@@ -3219,7 +3295,7 @@ butetamate
 radafaxine
 Staphcillin
 Lotrimin
-nifuraldezone
+nafazatrom
 Pilopine HS
 Lyrica
 fispemifene
@@ -3228,7 +3304,7 @@ cyclophosphamide
 cloretate
 pagibaximab
 imidocarb
-Oxandrin
+Benzoclidine
 cycliramine
 tizolemide
 sertaconazole
@@ -3238,9 +3314,9 @@ alfuzosin
 lofepramine
 Vidaza
 ternidazole
+megestrol
 rafoxanide
-acetergamine
-mibolerone
+milrinone
 sivifene
 Roflufocon A
 lente
@@ -3248,6 +3324,7 @@ Diabinese
 inaperisone
 mazindol
 Lignospan
+Miochol
 mezepine
 oxitriptan
 Diprivan
@@ -3265,25 +3342,24 @@ enilospirone
 Dow-Isoniazid
 Ritropirronium bromide
 BayTet
-pentizidone
+merbromin
 cogazocine
 Methocarbamol
 Periostat
-cinoxacin
+Ritonavir
 domoxin
 Loxitane
-Soy-Dome
+triclofylline
 vernakalant
 dopamantine
 cloxacepride
 meribendan
-<span class="mw-cite-backlink<b><a href="#cite_ref-1^
+<span class="mw-cite-backlink"><b><a href="#cite_ref-1">^
 prospidium chloride
 Norvasc
 Dromostanolone
 Avage
 detanosal
-Brosuximide
 Amphicol
 estramustine
 Betaderm
@@ -3293,18 +3369,17 @@ pegsitacase
 indriline
 cicarperone
 tetraxetan
-bialamicol
+Carboptic
 Duo-Medihaler
 Wigraine
-levo-T
+Mykacet
 Chlorafed Liquid
-cimoxatone
-fernisone
+nogalamycin
+ditazole
 Benzedrex
 Virac Rex
 Tz-3
 nimetazepam
-drazidox
 spirapril
 nesapidil
 acetiamine
@@ -3318,6 +3393,7 @@ Trofan
 disitertide
 meluadrine
 acridorex
+mopidamol
 Hexascrub
 Locorten
 terflavoxate
@@ -3330,10 +3406,10 @@ clobenztropine
 landiolol
 afurolol
 amotosalen hydrochloride
-pibaxizine
+Metrolotion
 deriglidole
-Regular Iletin
-cetofenicol
+chloroserpidine
+tidiacic
 tribenoside
 amidantel
 levosimendan
@@ -3353,7 +3429,7 @@ azelastine
 losulazine
 Bazedoxifene
 Novolog
-amlodipine
+Tabron
 alfimeprase
 hexocyclium metilsulfate
 acefurtiamine
@@ -3368,10 +3444,11 @@ pentostatin
 Bavisant
 moxonidine
 flucloxacillin
-pimilprost
-Crinone
+mofegiline
+sodium ferric gluconate complex
+Thermazene
 indolidan
-Estrogenic Substance
+pheniodol sodium
 agomelatine
 tazeprofen
 orazamide
@@ -3380,18 +3457,19 @@ atromepine
 Vistide
 atiprosin
 paricalcitol
-Ruplizumab
+BayGam
 Prevalite
-Benzylsulfamide
+hetaflur
 domazoline
 imipenem
-deprostil
+fadrozole
 Betapar
+Fovane
 pyrithyldione
+cocarboxylase
 vatalanib
 recainam
 remimazolam
-peplomycin
 3TC
 nonacog alfa
 Verdeso
@@ -3400,28 +3478,29 @@ Ultracef
 Wytensin
 salantel
 tienocarbine
-bendroflumethiazide
+isradipine
 tiopronin
 eptaloprost
 tilmicosin
 Thalomid
 sulofenur
 tiquizium bromide
-Cuprimine
+etryptamine
 pivenfrine
+beloxamide
 Soriatane
 TICE BCG
 ciclacillin
-fenyramidol
-Concerta
+lomitapide
+cerivastatin
 symclosene
 depelestat
 fosbretabulin
 Diamox
 nifuroquine
-Ben-Allergin-50 Injection
+propizepine
 Tegopen
-fluradoline
+Sodium P.A.S.
 caspofungin
 R-Gel
 mazokalim
@@ -3431,7 +3510,7 @@ deferoxamine
 droprenilamine
 peralopride
 Bydramine
-hexoprenaline
+pipramadol
 Rolipram
 Rheumatrex
 Sedapap
@@ -3443,17 +3522,16 @@ pipoxolan
 dibrospidium chloride
 hyaluronidase
 aranotin
-femara
+Mycodone
 pitrakinra
-talactoferrin alfa
+lercanidipine
 cinecromen
 tiaprost
 fenprostalene
-ersentilide
+duloxetine
 Norcet
 Medipren
 tarafenacin
-racementhol
 fondaparinux sodium
 Totacillin
 AHA
@@ -3464,24 +3542,23 @@ alprazolam
 bisoprolol
 levamlodipine malate
 keracyanin
-cipralisant
-Metubine Iodide
+thiopropazate
 triazolam
 thymalfasin
 amdoxovir
-dilmefone
+Angiomax
 adiphenine
 naltrexone
-petrichloral
-bisbendazole
+Risperdal
+Loestrin
 nisbuterol
-eptazocine
-Brecanavir
-semaglutide
+Acthrel
+enoxamast
 Minirin
 fenclexonium metilsulfate
 eberconazole
 piperidolate
+CortaGel
 puromycin
 chlortalidone
 Mobic
@@ -3490,28 +3567,30 @@ AVC
 Clinisol
 etamicastat
 Benzac
+Tc 99m-Lungaggregate
 buflomedil
 dexchlorpheniramine maleate
-nonivamide
-Peg-Lyte
+Rofecoxib
 Norinyl
 imoxiterol
-ethinamate
+felbinac
 Benzatropine
 morniflumate
 secobarbital
+ancarolol
 Vergon
+Ala-Cort
 alletorphine
-lonazolac
+nepaprazole
 Amen
 diosmin
 Cryselle
-levocetirizine
+fenpiprane
 Parathar
 crotamiton
 docebenone
 Methopromazine
-Norlutin
+Rizatriptan
 estradiol
 laurcetium bromide
 etolotifen
@@ -3522,20 +3601,21 @@ cobicistat
 meglumine
 Abegrin
 tivantinib
-isepamicin
-Sucostrin
-Apokyn
+Primaxin
+Thyro-Tabs
 vinburnine
 sulfadiasulfone sodium
+Benznidazole
 Cytoxan
 pipoxizine
-encyprate
+Restall
 Almora
 piperazine calcium edetate
+Aerolate
 nerisopam
 simoctocog alfa
-Riomet
-sulfachrysoidine
+pirodomast
+Valdoxan
 PVF-K
 Iressa
 Resporal
@@ -3553,9 +3633,9 @@ Brocresine
 aleplasinin
 asobamast
 tybamate
-tosylchloramide sodium
+prorenoate potassium
 eledoisin
-porfimer sodium
+Riboflavin
 lidanserin
 azabon
 depramine
@@ -3571,17 +3651,17 @@ Azlin
 Centrum
 xenysalate
 vildagliptin
-melarsonyl potassium
-Brefonalol
+secbutabarbital
+oxilorphan
 valsartan
-Arimidex
-xenalipin
+bucillamine
+Alphazine
 Kemstro
 Cenolate
 Betiatide
-Rosterolone
+doxefazepam
 Oralone
-levofloxacin
+Westadone
 Medihaler Ergotamine
 Colestid
 Meticillin
@@ -3594,18 +3674,19 @@ ranelic acid
 dazoquinast
 cetalkonium chloride
 vanyldisulfamide
-tadalafil
-Brevicon
+nitraquazone
+isosulpride
 pimavanserin tartrate
-Tazicef
+eglumetad
 panuramine
 binedaline
 ilepcimide
 tocofersolan
 ketazocine
-Capzasin-HP
+Cenocort Forte
 apricitabine
 Sandimmune
+picoplatin
 lorbamate
 Bacampicillin
 Obestin-30
@@ -3614,7 +3695,7 @@ phenylpropanolamine
 iotroxic acid
 cactinomycin
 Sportscreme
-Rosanil
+sulfametomidine
 phenadoxone
 sulbutiamine
 Mutamycin
@@ -3624,10 +3705,12 @@ arpromidine
 picotrin
 piridronic acid
 clinolamide
-efungumab
+azilsartan medoxomil
+Col-Probenecid
 isoxepac
 Darbid
-Priftin
+dipotassium clorazepate
+pidobenzone
 Peptavlon
 Capoten
 cinamolol
@@ -3642,58 +3725,62 @@ succisulfone
 doxofylline
 clofibride
 timiperone
-Metomidate
+Enlon
 Ultravist
 Ropizine
-haletazole
+Acetadote
 fialuridine
 pentafluranol
 Diucardin
 propylhexedrine
 Rolafagrel
 actisomide
-Combantrin
+Oxandrin
+sulprosal
 flupranone
+Bevirimat
 atexakin alfa
 diathymosulfone
 suxamethonium chloride
+Junel
 levomefolate calcium
 bemesetron
-spiroxatrine
+doxazosin
 Trymex
+Renovist
 acecainide
 imiclopazine
 mapatumumab
 hydromorphinol
 Cefizox
-Meprospan
-insulin degludec
+pirtenidine
+compound insulin zinc suspension
+isonixin
 S-T Cort
 imafen
 labetuzumab
-domitroban
+Nuromax
 Rocaltrol
 Depen
 Metiprenaline
 cyheptamide
-sodium picosulfate
 nosiheptide
 nabitan
 fedotozine
-orconazole
+buthalital sodium
 fenclonine
-lobuprofen
+macrosalb (131 I)
 Orudis
 Urabeth
 pholedrine
 Brioschi
 bedoradrine
-Peganone
+bisfenazone
 anrukinzumab
-ibufenac
 nelezaprine
 Aludrox
 B-A-C
+Nordette
 varfollitropin alfa
 Neotrizine
 Requip
@@ -3713,45 +3800,46 @@ Eryzole
 dimethoxanate
 secoverine
 oxipurinol
-Yasmin
+pivmecillinam
 naloxone
 Riobin
 solabegron
 bisbentiamine
 Clear By Design Gel
-Cholac
+neoarsphenamine
 diflorasone
 aderbasib
 fosfosal
-Carnation Instant Breakfast
+kalafungin
 isamoltan
 sorbitan stearate
 aselizumab
 namoxyrate
 muzolimine
-megestrol
+ABC Pack
 vedolizumab
-Tinver
+Motrin
 hydroxystenozole
 mitoquinone
 daledalin
-plusonermin pranosal
+bizelesin
 hoquizil
 Estrogel
-frovatriptan
+Renormax
 pirinixil
 vinconate
 ubidecarenone
+cotriptyline
 tigestol
 Mylaramine
 tiomolibdic acid
 ferpifosate sodium
 prenalterol
 Citanest Plain
+Lotrimin Ultra
 Broxitalamic acid
-fenaclon
-Hep Flush Kit
-Metoclopramide
+panitumumab
+pyridarone
 Secreflo
 lexapro
 albinterferon alfa-2B
@@ -3759,14 +3847,13 @@ picenadol
 Allerfed
 deanol aceglumate
 lisuride
-Meticortelone
+tolnidamine
 imcarbofos
 sipatrigine
 Cystastat
 Brosotamide
 Iquix
 Cerubidine
-alnespirone
 diamorphine
 dicirenone
 Octreoscan
@@ -3775,32 +3862,31 @@ cannabinol
 minocycline
 Prefrin-A
 Enduronyl
-tazobactam
+Rimadyl
 etoxeridine
 Serax
 ornithine
-altapizone
-levocabastine
+Dormate
+Byclomine
 folic acid
 darapladib
-Luvox
+mangafodipir
 primaperone
-Kinevac
+Sulten-10
 flutoprazepam
 simeprevir
-ataciguat
+carafiban
 Vanamide
 caproxamine
 Romazicon
+morantel
 Tobrex
-atropine
 colecalciferol
-etodroxizine
+cicloprofen
 dexivacaine
 Aurolate
 Polymox
-Exsel
-auranofin
+xenthiorate
 Quinora
 pentabamate
 Buminate
@@ -3816,40 +3902,44 @@ Depo-Testosterone
 moexipril
 sulosemide
 technetium (99mTc) sulesomab
+Ponstel
 Lopressidone
 ceftolozane
 chlorzoxazone
 eseridine
 levoglutamide
 Respbid
-fluclorolone acetonide
+fexofenadine
 mequinol
 enclomifene
 Folex
 tamolarizine
-carbachol
 clorofene
 Evista
 isoflurane
 isopropyl myristate
-dabuzalgron
+eprodisate
 edogestrone
 apaxifylline
 prefenamate
 Blenoxane
+amuvatinib
 propoxate
 Tri-Vi-Flor
+sparfloxacin
 Rocephin
 Theophyl
-colextran
+AK-Fluor
 tucaresol
 natamycin
 nomifensine
-Remsed
+spirilene
 Neo-Hydeltrasol
 hofocon A
 Metopon
 amylmetacresol
+volasertib
+pramipexole
 teceleukin
 Steri-Stat
 tigloidine
@@ -3860,22 +3950,23 @@ dextran
 urokinase
 adenosine phosphate
 famotidine
-Bile-zyme
+indisetron
 Neosar
 bekanamycin
-Besunide
-Viroptic
-domperidone
+Travert
+Vaprisol
+mebutamate
+talaglumetad hydrochloride
 Renoquid
 Act-A-Med
 Creon 25
 ciclonium bromide
+sulfaphenazole
 eldecalcitol
 merimepodib
 dosergoside
 Trophamine
 halometasone
-tibenzate
 calcitonin, porcine
 norfenefrine
 almotriptan
@@ -3888,10 +3979,12 @@ sucralfate
 alaproclate
 avasimibe
 Seromycin
-Metapramine
+Elocon
 Deapril-ST
 cinoquidox
+eufauserase
 polaprezinc
+angiotensin ii
 dibemethine
 derquantel
 Rifamycin
@@ -3904,8 +3997,7 @@ alferminogene tadenovec
 Breezee Mist Antifungal
 cinpropazide
 Emcyt
-pranolium chloride
-Bellatal
+lidocaine
 Tri-Tannate
 alanine
 vabicaserin
@@ -3914,7 +4006,7 @@ thonzylamine
 piminodine
 terazosin
 Cal-Plus
-tiquinamide
+Auralgan
 ciclofenazine
 tubocurarine chloride
 nicocodine
@@ -3923,24 +4015,26 @@ triclonide
 phenothrin
 Prograf
 phenglutarimide
+ampyrimine
 iopydol
 tolufazepam
-lenercept
+troxypyrrolium tosilate
 daratumumab
 Procalamine
 triflusal
 Wymox
-apadenoson
+nicametate
+traboxopine
 Ronactolol
 alteplase
 ataprost
-Boniva
+cloticasone
 Scintimun
 Differin
 flumeridone
 delucemine
 resorantel
-bisobrin
+cetirizine
 iometopane (123 I)
 ontazolast
 choline salicylate
@@ -3949,26 +4043,26 @@ lanatoside C
 acetiromate
 fenflumizol
 cinepazic acid
-setrobuvir
+Isocaine
 clobetasone
 Betadex
 Dexair
-Aranesp
-perisoxal
+cenderetide
 Enovid
 erbulozole
-norpipanone
+pralmorelin
 amoxicillin/clavulanic acid
-Ocufen
+Tiseb
 dabigatran
 paramethadione
 nebivolol
+bendroflumethiazide
 azaclorzine
 Paraflex
 Benylin
 elsilimomab
-Methenamine
-englitazone
+Cl-719
+ramoplanin
 xylometazoline
 alcaftadine
 niclofolan
@@ -3994,28 +4088,28 @@ etaminile
 lurasidone hydrochloride
 climazolam
 homochlorcyclizine
-Codoxy
+camonagrel
 Lorfan
 lopirazepam
 fluazuron
 desciclovir
 propoxycaine
+prifelone
 Conceptrol
 Thiotepa
 semotiadil
 tenatumomab
 C-500-GR
 fluconazole
-abitesartan
-Miochol
+cefuracetime
+bumepidil
 nimodipine
 Pharmaseal Scrub Care
 triclodazol
 caffeine
-tameticillin
+luxabendazole
 Capastat
-bumepidil
-Ser-A-Gen
+diampromide
 citenamide
 Cobex
 Thorazine
@@ -4025,10 +4119,11 @@ Rebetrol
 mofarotene
 bibenzonium bromide
 Livostin
-lumefantrine
+Lopid
 piroxicam
 talampanel
-imuracetam
+mirimostim
+Colgate Total
 Pen-Vee K
 ketorolac
 icoduline
@@ -4037,52 +4132,49 @@ Propine
 T-Gesic
 dacetuzumab
 amezepine
-Novocain
+Ridaforolimus
 Sildec
 eritoran tetrasodium
 CSP
 Mirena
 Tuinal
-Metralindole
+Kantrex
 sudexanox
 trientine
 nebramycin
 Adalat
-carsatrin
 R-Gene 10
 xenon (133 Xe)
-propipocaine
 Rapamune
 Trecator-Sc
 pecazine
 voclosporin
 doxaprost
-azosemide
 perindoprilat
-nicametate
 propyromazine bromide
 colestyramine
 amiphenazole
-Methotrexate
-tebatizole
+entinostat
+cangrelor
 fluperolone
+Ciprodex
 dapiglifozin
 penciclovir
-Trovan
+Korostatin
 abciximab
 Cu-7
 tosifen
 bopindolol
+vistatolon
 Aeroaid
-Trobicin
-eslicarbazepine
+ambenoxan
 Marinol
 dutogliptin
 Xenical
 Rimoprogin
 Pred
 Utimox
-diclazuril
+Alertec
 Baroflave
 nicotredole
 Methampex
@@ -4101,14 +4193,14 @@ Procan
 Raniclor
 Cytra-3
 Fioricet
-butorphanol
+Suplasyn
 oxazorone
 Mykinac
 codoxime
-fasobegron
+Ethril
 Clinda-derm
 quinelorane
-Metoxepin
+pralidoxime iodide
 troplasminogen alfa
 Hydro-Reserp
 Monocid
@@ -4117,43 +4209,45 @@ Metixene
 draflazine
 Chlor-Pro Injection
 indorenate
-xibenolol
+marizomib
 fluspiperone
 Bleph-10
+sulfatolamide
 oxypertine
+parbendazole
 ufenamate
-streptomycin
-sulprosal
+cetaben
+Elitek
 atrinositol
 molracetam
+lumefantrine
 tiafibrate
-Logen
+Novothyrox
 Depakote
 tocamphyl
 imexon
 isosorbide mononitrate
 cinnarizine clofibrate
 lestaurtinib
-carbifene
 valtrate
 Elspar
-Toradol
+visnadine
 flutonidine
 magnesium clofibrate
-azelaic acid
+diethadione
 fibrin, bovine
 mebanazine
 sodium iodohippurate (131 I)
-chloropyramine
+Acticort
 fronepidil
-Nifehexal
+Septra
 Stemex
 Viokase
 Saluron
 Benzthiazide
 fibrinolysin (human)
 proxazole
-cismadinone
+miproxifene
 vapiprost
 pyrovalerone
 elesclomol
@@ -4162,38 +4256,39 @@ Lopressor
 homprenorphine
 AK-Trol
 benexate
-Rubitecan
+lumiracoxib
 talbutal
 certoparin sodium
 emideltide
 nitroxinil
 Neupogen
-clonixin
 ceftiolene
 Diapid
 nebracetam
 Rogletimide
 Actahist
-tioxaprofen
+cadazolid
+atosiban
+oxfenicine
 tiazuril
 butaprost
 rabeprazole
+etilefrine pivalate
 Thyrar
-Carmol HC
+Campath
 Metribolone
 Flaxedil
-cetocycline
+clofarabine
 dacarbazine
-Florone
-naminterol
+flubanilate
+decominol
 pasiniazid
 Sulfa-Triple #2
 sulnidazole
-tacedinaline
-taurultam
+indium (111In) altumomab pentetate
+Q-Vel
 indoprofen
-propamidine
-MDP-Bracco
+Tryptacin
 cidoxepin
 Prometrium
 calcium clofibrate
@@ -4202,21 +4297,21 @@ Ben-Aqua
 cortisuzol
 Rum-K
 laurocapram
-elmustine
+dimethyl sulfoxide
 tertomotide
 Contuss
-TPN Electrolytes
-Demulen
+Ranihexal
+clocortolone
 Mivacron
 oxypendyl
 Trocal
-oxiniacic acid
+Cerose-DM
 tabilautide
 Cytovene
 Metaclazepam
 cenplacel-L
 trazium esilate
-Prempro
+meclofenoxate
 ditiocade sodium
 senicapoc
 oberadilol
@@ -4245,18 +4340,18 @@ selegiline
 Tromoject
 Topicaine
 Metiazinic acid
-Lipidil
+Cheratussin DAC
 savoxepin
 quetiapine
-Ritolukast
+Allay
 astromicin
 Typherix
-Crixivan
+Flutex
 Solganal
 ethylestrenol
 Dilaudid
 seliciclib
-butofilolol
+vepalimomab
 ralitoline
 tioctilate
 Rinfabate
@@ -4266,9 +4361,10 @@ mitumprotimut-T
 cefditoren
 lodoxamide
 lurosetron
-Soluvite
+nifurprazine
+oxyclozanide
 octocrilene
-conessine
+Alphagan
 Lo-Ovral
 Testopel
 Tobrasone
@@ -4279,27 +4375,25 @@ viqualine
 Rifapentine
 Anthrascalp
 norclostebol
-antelmycin
+ciclafrine
 Clindagel
 fostriecin
 osalmid
 sarafloxacin
-Tridione
-Brodalumab
-Acthar
+Actiq
 calcitonin
 Ceclor
 clofenciclan
 lidorestat
-Biphetap
+pirandamine
 clotiapine
 elzasonan hydrochloride
 polysorbate 40
 midaglizole
 nitecapone
-Lotronex
+carmantadine
 polysorbate 21
-norbudrine
+xinidamine
 biniramycin
 Aphthasol
 bucindolol
@@ -4308,6 +4402,7 @@ clofenamic acid
 alvespimycin
 simvastatin
 Liquid Pred
+Tandearil
 perimetazine
 trequinsin
 utibapril
@@ -4319,16 +4414,16 @@ Etopophos
 difenoximide
 H.R.-50
 Benza
-lexxel
+ertapenem sodium
 M-Zole
 buspirone
 syrosingopine
+ciproquinate
 droxicainide
 vinorelbine
 Calmurid HC
 Tums
 trimetazidine
-flubanilate
 Acilac
 sapropterin
 Spectazole
@@ -4337,19 +4432,19 @@ aztreonam
 cianopramine
 Clear Away Disc
 Suprax
-sulicrinat
 Relenza
 valategrast
-NPH Iletin
+mafoprazine
 Pulmolite
 upenazime
 nerispirdine
 Oticair
-alifedrine
+Ronacaleret
 ceforanide
 yohimbic acid
 Cevi-Bid
 Bamethan
+Benzylsulfamide
 Hydromox R
 Helicosol
 Artha-G
@@ -4363,12 +4458,12 @@ levallorphan
 finasteride
 Prometh
 adaprolol
-Acthrel
+eptazocine
 Povan
 imiglucerase
-Tc 99m-Lungaggregate
+Trendar
 Mezlin
-palonosetron
+eribulin
 leuciglumer
 carbromal
 fasoracetam
@@ -4378,9 +4473,8 @@ Bilopaque
 bendamustine
 adipiplon
 Baminercept
-oxilorphan
+Brefonalol
 Drolban
-maduramicin
 bidisomide
 dimethyltubocurarinium chloride
 cefluprenam
@@ -4388,35 +4482,38 @@ Embeline
 Elixophyllin
 lerisetron
 N.E.E.
-isonixin
+insulin degludec
 tiotropium bromide
-Nuromax
+domitroban
 picodralazine
 lorcainide
 Cedocard-SR
 thiocolchicoside
 vintriptol
-pegnartograstim
+Ventaire
+chlorhexidine
 doxycycline
 nepinalone
 albaconazole
+technetium (99mTc) siboroxime
 Vytorin
 Spectrobid
 Neo-Delta-Cortef
 Tetracap
 Methylergometrine
-mangafodipir
+Luvox
 vanoxerine
 Cetapred
-cicloprofen
+AK-Pred
 flutazolam
 Aquatensen
 Bretylol
-dihexyverine
-levomequitazine
+Nystex
 Penthrane
 Arlex
+Bluboro
 mebiquine
+levamfetamine
 Benzamycin
 Remeron
 clefamide
@@ -4424,9 +4521,8 @@ Celestoderm-V
 ivabradine
 Omnipaque
 Naftin
-Quibron-T
 pralnacasan
-cenderetide
+Aranesp
 Aclovate
 pamatolol
 nialamide
@@ -4440,10 +4536,11 @@ Velivet
 indecainide
 Valnac
 ipazilide
-Lopid
+obatoclax mesylate
 eperisone
 bithionoloxide
 nelzarabine
+menogaril
 Renacidin
 Cogentin
 sorbitan palmitate
@@ -4454,24 +4551,26 @@ cletoquine
 Bentemazole
 antithrombin iii, human
 Nafazair
-parbendazole
+pascolizumab
 nifedipine
 antienite
 Rondomycin
 phenomorphan
 cicaprost
 levothyroxine sodium
+eniluracil
 Nilandron
 menfegol
-arcitumomab
+tonapofylline
 nafimidone
-Tryptacin
-lucatumumab
-dimethyl sulfoxide
+propamidine
+Riopan
+elmustine
 Captohexal
 totrombopag choline
 tuvirumab
 lanoconazole
+Betazole
 eltenac
 citiolone
 Asacol
@@ -4480,13 +4579,13 @@ Capsagel
 Benzquinamide
 Cipro HC
 X-Trozine
-miraversen
+tasuldine
 istradefylline
 bupicomide
 Metromidol
 moxisylyte
-<p>This multi-page article lists <b><a href="/wiki/Pharmaceutical_drug" title="Pharmaceutical drugpharmaceutical drugs
-thymopentin
+<p>This multi-page article lists <b><a href="/wiki/Pharmaceutical_drug" title="Pharmaceutical drug">pharmaceutical drugs
+ellagic acid
 Mustargen
 alpidem
 salfluverine
@@ -4497,26 +4596,26 @@ perflubrodec
 Oreton Methyl
 Neurolite
 Serutan
-SB-265805
+noscapine
 Oby-Trim
 uridine triacetate
 Klotrix
 serazapine
-amiperone
 Nitrostat
+suclofenide
 cetorelix
 ancrod
 Dyrenium
 lotrafilcon A
 thrombin, bovine
 Metescufylline
-tasuldine
+amisometradine
 moxestrol
+noretynodrel
 antazonite
-acetylmethadol
 xantinol nicotinate
 oxfendazole
-Urovist
+cartazolate
 Analpram-HC
 loprodiol
 desaspidin
@@ -4526,10 +4625,10 @@ Wesmycin
 Ionamin
 progabide
 partricin
-technetium (99mTc) pintumomab
-cefpiramide
+elopiprazole
 Winpred
 Animi-3
+cilmostim
 aptocaine
 cloroperone
 cyprazepam
@@ -4537,28 +4636,28 @@ Pseudofrin
 Visipaque
 lanproston
 Cam-Metrazine
-Biobase
+cicliomenol
 drospirenone
 Depo-Medrol
 somatrem
 oxyfenamate
 corticotropin
-clazolimine
+pomisartan
 diciferron
-carlumab
+Protostat
 Viocin sulfate
 Periochip
 Chlorgest-HD Elixir
 levomefolic acid
 almasilate
 Pulmicort
-tetrylammonium bromide
+labradimil
 remifentanil
-ketamine
+Sibelium
 flurocitabine
 Riboprine
 fluphenazine
-chloracyzine
+adibendan
 Norethin
 Alcalak
 ethisterone
@@ -4568,12 +4667,13 @@ antafenite
 Cetamide
 levulan
 Cheracol
-torbafylline
+menglytate
+amenamevir
 tepirindole
-elopiprazole
+technetium (99mTc) pintumomab
 efavirenz
 PBZ
-nisoldipine
+Dralserp
 Cafetrate
 Neobiotic
 silandrone
@@ -4585,43 +4685,43 @@ oxisopred
 paliroden
 propanidid
 drinidene
-ipsalazide
+Samarium (153Sm) lexidronam
 eprozinol
 SPRX
 clonazoline
-vinformide
+ilodecakin
 tulathromycin
 etifenin
 Endep
 U-Cort
-Synkayvite
+Cold Capsule V
 phenacetin
-palatrigine
+NPH insulin
 Renotec
 trizoxime
 alepride
 Ethiodol
 phenoxymethylpenicillin
-epinastine
+efloxate
 profexalone
-Prolixin
+Regitine
 cevimeline
-Rhuli Cream
+trethinium tosilate
 femcet
 phenelzine
 iproplatin
 trazodone
 Cyclopar
-isaxonine
+Methyldihydromorphine
 Ultracet
-Voltaren
+sulfadoxine
 amlexanox
 Cholografin Sodium
 norgestrel
 liprotamase
 potassium sulfate
 urethane
-mitoguazone
+Centany
 tilsuprost
 Tasmar
 mefeserpine
@@ -4630,32 +4730,34 @@ fasudil
 meclocycline
 Metizoline
 Serzone
-chloralose
-medrogestone
+sofigatran
+sivelestat
 CDDP
 Bar-Test
 amikacin
 Tencon
-cicliomenol
 lubazodone
 talabostat
+Vitravene
 profadol
-Veltane
+Drisdol
 U-Gencin
 Bentipimine
 minalrestat
+tadocizumab
 Atgam
 pimelautide
-levemopamil
+Ventavis
 Sustiva
 napirimus
 alfacalcidol
-ioxaglic acid
+lividomycin
+Quintasa
 azalomycin
 algenpantucel-L
-laurixamine
+eptastigmine
 Tikosyn
-Tetramune
+triptorelin
 motrazepam
 emepepimut-S
 dimethazan
@@ -4663,23 +4765,24 @@ Romifidine
 Magnacort
 Delsym
 Methionine
-micinicate
-mesalazine
+tioconazole
+varenicline tartrate
 asenapine
 sisomicin
-Inflamase Forte
+melinamide
 suproclone
-epicriptine
+cenersen
 diflunisal
 Luxiq
 cimetidine
 femogen
-sulopenem
+thiamine
+tonazocine
 Testomar
 olvanil
 ambasilide
-aniracetam
-Protostat
+Balnetar
+carlumab
 bisoxatin
 ormetoprim
 teniposide
@@ -4687,77 +4790,75 @@ almoxatone
 Helidac
 chlormethine
 cryofluorane
-nemifitide
 Tebrazid
 Arthropan
 Slow-Trasicor
 trimebutine
-conatumumab
+pyridoxine
 aflibercept
 tegafur
 Simponi
 hexadimethrine bromide
 rathyronine
 cyclothiazide
-filipin
+Hy-Phen
 ditercalinium chloride
 urapidil
 pelrinone
 dorastine
 Bacmecillinam
 Dralzine
-tracazolate
+filibuvir
 Exna
-arsenic trioxide
+cefotaxime
 odanacatib
-tiodonium chloride
-Prevpac
+P.A.S. Sodium
+Amnesteem
 azamethonium bromide
 satranidazole
 aranidipine
-hamycin
+arbutamine
 fletazepam
-mitoclomine
+paramethasone
 meclonazepam
-H-Cort
+Cerumenex
 Metamfazone
 Survanta
 etibendazole
 tecalcet
-argimesna
+Theolate
 Mepriam
-samalizumab
+dicoumarol
 Lac-Hydrin
 Alphacaine
 Esclim
-tianeptine
 Pentids
 A-N stannous aggregated albumin
 Chlortab
 vamicamide
 tamibarotene
 Uroxatral
-labradimil
+tetrylammonium bromide
 Lithonate
 Mychel
 esuprone
 befloxatone
 manidipine
 Betadine
-tandamine
+artesunate
 Demser
 Metenolone
 calcium saccharate
 Subutex
 chloroxylenol
 oxamniquine
-poligeenan
+Constant-T Tablet
 calusterone
 eterobarb
 pegvisomant
 rafivirumab
 repifermin
-pranlukast
+triafungin
 nicanartine
 emoctakin
 pegaptanib sodium
@@ -4769,24 +4870,25 @@ bortezomib
 Buprenex
 odulimomab
 Lanorinal
-adibendan
+chloracyzine
 tavaborole
 Neothylline
 cethexonium chloride
 prosultiamine
-idronoxil
+Retet
 decimemide
-Ridazolol
-nocloprost
+felvizumab
+Bentazepam
 vicriviroc
 pazinaclone
 leucocianidol
+Brevibloc
 chlorphenoxamine
 Hippuran i 131
 Iletin
 cinacalcet
 2-CdA
-Bacitracin
+cefempidone
 Benzpyrinium bromide
 aceprometazine
 AnaMantle HC
@@ -4800,37 +4902,37 @@ Bio-Tropin
 Metrocream
 olodaterol
 lomefloxacin
-Mellaril
 streptovarycin
-soretolide
-trandolaprilat
+plitidepsin
+cixutumumab
 mebutizide
 Thyro-Block
-drotaverine
 diflucortolone
 Lygen
 Barbital
 phenmetrazine
-Frova
+Norgesic
+sinefungin
 Donnatal Extentabs
 Myco-Triacet II
 ipratropium bromide
 torcetrapib
-butaperazine
+ramosetron
 mirincamycin
 linagliptin
 tamsulosin
-egualen
+Metatensin
 perlapine
 Busulfex
 polysorbate 85
-amenamevir
+sulfiram
+tianeptine
 acrisorcin
 Autoplex T
 M-Predrol
 Monoket
 fenaperone
-thiamazole
+Baquiloprim
 promazine
 Ronomilast
 CEA-Cide
@@ -4841,65 +4943,61 @@ Benorilate
 Bronkosol
 ioxitalamic acid
 nitrefazole
-naluzotan
 Vancenase
-Dralserp
+nisoldipine
 Silvadene
-Besifloxacin hydrochloride
+Ketek
 aprindine
-cefaparole
+Promapar
 RGM-CSF
 difemerine
 hexylcaine
 Bellergal-S
 Rilpirivine
 phenpromethamine
-vinepidine
+IV Persantine
 Ridogrel
 satafocon A
 Targretin
-naproxcinod
+tiapride
 Lufyllin
 doxibetasol
-safingol
 murodermin
 Singulair
 paliperidone
 Precef
 itopride
 sodium timerfonate
-sampatrilat
 oxibendazole
 Fluonid
 CPM
 Prevacare R
-astuprotimut-R
+Beta-Val
 Riferminogene pecaplasmid
 Scleromate
-tioperidone
+adrafinil
 onapristone
 Redutemp
 lincomycin
-Factive
+Trysul
 Oxylone
 Aristospan
 terbuprol
 Triatex
 Lanoxicaps
 selurampanel
-Tora
-sumarotene
+ipsalazide
+Buf-Puf Acne Cleansing Bar
 Tussafed
 desmopressin
 Buspirex
-miproxifene
 siltuximab
 Ovral
-Macrodantin
+pepstatin
 istaroxime
 Paremyd
 tolevamer potassium sodium
-croconazole
+tropapride
 tolycaine
 Akwa Tears
 befetupitant
@@ -4908,14 +5006,14 @@ eupatilin
 Bristamycin
 Victoza
 insulin
-amtolmetin guacil
-acetaminosalol
-Ristocetin
-etorphine
+Scrubteam Surgical Spongebrush
+mequitamium iodide
+pinacidil
+Axert
 octazamide
-polyestradiol phosphate
+Methosarb
 hydroxyamfetamine
-Norco
+taltobulin
 procodazole
 Nesacaine
 elvucitabine
@@ -4923,14 +5021,12 @@ succinylsulfathiazole
 indeloxazine
 diltiazem
 talarozole
-aldesleukin
-Locholest
+nifurpipone
 dropropizine
-ilodecakin
-eclazolast
+vinformide
 sodium iotalamate (125 I)
 fenimide
-ethambutol
+dutasteride
 ioglucol
 pentagestrone
 acenocoumarol
@@ -4943,23 +5039,23 @@ Broxyquinoline
 teplizumab
 vesnarinone
 Pentacarinat
-Carbatrol
+bucainide
 suncillin
 phenacaine
-Vicodin
+ketamine
 Ceenu
 dicarbine
-Vesanoid
+taliglucerase alfa
 Equanil
 Visine
 lintuzumab
 Brindoxime
 Aristogel
-pirbenicillin
+Solarcaine
 tenosal
-iohexol
+lauralkonium chloride
 Ercatab
-amicarbalide
+alpiropride
 fludroxycortide
 Metisazone
 secukinumab
@@ -4972,6 +5068,7 @@ Sarafem
 leiopyrrole
 thihexinol methylbromide
 Bio-Statin
+celucloral
 ardacin avoparcin
 lexgenleucel-T
 levopropoxyphene
@@ -4980,16 +5077,18 @@ bornelone
 ioxabrolic acid
 Ethamolin
 epsiprantel
-Contac
+Proferdex
 Aldara
 Roletamide
-An-DTPA
+iomorinic acid
 mepyramine
 mitoxantrone
 medifoxamine
 anisindione
+Bevasiranib
 norfloxacin succinil
 pheneridine
+Synphasic
 diodone
 premazepam
 sulfaclorazole
@@ -4998,7 +5097,7 @@ idrabiotaparinux
 imanixil
 pipebuzone
 piclonidine
-doxifluridine
+Butapap
 Cyclaine
 salbutamol
 hydrargaphen
@@ -5019,10 +5118,11 @@ altretamine
 antrafenine
 Metofenazate
 tretamine
-pomisartan
+Rau-Sed
 prussian blue insoluble
 Orasone
-efloxate
+epinastine
+porfimer sodium
 trelanserin
 flurofamide
 ambucetamide
@@ -5031,18 +5131,19 @@ Crescormon
 triamcinolone hexacetonide
 Erymax
 hexafluronium bromide
-Cold Capsule V
 treloxinate
 AmLactin
-Strattera
+dimetindene
 kallidinogenase
-mizoribine
-trethinium tosilate
+isoprofen
+Rhuli Cream
 mecysteine
 moroxydine
-iralukast
+capobenic acid
 Solu-Medrol
 enalkiren
+biclotymol
+tosufloxacin
 Caverject
 Disophrol
 imolamine
@@ -5054,7 +5155,7 @@ hexachlorophene
 iproniazid
 octriptyline
 PCE
-cafaminol
+iometin (131 I)
 delapril
 fenetylline
 avorelin
@@ -5062,21 +5163,21 @@ micronomicin
 tetroquinone
 Indomethegan
 Hydramine
-Methyldihydromorphine
+flunoxaprofen
 selepressin
-TobraDex
+Carbolith
 cianergoline
 Slo-Bid
 armodafinil
-sulfadoxine
+fenfluthrin
 Kefurox
-Urologic
+canagliflozin
 Accoleit
 sulazepam
-Bertosamil
-halcinonide
+Seasonale
+irolapride
 Afrinol
-Cholan-HMB
+timofibrate
 Epogen
 Neosporin
 cetiedil
@@ -5087,50 +5188,50 @@ bivatuzumab mertansine
 dalanated insulin
 Rhindecon
 Brofoxine
+linopirdine
 tiformin
 Vincasar PFS
-patamostat
+dalvastatin
 flutiazin
 tropisetron
 calcium pantothenate
 Sulfamethoprim
 Teczem
-Ala-Scalp
+flurazepam
 Extraneal
 triampyzine
-nafetolol
+lisadimate
 sifilcon A
-nivimedone
+compound solution of sodium chloride
 Uroplus
-nedaplatin
 pentiapine
 denotivir
+Ketozole
 opanixil
 transcainide
 dactinomycin
 dextrofemine
-lescol
+icomucret
 Flomax
 Metaraminol
 Vasotec
 triclobisonium chloride
 propofol
-fenretinide
-Risperidone
-ectylurea
+tilorone
+Skelaxin
+DHC Plus
 tetramethrin
 hilafilcon B
 favipiravir
-Bronkodyl
 etretinate
 Astramorph PF
-Nuvion
+Cefobid
 sodium iodide (131 I)
 Citracal
 lauromacrogol 400
 trospium chloride
 Banan
-Aquatag
+tricyclamol chloride
 fabesetron
 domiphen bromide
 alglucerase
@@ -5140,12 +5241,11 @@ Android-f
 morpheridine
 Metro I.V.
 Meridia
-sofigatran
 Tri-Sudo
 proline
 Disipal
-adozelesin
-sivelestat
+mevastatin
+medrogestone
 sulfomyxin
 infliximab
 mefruside
@@ -5154,16 +5254,16 @@ Vanobid
 dioxaphetyl butyrate
 cefazolin
 tirilazad
-Liquaemin
+Selpak
 cefapirin
 ceftaroline fosamil
-Foamicon
+sergliflozin
 donetidine
 Premarin
 epafipase
 enflurane
 tifenamil
-Rifamide
+dithiazanine iodide
 Desmopressin Acetate
 timoprazole
 pefloxacin
@@ -5172,17 +5272,19 @@ temurtide
 Beclovent
 Dantrium
 Ten-K
-Relafen
+Ovrette
+suritozole
 daniquidone
 diethyltoluamide
-AK-Pentolate
+Multifuge
 Daypro
-Preos
-Pediapred
+dexmethylphenidate
+Rimifon
 Rhinall Nasal
 neridronic acid
 Dyna-Hex
 BayRab
+froxiprost
 cilazaprilat
 cemadotin
 cilansetron
@@ -5192,24 +5294,22 @@ lenapenem
 enprazepine
 iratumumab
 Butalan
-pritumumab
+Medihaler-Iso
 dextromethorphan
 Aurexis
-cyclovalone
+reclazepam
 pipecuronium bromide
 ambamustine
 Fastin
+Voltarol
 Penecort
-BioCox
 Brazergoline
 saviprazole
-dexverapamil
-clobetasol
+Delfen
 razupenem
 steffimycin
 Vira-A
-flamenol
-lessina
+Cetrotide
 tolpyrramide
 montirelin
 clomacran
@@ -5220,73 +5320,79 @@ acecarbromal
 elbanizine
 Vitrax
 azimexon
-pentisomide
-isovaleramide
+Berlafenone
+Calciparine
+E-Z-EM Prep Lyte
 Rioprostil
 chlorotrianisene
 triprolidine
 teniloxazine
-Psorcon
+clofenotane
 remacemide
+Anthra-Derm
 diphoxazide
 dicloralurea
 FML
 Beta-2
-Nutracort
+crufomate
 Brivaracetam
 stamulumab
 Viscoat
 Basaljel
 parodilol
+Combantrin
 cinnopentazone
 Uni-Decon
 Aldurazyme
 Plegisol
+aniracetam
 taziprinone
 Parlodel
-Crestor
-propicillin
+encainide
+Rhodacine
 Dopar
-Ventavis
+levemopamil
 nictindole
 epoetin omega
-Plaquenil
+retaspimycin
 enocitabine
 methazolamide
 Brolamfetamine
 fosphenytoin
-pirisudanol
+tibenzate
+aptiganel
 Serpivite
 mecloqualone
 Metogest
 Nimotop
-argipressin
 dilopetine
-misoprostol
+LSD
 Tiamol
-Hexal Clotreme
-sulfabenzamide
-Ethrane
-tabalumab
-Quintasa
-Today
+ketoprofen
+acedapsone
+prozapine
+isoaminile
+tigapotide
+ioxaglic acid
+Cylex
 tretinoin
 Tri-Chlor
-coumazoline
+sulfonylurea
 carbofenotion
 etafedrine
-Physiosol
+Rowasa
 edaravone
-pemetrexed
+erlotinib hydrochloride
 INH
+suloxifen
 pentigetide
 mioflazine
 dipiproverine
 algestone
 tioguanine
 dioxifedrine
-eptastigmine
-Prezista
+laurixamine
+enfuvirtide
 tosulur
 compound solution of sodium lactate
 amifostine
@@ -5295,85 +5401,86 @@ tinisulpride
 Ceporacin
 Entocort EC
 azotomycin
-tametraline
+nortetrazepam
 suloctidil
-clenoliximab
+Tebamide
 Eryderm
-timefurone
+Cortrosyn
 Moduretic
 eucatropine
 binospirone
-triptorelin
+Benzoxonium chloride
 tibrofan
 dimethisterone
 netobimin
 Berythromycin
 Caladryl Spray
-Proketazine
+Micrainin
 Aphrodyne
-Adrucil
+Corsym
 insulin detemir
-trabectedin
-capobenic acid
 femstat
-prodilidine
+Rauverid
 aldesulfone sodium
 sodium stibocaptate
-tocilizumab
+Recombivax HB
 Trest
 ancestim
 picolamine
-tosedostat
+Hibiclens
+sulfogaiacol
 dihydrotachysterol
 etisulergine
 thrombin alfa
 propatylnitrate
 atazanavir
 dumorelin
-chlorquinaldol
-Urised
+Lidosite Topical System Kit
+montelukast
 penicillamine
 abatacept
 bindarit
+alteconazole
+Spectracef
 CFDN
 cloricromen
 pradefovir
 detumomab
 RBC-Scan
-tioconazole
+micinicate
 mafenide
-psyllium hemicellulose
-Platinol
-varenicline tartrate
+Rhotrimine
+mesalazine
 Vytone
 fludorex
 imidafenacin
 Iontocaine
 ftalofyne
-Nizoral
+latanoprost
 Carnitor
 ampiroxicam
 Trans-Ver-Sal
-Brivanib alaninate
+clotiazepam
 Methyldesorphine
 Ribasphere
 paridocaine
 lenograstim
 Rotigotine
 Altinac
-alagebrium chloride
+Solfoton
+dithranol
 Anxanil Oral
 atipamezole
 Metimyd
 fingolimod
-vapaliximab
+idenast
 nitricholine perchlorate
 Esidrix
 delmadinone
 dichlorvos
 Derma-Smoothe
 acetylcysteine
-Alcaine
+dimefadane
 Ambodryl
 celecoxib
 chlorproethazine
@@ -5383,16 +5490,15 @@ oxatomide
 tigecycline
 egtazic acid
 Purified Cortrophin Gel
-ketazolam
+Cortone
 tilivapram
-dornase alfa
-disopyramide
+Carbocaine with Neo-Cobefrin
 sulfabenz
 Ambi 10
 isobutamben
 sulmazole
-thiamine
-tolrestat
+sulopenem
+Bromhexine
 pirdonium bromide
 Bactocill
 pyrrolifene
@@ -5407,34 +5513,33 @@ leptacline
 pirolate
 salinazid
 drobuline
+ciclotizolam
 dichlorophen
 pyrimitate
-iocarmic acid
 mipomersen sodium
-etymemazine
+Riluzole
 ovemotide
 cinnamedrine
 Mixtard
-thiotetrabarbital
+Bromelains
 Serostim
 stilbamidine isetionate
 temocapril
+Biphetap
 Hepatamine 8%
-Comvax
-fenamisal
+hydrocortone
 Chenix
 versetamide
 enpiroline
 napitane
-Combipres
+dosmalfate
 Alomide
 capreomycin
-elantrine
 lidimycin
 quazolast
 enprofylline
 repromicin
-Vagilia
+carmoxirole
 Rolipoltide
 clopimozide
 oxymetazoline
@@ -5449,9 +5554,10 @@ tropatepine
 Allerdryl
 cathine
 colforsin
-butynamine
-sarizotan
+sodium sulamyd
 losmiprofen
+Corphed
+octaverine
 trifenagrel
 Betoptic S
 dulofibrate
@@ -5459,7 +5565,7 @@ Baxitozine
 penmesterol
 anagrelide
 Bertilimumab
-lorapride
+dazopride
 Colazal
 Trivora
 tiocarlide
@@ -5467,8 +5573,7 @@ alvocidib
 mitobronitol
 acarbose
 mexazolam
-trimecaine
-Hivid
+Bicillin
 Mycitracin
 Anandron
 fominoben
@@ -5482,11 +5587,11 @@ butafosfan
 pirmenol
 elzasonan citrate
 Qvar
-Mydriafair
+diponium bromide
 amibegron
-Portalac
+sograzepide
 thymostimulin
-Topicycline
+ravatirelin
 Trikacide
 heteronium bromide
 Accuneb
@@ -5507,41 +5612,44 @@ imeglimin
 Aralen
 vinfosiltine
 inogatran
-pyridoxine
+conatumumab
 Synovalyte
 taribavirin
-oxaprotiline
+fenaftic acid
 oxaflumazine
 penthrichloral
 Ethamide
 Albenza
-Ropitoin
+teicoplanin
 Opticrom
-sibrotuzumab
+protiofate
 ranagengliotucel-T
 nifuratel
 octenidine
 Nembutal
 primidone
-Hy-Phen
+filipin
 deforolimus
-nipradilol
+alitretinoin
 mefenidil
+Nifehexal
 Transderm-Nitro
 alcuronium chloride
 semustine
 Floxin
-oxyclozanide
+Profenal
 regrelor
-loxanast
 oxomemazine
 trioxifene
-telithromycin
+tilmacoxib
 tiopropamine
 emorfazone
 meralluride
 silidianin
 pituxate
+meladrazine
+blonanserin
+tacrolimus
 Tesuloid
 Cankaid
 memotine
@@ -5555,10 +5663,11 @@ famotine
 azapropazone
 8-Hour Bayer
 Didronel
+ethinamate
 cathinone
+Hedulin
 plafibride
 sunagrel
-Vaseretic
 isometheptene
 Bucet
 Locoid
@@ -5568,28 +5677,27 @@ dexketoprofen
 azepexole
 votumumab
 sunitinib
-Tindal
+Alphamul
 draquinolol
 triflubazam
-Besifovir
 tocainide
 latamoxef
 olopatadine
 Probampacin
 AgNO3
 sulbentine
-Q-Vel
 ilmofosine
 tedalinab
-Hydro-D
 dopropidil
 Rhinatate
-dicloxacillin
+sodium acetrizoate
 ferriseltz
 dexoxadrol
 Protonix
 tolterodine
+Viroptic
 Benfluorex
+Visudyne
 buclizine
 nicothiazone
 deflazacort
@@ -5602,11 +5710,12 @@ strinoline
 senofilcon A
 Sominex
 melarsoprol
-Ranihexal
-P.A.S. Sodium
+oxacillin
+tiodonium chloride
 nerbacadol
 Teline
 pirfenidone
+mitoguazone
 Oxilan
 norgestrienone
 setoperone
@@ -5616,7 +5725,7 @@ epetirimod
 Benicar HCT
 carbomycin
 carbasalate calcium
-climiqualine
+Vaseretic
 enilconazole
 TinBen
 phenazocine
@@ -5628,23 +5737,22 @@ ketorfanol
 tabimorelin
 somenopor
 hexaprofen
-Bromisoval
+sampatrilat
 elnadipine
-carisbamate
 triamcinolone
 Deltalin
-proscillaridin
+isosorbide
 Clorpres
-arbutamine
+hamycin
 eszopiclone
-morclofone
+Cardioplegic
 Batroxobin
-paramethasone
+itameline
 laromustine
 ensaculin
-Bamaluzole
+aminoquinuride
 Norisodrine
-Cerumenex
+H-Cort
 Reactine
 Lysodren
 Trizivir
@@ -5654,19 +5762,21 @@ RespiGam
 pentomone
 abrineurin
 incadronic acid
-sifalimumab
+flutemazepam
 Accolate
 imidapril
 Travase
 demegestone
-levolet
+argimesna
 Resa
 ebrotidine
+forminitrazole
 Ultragris
 Barbexaclone
 Adagen
 Benoxinate
 droxicam
+ethambutol
 Lyophilized Cytoxan
 fertinex
 Motofen
@@ -5675,18 +5785,21 @@ proquinolate
 diacetolol
 Becotin Pulvules
 Metirosine
-novobiocin
+Adacel
 sifaprazine
 alisertib
 levomoramide
 diacetamate
-etamocycline
+carperidine
+Apresoline-Esidrix
+Rosaramicin
 oxifungin
 Tham
 Amcort
 formoterol
+lerdelimumab
 azetirelin
-<span class="mbox-text-spanThis article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sourcescite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiabilityreferences or sources
+<span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources
 Oraqix
 pyritidium bromide
 naftifine
@@ -5694,10 +5807,10 @@ Lantrisul
 propacetamol
 Trimazide
 Lipo Gantrisin
-mitoflaxone
-conbercept
+Clear Eyes ACR
+linaclotide
 Tracleer
-Branchamin 4%
+talibegron
 ceronapril
 viridofulvin
 loxoprofen
@@ -5721,7 +5834,7 @@ bifeprofen
 ufiprazole
 Uni-Pro
 Blis-To-Sol
-Cefotan
+oxpheneridine
 Atrohist Plus
 difluanazine
 tipapkinogene sovacivec
@@ -5730,13 +5843,12 @@ escitalopram
 bluensomycin
 racotumomab
 Invega
-Spasmoject
+crenolanib
 imidoline
 Dv
 Valtaxin
 rentiapril
 Diphenylan Sodium
-mephentermine
 Metrodin
 Triacin-C
 tetrabarbital
@@ -5752,8 +5864,9 @@ omiganan
 azathioprine
 Enulose
 Trichlorex
+tolciclate
 ftaxilide
-libenzapril
+cefteram
 insulin argine
 myfadol
 trolnitrate
@@ -5767,7 +5880,7 @@ moprolol
 Nuprin
 hybufocon A
 fidarestat
-Cardem
+tampramine
 Beraprost
 Panwarfin
 florantyrone
@@ -5781,25 +5894,28 @@ ensituximab
 Brifentanil
 Duac
 flucarbril
-iminophenimide
-enramycin
+ciclazindol
+ardenermin
 monteplase
 clobenzorex
 Colovage
-floxuridine
+hexapradol
+Klaron
 Verluma
 talosalate
+Imagent
 piperamide
 butopyrammonium iodide
 Pitocin
 Bensuldazic acid
-sodium calcium edetate
+Dalmane
 tifacogin
 enrofloxacin
 aminophylline
 AK-Taine
 saripidem
 Vancoled
+otenzepad
 methadone
 Orgaran
 Baro-CAT
@@ -5808,7 +5924,7 @@ Intralipid
 fosfestrol
 naftypramide
 Halotestin
-artesunate
+tandamine
 Somavert
 octrizole
 miconazole
@@ -5817,10 +5933,10 @@ Quinidex
 fidaxomicin
 pegsunercept
 manitimus
-nonapyrimine
+cyanocobalamin (57 Co)
 polysorbate 61
 Sudex
-PMB
+Acetasol
 Balicatib
 osutidine
 olmesartan
@@ -5829,17 +5945,16 @@ Dymelor
 Chlor-Rest Tablet
 perfomedil
 Ultiva
-nafcillin
+Cerverix
 Tarabine PFS
 cinnovex
 avibactam
 Kwell
-Westadone
 fenpipramide
 Basiliximab
 Tucks
 quinagolide
-homarylamine
+Apresoline
 mepolizumab
 oxamisole
 mirostipen
@@ -5852,22 +5967,22 @@ cinchocaine
 Vexol
 vestipitant mesylate
 sertindole
-Constant-T Tablet
-ramelteon
+poligeenan
+Travatan
 Acutect
 Benzaclin
-Norcuron
+neutramycin
 Phenazine
 Triacort
 Rindopepimut
 coumetarol
 carbenicillin
-desocriptine
+delequamine
 bucloxic acid
 cefmepidium chloride
 mergocriptine
 xantocillin
-cyprodenate
+cefpirome
 phenobutiodil
 carzenide
 Alkeran
@@ -5882,7 +5997,7 @@ procainamide
 Bretylium tosilate
 proligestone
 cetoxime
-Fortamet
+diacetylmorphine
 Actisite
 somatropin pegol
 Baclofen
@@ -5891,7 +6006,8 @@ Trivagizole 3
 seractide
 crotoniazide
 niperotidine
-lenperone
+cabazitaxel
+etebenecid
 idursulfase
 Axocet
 Dianeal
@@ -5899,27 +6015,25 @@ Tri-Immunol
 cefodizime
 Clinimix E
 abediterol
-lemildipine
+emiglitate
 sodium iotalamate (131 I)
 fibrinogen (125 I)
 Coumadin
 Robinul
-protheobromine
+biapenem
 acetryptine
 Butisol Sodium
 tiabendazole
 pecocycline
 inotuzumab ozogamicin
 iloprost
-calcitonin, rat
 Alesse
 stenbolone
 Frusehexal
 thymotrinan
-levopropylhexedrine
-phenindione
+Ovulen
 dimecamine
-tridecatide
+aceclidine
 siagoside
 Anatuss
 Rilonacept
@@ -5931,7 +6045,7 @@ vinpoline
 danosteine
 chlorothiazide
 ferrlecit
-Slo-Niacin
+tocofibrate
 Metra
 Prostin F2 Alpha
 sodium dehydrocholate
@@ -5949,23 +6063,23 @@ Invirase
 Metyridine
 pyrrocaine
 taurine
-mycophenolic acid
+Mycograb
 Betapace
 tanezumab
-sagandipine
 traxanox
 Tri-Phen-Chlor
 Prialt
 felypressin
 clobuzarit
 Harmonyl
-flumecinol
+Batelapine
+Bevonium metilsulfate bolenol
 monobenzone
 acoxatrine
 Flarex
 Aurodex
 Eumovate
-Humorsol
+Canasa
 secnidazole
 amolanone
 Pavulon
@@ -5973,10 +6087,9 @@ ciclindole
 Ancotyl
 Heptalac
 Nilstat
-AryoSeven
+Methyldopa
 Brodimoprim
-Ala-Quin
-itramin tosilate
+taurolidine
 formocortal
 Pyrinyl
 tasosartan
@@ -5987,20 +6100,20 @@ amsacrine
 proxibarbal
 Hycomine
 calcitonin, eel
-eprazinone
-velneperit
+Fluorine F-18
 Sleep-eze 3 Oral
 Taxol
-dametralast
+cetrimonium bromide
 interferon alfacon-1
 fenoprofen
 Hyzyd
+fosalvudine tidoxil
 epoetin gamma
 azatepa
 dapiprazole
-norletimol
-Rilozarone
-flordipine
+ciclesonide
+Solaraze
+Avandamet
 Nitro IV
 Pirohexal-D
 ibudilast
@@ -6009,20 +6122,20 @@ nixylic acid
 phenicarbazide
 Raxar
 triclofenol piperazine
-axitinib
+Rociclovir
 eprosartan
 Rimso-50
 meclorisone
-Infuvite
+chlorbetamide
 hexafocon B
-lesopitron
+Xolair
 bufogenin
 indanazoline
 Renamin
 bufeniode
 ioglunide
 dioxadrol
-Trianal
+ibuproxam
 aurothioglycanide
 ledoxantrone
 stibamine glucoside
@@ -6031,18 +6144,15 @@ acetarsol
 indium (111In) satumomab pendetide
 oxaliplatin
 lodinixil
-taprostene
-mosapramine
+Ventolin
 toliodium chloride
 cilofungin
 dexpropranolol
 velimogene aliplasmid
 Roxicodone
 sulisobenzone
-teicoplanin
 penirolol
 darexaban
-renytoline
 Idamycin
 Plenaxis
 Ibu-Tab
@@ -6052,24 +6162,23 @@ palinavir
 elotuzumab
 fluorodopa (18F)
 ceftiofur
-Clopra
+Dexamyl
 omidoline
 Vusion
 picumeterol
-plinabulin
+semparatide
 parathyroid hormone
 peratizole
 lepirudin
 iometin (125 I)
 oxymorphone
-cetuximab
+alloclamide
 bismuth subcitrate potassium
-hydromadinone
+sibrafiban
 damotepine
-Thalitone
+atriciguat
 642 Tablet
 Trisenox
-AK-Fluor
 atliprofen
 Betahistine
 Alferon
@@ -6079,26 +6188,28 @@ AllerMax
 Viibryd
 tererstigmine
 burixafor
-felvizumab
+Ridazolol
+apolizumab
 Albutein
 clostebol
-Bentazepam
+nocloprost
 seratrodast
 drotrecogin alfa
 orazipone
 Barbidonna
 Technetium (99mTc) fanolesomab
+amicarbalide
 Propoxyphene Compound 65
 valnemulin
 Ana-Kit
 amopyroquine
 Adphen
-oxiracetam
 dimelazine
 desoxycortone
 Metanixin
-Trilyte
-protirelin
+Bromaline Elixir
+norcodeine
+danofloxacin
 indolapril
 naveglitazar
 delfaprazine
@@ -6107,8 +6218,8 @@ quindonium bromide
 alogliptin
 Anafranil
 mitogillin
-Anspor
-chromocarb
+Westcort
+revenast
 Bepafant
 emricasan
 Chloresium
@@ -6122,10 +6233,10 @@ spiroxasone
 Neo-Fradin
 tibalosin
 fananserin
-prifelone
-Nurofen
+propagermanium pumaprazole
+sulfachlorpyridazine
 Estradurin
-Symbyax
+Chlorostat
 parvaquone
 thioacetazone
 panidazole
@@ -6135,7 +6246,7 @@ indopanolol
 Sal-Tropine
 Acthar Gel
 pirlimycin
-buphenine
+dexniguldipine
 pimetacin
 colestilan
 Vitussin
@@ -6154,6 +6265,7 @@ taplitumomab paptox
 cloroqualone
 seridopidine
 Methergine
+halcinonide
 cistinexine
 lomevactone
 cronidipine
@@ -6165,7 +6277,7 @@ ibafloxacin
 Calfort
 chlorprothixene
 Hispril
-milrinone
+mibolerone
 palovarotene
 urefibrate
 Tigan
@@ -6175,19 +6287,19 @@ aconiazide
 Bion Tears
 Robaxisal
 epicillin eta
-nadroparin calcium
-dieldrin
+fomocaine
+Minodyl
 stepronin
 Dtic-Dome
 dexclamol
 fosfluridine tidoxil
-AK-Pred
 Coldloc
 Lotrel
 tribuzone
-dizocilpine
+moexiprilat
 dropempine
 mepindolol
+Peganone
 Cefzil
 pholcodine
 idarubicin
@@ -6200,9 +6312,9 @@ sulfaloxic acid
 Flavored Colestid
 endralazine
 Angiscein
-HC (Hydrocortisone)
+tiemonium iodide
 cliprofen
-Ala-Cort
+napactadine
 oxogestone
 tivirapine
 spectinomycin
@@ -6210,7 +6322,7 @@ anilopam
 Skin Exposure Reduction Paste Against Chemical Warfare Agents
 sulfinalol
 Norflohexal
-alteconazole
+velnacrine
 seocalcitol
 cefaloridine
 E-Mycin
@@ -6224,7 +6336,7 @@ keliximab
 niceritrol
 cloponone
 policresulen
-Bevirimat
+lofexidine
 Baci-IM
 Brevoxyl
 mirococept
@@ -6236,8 +6348,8 @@ lentard
 Regonol
 bicifadine
 Keflet
-alcohol
-pivmecillinam
+isophane insulin
+Yasmin
 3F8
 Ergomar
 tolbutamide
@@ -6246,19 +6358,19 @@ milacemide
 Stoxil
 dezinamide
 minaprine
-ramorelix
+levitra
 Provocholine
 phenazone
 Pacerone
 prinaberel
 benactyzine
 Tubersol
+Ethrane
 hydrocortisone
 nifurtoinol
 Benzagel
 Vantin
 sulukast
-xenthiorate
 Disobrom
 tritiozine
 cyprolidol
@@ -6268,14 +6380,13 @@ Methylnaltrexone
 motapizone
 Phenergan
 tirapazamine
-traboxopine
-trebenzomine
+nalmexone
 serrapeptase
 diloxanide
 Capex
 octastine
-Isocaine
-etazolate
+setrobuvir
+delmetacin
 Beepen-VK
 Ripisartan
 SSD
@@ -6288,10 +6399,10 @@ ersofermin
 Atrovent
 heparin sodium
 Arzerra
-Snaplets-EX
+Nasalcrom
 sorbitan sesquioleate
-carperidine
-sinefungin
+inalimarev
+Carbiset Tablet
 Quinatime
 Rheaban
 estradiol valerate
@@ -6308,29 +6419,27 @@ plerixafor
 Bantron
 sothrombomodulin alfa
 lapaquistat acetate
-suplatast tosilate
-Pamine
+estrofurate
 impromidine
 diprafenone
 Photofrin
 feniodium chloride
 Estrovis
-Arestin
+sotrastaurin
 halopenium chloride
 Solaquin
 albendazole
-Klaron
-Duradyne DHC
-ramosetron
+Brevital Sodium
+Butal compound
+butaperazine
 tipredane
 umirolimus
 ramnodigin
-nicoracetam
 stavudine
 orlistat
 Alocril
+polysorbate 81
 etonitazene
-triamcinolone benetonide
 sezolamide
 lirexapride
 litracen
@@ -6342,18 +6451,17 @@ Lithotabs
 Salsitab
 vortioxetine
 telenzepine
-Arcalyst
-Rusalactide
-Nystex
+ketoxal
+Antineaream
+levomequitazine
 Myambutol
 casokefamide
 Beldin
 Synalar
-clocinizine
+Covan
 telinavir
-levamfetamine
+nicofibrate
 imazodan
-Metatensin
 imirestat
 lubeluzole
 alatrofloxacin
@@ -6361,66 +6469,67 @@ Maxipime
 cabastine
 Tetracyn
 tefenperate
-clogestone
-amphetamine
+acexamic acid
+levotofisopam
+taltirelin
 amlintide
-Hiprex
-saprisartan
+fenleuton
+nonabine
 Methylphenidate
 Lamprene
 mupirocin
 blinatumomab
 oxeclosporin
 enazadrem
-nepicastat
+Freamine
+ancitabine
 Rolitetracycline
 temocaprilat
 molindone
-suclofenide
+iocarmic acid
 Acylanid
-incobotulinumtoxinA
+Sucralfate
 streptokinase
 Asmalix
-Rolicyclidine
+salazosulfadimidine
 tropantiol
 prochlorperazine
 piridocaine
 dexamethasone cipecilate
-prednisone
+Inflamase Forte
 fenpentadiol
-pentoxyverine
-hexopyrronium bromide
+Cordarone
 Mesantoin
 polyglycolic acid
-cefotaxime
-dicoumarol
+arsenic trioxide
+samalizumab
 nivacortol
 contusugene ladenovec
 Bevacizumab
 Betnovate
-Caelyx
 Allegra-D
 tamitinol
 iodetryl
 isoprenaline
 tulopafant
 ethyl cartrizoate
-Retet
-Ophthetic
+idronoxil
+Nutropin
 Dolobid
 palivizumab
 Macrobid
 cinoctramide
 ocfentanil
+talviraline
 Alinia
 siguazodan
 abafungin
-diproqualone
+cortisone
 Prelay
 Atasol
 Panorex
+Plavix
 cinaciguat
-Wyamycin
 Androgel
 Mepron
 Valtrex
@@ -6434,34 +6543,34 @@ pimobendan
 desflurane
 cyclazodone
 Hyserpin
-avanafil
+polysorbate 80
 Purinethol
 Unithroid
-oxapadol
-Sulfaloid
+flunamine
+troglitazone
 Bactroban
 Advil
 Vancor
-mespirenone
+3M Avagard
 alphacetylmethadol
 sulfadimidine
 albutoin
-ecabapide
 ademetionine
 flutropium bromide
-Carmol 20
+Hebreastin
 edratide
-hydroxyethyl starch 130/0.4
+Ricasetron
 Chromitope Sodium
 Ortho Evra
+perhexiline
 Lozol
 Proventil
-nasaruplase beta
+doxorubicin
 Hiserpia
 naftazone
 nicoboxil
 pytamine
-compound solution of sodium chloride
+nivimedone
 ticarcillin/clavulanic acid
 pazopanib hydrochloride
 Coricidin
@@ -6474,26 +6583,24 @@ propiram
 oxolinic acid
 lucimycin
 Scandonest
-dexmethylphenidate
+psyllium hemicellulose
 etafenone
 nicainoprol
 carbazochrome sodium sulfonate
 fentanyl
 Flonase
-Delfen
-amisometradine
-troxypyrrolium tosilate
+dexverapamil
 Brompheril
 colimecycline
 Cotazym
 Benidipine
-saterinone
+Carbastat
 Tessalon
 avitriptan
 vincantril
 Riociguat
 Benurestat
-aptiganel
+Beperidium iodide
 lacosamide
 amidapsone
 E-Z Scrub
@@ -6501,11 +6608,9 @@ Chlordiazachel
 epirubicin
 Atnaa
 TPN Suspension
-Brevital Sodium
 cintramide
-Benzoxonium chloride
+Hivid
 Tolectin
-Catapres
 almagodrate amcinonide
 thyroglobulin
 Biavax II
@@ -6516,7 +6621,7 @@ Roquinimex
 moxilubant
 buciclovir
 ferumoxytol
-dithranol
+cefaparole
 ciprefadol
 Amonidrin Tablet
 isbufylline
@@ -6525,29 +6630,28 @@ Regroton
 Versapen
 homofenazine
 disobutamide
-Visudyne
+telmisartan
 sulpiride
-sulfaclomide
+AMPT
 vincofos
 timonacic
 nelotanserin
 Anusol hc
-amprolium
+Resectisol
 fenmetramide
-buquiterine
-pantoprazole
+tibolone
+aprobarbital
 AK-Poly-Bac
 salazodine
-diponium bromide
+droxidopa
 acetorphine
 naflocort
 aclatonium napadisilate
 Calcimar
-melinamide
 terlakiren
 cefdinir
-Spasmolin
-alitretinoin
+sulfamonomethoxine
+nipradilol
 xilobam
 mebeverine
 cedelizumab
@@ -6561,6 +6665,7 @@ Baker's P S
 iosimenol
 Disomer
 isoconazole
+suplatast tosilate
 Burinex
 Soflax
 Serpatabs
@@ -6575,36 +6680,34 @@ Benzmalecene
 benaxibine
 somatostatin
 etofylline
-pirodomast
 vidupiprant
 alimemazine
-IV Persantine
+vinepidine
 Alka-Mints
 Sulfabid
-macrosalb (99m tc)
-linaclotide
+omonasteine
+conbercept
 ornidazole
 Delatestryl
-ketoprofen
-alfetamine
-Bluboro
-pramipexole
+lorpiprazole
+naproxcinod
+atropine methonitrate
 Vibra-tabs
-myrtecaine
+Lincocin
 serlopitant
 niravoline
 Isovue
 Aplitest
 iproclozide
-hexapradol
+floxuridine
 clofibrate
 Sonata
 dimenhydrinate
 somatosalm
 pyrvinium chloride
 Calci-Chew
+subathizone
 nemadectin
-Carboptic
 silibinin
 pozanicline
 Capitrol
@@ -6612,37 +6715,37 @@ pleuromulin
 proguanil hydrochloride
 Skelid
 bitipazone
-Metrogel
 nocodazole
 iofetamine (123 I)
 tozasertib
 vipadenant
 indanidine
+Antitussive
 Alphalin
-biapenem
+Chlorphed
+protheobromine
 Paxene
 allomethadione
 racemoramide
 canbisol
 descinolone
+Priftin
 distigmine bromide
 tafamidis
-Nasalide
 ethenzamide
 closantel
 Rilmenidine
 sulfamazone
-Methyldopa
+AryoSeven
 Nephroflow
 carfimate
 fenfluramine
 epiroprim
 lotucaine
 dezaguanine
-Kesso-Gesic
 insulin defalan
 M.V.I.
-Dexamyl
+Clopra
 verubulin
 tiotixene
 amquinate
@@ -6654,9 +6757,9 @@ Econopred
 Siltussin-CF
 toltrazuril
 aripiprazole
-revenast
+Azolid
 lobucavir
-Chlorostat
+thiethylperazine
 ditekiren
 azintamide
 MPI Stannous Diphosphonate
@@ -6664,18 +6767,18 @@ epanolol
 Calcarb 600
 dupracetam
 telavancin
-fenpiverinium bromide
+chloralose
 mivacurium chloride
 Drixoral
 omeprazole
 cositecan
 debropol
 Meclodium
-lofexidine
+TheraCys
 Candex
-isophane insulin
+alcohol
 Trombovar
-levitra
+ramorelix
 Bemotrizinol
 azumolene
 AK-Mycin
@@ -6687,22 +6790,23 @@ Baycol
 luprostiol
 flupentixol
 mercaptopurine
-bosentan
+penoctonium bromide
 Methylthiouracil
 Lorelco
-Comhist
+carmetizide
 trimethobenzamide
 faropenem medoxomil
 Broxaterol
-Butal compound
+Duradyne DHC
 praziquantel
 hycanthone
 Chibroxin
 Myleran
-Covan
+Rifaximin
+clocinizine
 tezampanel
-taltirelin
-fenleuton
+amphetamine
+saprisartan
 digitoxin
 Mexitil
 afelimomab
@@ -6712,11 +6816,12 @@ asparaginase
 tideglusib
 monoxerutin
 sodelglitazar
-cortisone
-Plavix
+diproqualone
+CGP-42446
+etifelmine
 Bancap
 Ortho-Cept
-flunamine
+oxapadol
 cloguanamil
 trimegestone
 hedaquinium chloride
@@ -6731,23 +6836,27 @@ ameltolide
 linsidomine
 ketimipramine
 niguldipine
+etidronic acid
 monalazone disodium
 Lymphazurin
 sodium tetradecyl sulfate
-aprobarbital
+pantoprazole
 Eulexin
 Depo-Estradiol
 mobenzoxamine
 Bromebric acid
 iomazenil (123 I)
+cafaminol
 Celontin
 darodipine
 idramantone
 somatorelin
+Bezitramide
 Unguentine
 pentapiperium metilsulfate
 Ser-Ap-Es
 orphenadrine
+vigabatrin
 somalapor
 Commit Lozenge
 elagolix
@@ -6756,24 +6865,25 @@ seglitide
 minocromil
 Humatrope
 Otobiotic
-loxoribine
+sulfamethoxazole
 ormaplatin
+Supartz
 cefrotil
 vosaroxin
 Rhinocort
-Vagifem
 iosimide
 Albunex
 Vermizine
 acetazolamide
 atamestane
 tricosactide
-Bezitramide
-sulfamethoxazole
+prampine
+loxoribine
 Benzaprinoxide
 pentopril
-becliconazole
-Buf-Puf Acne Cleansing Bar
+Tora
+ispronicline
+sumarotene
 Roxoperone
 Diutensen-R
 dazidamine
@@ -6781,7 +6891,7 @@ Provigil
 salicylamide
 arfendazam
 motexafin lutetium
-ispronicline
+Crystodigin
 tolafentrine
 ingenol mebutate
 yttrium (Y 90) clivatuzumab tetraxetan
@@ -6789,12 +6899,13 @@ mifepristone
 Lithobid
 sulbenicillin
 diphenoxylate
-Dycill
+niometacin
 abecarnil
 isoxaprolol
 Robimycin
 Synophylate
 Dexampex
+Previfem
 Demerol
 carindacillin
 defibrotide
@@ -6802,48 +6913,46 @@ foretinib
 dalteparin sodium
 Neutrexin
 Corgard
-Septra
 miroprofen
 Sodium Versenate
+Hep Flush Kit
 alphameprodine
 calcifediol
 testosterone undecanoate
 trifluoperazine
 ractalind
-mildronate
+cotinine
 tandospirone
 diarbarone
 osanetant
 Roflurane
-Starlix
-sparsomycin
-Crystodigin
+Anthraforte
 fosopamine
-dexindoprofen
+dexrazoxane
 clenpirin
 dioxamate
 degarelix
-nadoxolol
+Prednicen-M
 iclazepam
-levdobutamine
+sulfapyrazole
 ecromeximab
-intriptyline
+dimepranol
 perphenazine
 Ritipenem
 Mirapex
 Cefmax
 simfibrate
-Campath
 camphotamide
-tretinoin tocoferil
+Methiodal sodium
 Cruex
 abamectin
 Pyridamal 100
 tertatolol
 prulifloxacin
-Biozyme-C
+ethyl carfluzepate
 pyronaridine
-Amicar
+ipenoxazone
+targinine
 nacolomab tafenatox
 mibampator
 Alcomicin
@@ -6861,8 +6970,9 @@ oxibetaine
 Borofax
 propylthiouracil
 Bamifylline
+torbafylline
 pelanserin
-pirandamine
+Q-Gesic
 Cardinorm
 terbinafine
 mexiprostil
@@ -6875,138 +6985,134 @@ acemetacin
 eflornithine
 Isohexal
 Ativan
-Scrubteam Surgical Spongebrush
+amtolmetin guacil
 triclacetamol
 Scalpisin
-biricodar
-mequitamium iodide
+mercumatilin sodium
+acetaminosalol
 Quadramet
 carbubarb
 doripenem
-pinacidil
+orbutopril
 motretinide
 Stri-dex
-dequalinium chloride
+cellacefate
 fosaprepitant
 minolteparin sodium
-pararosaniline embonate
 tiamenidine
-Methosarb
-tioclomarol
-timobesone
+polyestradiol phosphate
+ociltide
 Androlone
-Ciprodex
+drotaverine
 ublituximab
-taltobulin
+Norco
 Primacor
 valofane
 flavodilol
 bisoctrizole
 Dynabac
 Rifamexil
-Metipranolol
+pirinixic acid
 clofeverine
 lotrafilcon B
 Nebupent
 Rifampicin
-Rivasol
+surfomer
 toloconium metilsulfate
 Sporanox
 desmethylmoramide
 pemedolac
-spirofylline
+flunidazole
 igmesine
 hexaminolevulinate
 Amphojel
-triclosan
-aminoxytriphene
+diniprofylline
+clodacaine
+Tomycine
 Migergot
 dulozafone
 fradafiban
 sulindac
 Ribostamycin
 Truxcillin
-Sanorex
-pomalidomide
+Salpix
+Ismelin
 Velcade
-Alfenta
+Enbrel
 Simulect
 Pronestyl
 bendazac
 xanoxic acid
 Parsidol
 deferiprone
+prosulpride
 Low-Ogestrel
 azoximer bromide
-Sucraid
+flupirtine
 diprofene
 epervudine
 ubisindine
-sulfaclozine
-amitivir
-Cetacaine
+Lamisil
+fosazepam
+Larotid
 dexamisole
-ciclotizolam
+acriflavinium chloride
 pyrophendane
 taurosteine
 spiradoline
 nateglinide
 Halog
-Lamisil
-amonafide
+closiramine
 Benziodarone
-Reminyl
-lobenzarit
+Athrombin
 Repronex
-polynoxylin
+Kainair
 Evoxac
-dantron
+agatolimod
 levcycloserine
 heliomycin
 phenobarbital
-ecomustine
+Haldol
+tamixaban
 anastrozole
 subendazole
-Basifungin
+laudexium metilsulfate
 caroxazone
 proclonol
-colesevelam
+Stadol
 Theomar GG
 etoprindole
 modafinil
-Cystadane
+thiram
 alibendol
-tiliquinol
 fluoxetine
 isocarboxazid
 Oxy-Kesso-Tetra
-Precedex
+ismomultin alfa
 narasin
 Romazarit
 tenoxicam
-Demadex
+iprozilamine
 bisantrene
 Vagigard
 dicarfen
-sepantronium bromide
+Clear Tussin 30
 stallimycin
-Actin-N
 Rilapine
 valproate semisodium
-alendronic acid
-Rolaids
+piribedil
 cicletanine
 donepezil
 apaziquone
-anagliptin
+Catarase
 etiracetam
 Temovate
 desmoteplase
 camazepam
 normethadone
 cloxacillin
-etebenecid
-primidolol
+ciclotropium bromide
+enviomycin
 omiloxetine
 Bepridil
 clovoxamine
@@ -7016,28 +7122,27 @@ Hexadrol
 defosfamide
 oxymetholone
 fludeoxyglucose (18F)
-tobicillin
-cotinine
-cloxazolam
+morsuximide
+trimoprostil
 Rolodine
 biperiden
 Qualisone
 Metergoline
 bufezolac
+dexfosfoserine
 falimarev
 Exidine
 lapuleucel-T
-tamixaban
+semorphone
 tedatioxetine
 Ceftriaxone
 Apatate
 piraxelate
 arteflene
 Hyzaar
-bucainide
-acebutolol
-aminopromazine
-ciclotropium bromide
+Carbatrol
+Nephramine 5.4%
+ranibizumab
 mertiatide
 Fragmin
 Citanest Forte
@@ -7046,11 +7151,11 @@ Ovidrel
 etocrilene
 iofendylate
 choline theophyllinate
-Cordarone
 piperocaine
 elpetrigine
+Vicodin
 eltanolone
-Sulcrate
+ferndex
 mofebutazone
 pamaqueside
 carvedilol
@@ -7058,14 +7163,14 @@ itanoxone
 RTCA
 Criticare HN
 Bronkometer
-dexrazoxane
+dexindoprofen
 eptacog alfa (activated)
 fotretamine
-cefoperazone
+lodaxaprine
 ciprokiren
 clocapramine
 Romilar AC
-cinfenoac
+icometasone enbutate
 Daunorubicin
 ipidacrine
 Serc
@@ -7074,7 +7179,7 @@ flindokalner
 Risocaine
 mitomycin
 Buphenyl
-fenoxazoline
+alonacic
 tolimidone
 taclamine
 dexchlorpheniramine
@@ -7082,34 +7187,35 @@ Aler-Dryl
 Isopaque
 Pentasa
 nebacumab
-Maxaquin
+prodolic acid
 spiroglumide
-flunoprost
+Axid
 seprilose
 Rovelizumab
 intrazole
 cefotetan
 vanitiolide
-sulfapyrazole
+Alora
 Ceredase
 acrivastine
 tiacrilast
 merisoprol (197 Hg)
 icrocaptide
 anatumomab mafenatox
+spiriprostil
 fenirofibrate
-diaziquone
+exepanol
 tradecamide
 Barc Liquid
 ponezumab
 Malarone
 Mymethazine Fortis
 demoxytocin
-niridazole
 pemoline
-cefoxazole
+talmetoprim
 tazadolene
 feprazone
+toremifene
 Concentraid
 Sensorcaine
 Wehdryl
@@ -7120,11 +7226,12 @@ piprofurol
 Megatope
 flucindole
 Hydra-Zide
+Toradol
 bucetin
 Hyalgan
-Solarcaine
+pirbenicillin
 picafibrate
-anazolene sodium
+nilprazole
 mersalyl
 Risotilide
 epratuzumab
@@ -7132,21 +7239,22 @@ calaspargase pegol
 Argesic-SA
 Kenacort
 Teebacin
-temefos
+delavirdine
 dexnafenodone
 mipragoside
-alpiropride
-velnacrine
+ivermectin
 sodium glucaspaldrate
 chlorcyclizine
 lexatumumab
-valpromide
+Welchol
+fepentolic acid
+Tofranil
 pentolonium tartrate
 olaflur
-eldacimibe
+nonoxinol
 pargeverine
-Vepesid
-Agenerase
+endomide
+picartamide
 dexamfetamine
 miglitol
 Quelicin
@@ -7155,35 +7263,33 @@ fluzoperine
 Quide
 trifluperidol
 ambicromil
-orvepitant
+sodium picofosfate
 butaverine
 Visken
 clidafidine
 tiflorex
 epitiostanol
-cabazitaxel
 Cephalexin
 midazolam
 sulmepride
 propentofylline
-pemirolast
-Cardiogen-82
+fentonium bromide
+xenyhexenic acid
 Chymodiactin
 trocimine
-ardenermin
 iodixanol
 nuvenzepine
 butropium bromide
 Brotizolam
 Mycolog-II
-meladrazine
+enlimomab pegol
 fernisolone-P
-ipenoxazone
+Amicar
 arbekacin
-carbidopa
-fosalvudine tidoxil
-propagermanium pumaprazole
-Pfizerpen
+carbamazepine
+iolopride (123 I)
+oxepinac
+camobucol
 Tri-Previfem
 Brotianide
 sequifenadine
@@ -7200,40 +7306,40 @@ tefazoline
 Betaject
 oxydipentonium chloride
 hexacyprone
-Byclomine
+Vi-Twel
 mecobalamin
 Barmastine
 carcainium chloride
-moquizone
+nacartocin
 cloramfenicol pantotenate complex
-Ritalin
+Valpin 50
 iodine povacrylex
-Thermazene
+Provera
 Actron
 Senokot
 Pamelor
 fomidacillin
-azficel-T
-mivazerol
+fluanisone
 epoetin zeta
 Bellafoline
 dipyridamole
-xylocoumarol
+Temaz
 quinisocaine
-elgodipine
+onabotulinumtoxinA
 Metamfepramone
 pexacerfont
 ibandronic acid
-picilorex
+arnolol
 teglarinad
 disulergine
 ferropolimaler
 idraparinux
 clazolam
 Berubicin
-halazepam
-Hycodan
-Metostilenol
+terlipressin
+Methyprylon
+Physiosol
+nicotine
 Azelex
 Persantine
 Rhotral
@@ -7241,15 +7347,17 @@ fenticlor
 Sus-Phrine Sulfite-Free
 dexloxiglumide
 perfluorobutane
-Batelapine
+tioxidazole
 vidarabine
 benazeprilat
 tiplasinin
 dietifen
 Detrol
 alestramustine
+tocilizumab
 cycotiamine
-Proferdex
+Doryx
+Contac
 melengestrol
 heptaverine
 Norditropin
@@ -7261,6 +7369,7 @@ periciazine
 Romosozumab
 tolpronine
 meglutol
+Metesind
 Urobak
 octabenzone
 Noritate
@@ -7269,29 +7378,25 @@ Rifater
 dinoprostone
 lomustine
 Anbesol
-Cal-Gest
 Avlosulfon
 sodium aurotiosulfate
-Alimta
+cefpodoxime
 trigevolol
 parsalmide
-Q-Gesic
 fluprazine
-Dial
 Bentylol
-prampine
+canosimibe
 laprafylline
-Vicks Formula 44
+amantadine
 resatorvid
-iomorinic acid
+An-DTPA
 Belviq
 Amphotec
 cisplatin
-Tonopaque
+carboprost
 Ketalar
 Benzindopyrine
 sulfinpyrazone
-Yervoy
 fipexide
 Lanophyllin
 lysergic acid diethylamide
@@ -7306,38 +7411,37 @@ Voveran
 azaperone
 cyanocobalamin (60 Co)
 ticolubant
-mimbane
+raxibacumab
 almurtide
-azidamfenicol
+Sporahexal
 oxagrelate
 Viadur
-ractopamine
+Diflucan
 suramin sodium
 octatropine methylbromide
-Rocepafant
+fenbufen
 azacosterol
 Tyzine
 Bromazepam
 Duraphyl
 warfarin
 Pred-G
-ciproquinate
-promestriene
+avicatonin
 acifran
-311C90
-Haldol
+Su-Tuss-HD
+Orlaam
 diisopromine
 desirudin
 Cystografin
 Sebizon
 calcium dobesilate
-lacidipine
+K-Dur
 Optivar
 Renagel
-Cleocin
 Trandate
 alglucosidase alfa
-Bentamapimod
+caramiphen
+epostane
 Clozaril
 nasaruplase
 Lotensin
@@ -7345,70 +7449,74 @@ Menostar
 Doriden
 Xylo-Pfan
 biciromab
-Norvir
+Exosurf Neonatal
 Wampocap
 Iopidine
 Seconal
 decitropine
 Talacen
 Aventyl
+pemirolast
 Portia
+tadalafil
 aminometradine
 netivudine
 meropenem
-biclotymol
+fludrocortisone
 clociguanil
 dirithromycin
 iofratol
 liraglutide
 perafensine
-camostat
-Hebreastin
+troclosene potassium
+dicycloverine
 pramiracetam
 cyclobutoic acid
-exametazime
+Sal-Plant
 Chymex
-surinabant
+moctamide
 florbetapir (18F)
 Hexalen
 Mavik
 butinazocine
 benethamine penicillin
 tritoqualine
-Benzoclidine
-paracetamol
+chlormerodrin
+tanespimycin
 Lomotil
 AK-Rinse
-leurubicin
+sarizotan
 sulotroban
-Soma
+Barobag
+cedefingol
 Cyclospasmol
 firocoxib
-doconexent
+tilactase
 dianicline
-piketoprofen
-mercumatilin sodium
+diclometide
+biricodar
 Brobactam
 mannosulfan
-Welchol
+onrehi
 Preven Emergency Contraceptive Kit
-halocortolone
+noreximide
+Ting
 probenecid
 symetine
 sinecatechins
 niludipine
-mafosfamide
+prolonium iodide
 linetastine
 etilevodopa
 sulfametoxydiazine
-vebufloxacin
+Avita
 heptabarb
 phenothiazine
 nexeridine
 epoetin beta
 sulglicotide
 Sufenta
-Lactated Ringer's solution
+efrotomycin
 hydroxydione sodium succinate
 flumequine
 etrabamine
@@ -7419,29 +7527,28 @@ dimoxyline
 codactide
 Soxazole
 pretamazium iodide
-Aerolate
+Acthar
 Stop
 Neurontin
 Tis-U-Sol
 Doxy-Sleep-Aid
+Norlestrin
 Ivadantin
-levoxadrol
+ftorpropazine
 Dynacirc
 Besigomsin
-Micronor
+chlorphenesin
 Avaxim
-Butapap
-orbutopril
+lutropin alfa
 Benoxyl
-cefpodoxime
 dimethiodal sodium
 nemonapride
 declenperone
 sodium chromate (51 Cr)
 nifurdazil
-cellacefate
-Tridesilon
-tozadenant
+dequalinium chloride
+dihydralazine
+tiazesim
 talizumab
 indinavir
 edoxaban
@@ -7451,21 +7558,20 @@ pivampicillin
 palmoxiric acid
 Congess Jr.
 protriptyline
-Unipen
+lisdexamfetamine dimesylate
 sertraline
-tilomisole
 forasartan
 Methylbenzethonium chloride
 piroxantrone
 iprocrolol
 Milophene
-Metindizate
+quinezamide
 Metoquizine
 alrestatin
 Metrafazoline
 remestemcel-L
 desomorphine
-aklomide
+Benzethidine
 tribendilol
 nateplase
 Neo-Cortef
@@ -7475,12 +7581,12 @@ Caroid
 Durabolin-50
 Metopirone
 perfosfamide
-tretoquinol
+tobuterol
 Rolziracetam
 colestolone
 clinofibrate
 Albuminar
-proxorphan
+arbaclofen placarbil
 enprostil
 Estraguard
 DTPA
@@ -7488,7 +7594,7 @@ Tazorac
 espatropate
 Rimiterol
 tildipirosine
-deboxamet
+indium (111In) imciromab
 Hibistat
 ciladopa
 Methoxamine
@@ -7502,16 +7608,17 @@ iganidipine
 chlorpropamide
 Uloric
 Ivy Block
-Vermox
+butidrine
 motexafin gadolinium
 pegaldesleukin
 Butabarb
-spiriprostil
+sarmazenil
 E-Z Prep
 Phenaphen
 covirasil
 eprobemide
 Rid Mousse
+tolgabide
 acesulfame
 Selsun
 diproleandomycin
@@ -7522,8 +7629,8 @@ cefradine
 Bromopride
 cloprostenol
 vancomycin
-aganirsen
-talastine
+sulfaperin
+ispinesib mesylate
 florifenine
 mefeclorazine
 avotermin
@@ -7532,28 +7639,27 @@ oxiperomide
 inicarone
 eliglustat
 Tussionex
-fencamfamin
+pegdinetanib
 rasburicase
-Rau-Sed
-murocainide
+hydrobentizide
+Angio-Conray
 Cancidas
 ergocalciferol
 selodenoson
-Jayln
+propipocaine
 mephenesin
 Eutron
 demexiptiline
-Panretin
+Nallpen
 terbutaline
 cyclobutyrol
 pravastatin
 enisamium iodide
-Sofarin
 Cylate
-Symadine
+morforex
 sevelamer
 cariporide
-forfenimex
+lifarizine
 phenoperidine
 etomoxir
 Tri-Norinyl
@@ -7562,25 +7668,26 @@ Indahexal
 mianserin
 epipropidine
 ciprazafone
-ditophal
+Lantus
 delmitide
 turofexorate isopropyl
-Donnatal "D" tablets
+Hexal Clofeme
 Donnatal
 peramivir
 Somophyllin
+patamostat
 Circanol
 mercurobutol
 corifollitropin alfa
 pipethanate
-pentifylline
+Mandol
 Uticillin VK
 Alavert
-pirinixic acid
-nisobamate
-Pertofrane
+Metipranolol
+Proglycem
+allopurinol
 Cecon
-clodronic acid
+Sulfamylon
 aronixil
 Rivastigmine
 feprosidnine
@@ -7589,7 +7696,6 @@ amoxydramine camsilate
 Calciday-667
 Brovincamine
 eprovafen
-mitocarcin
 Decabid
 Rilotumumab
 Bafetinib
@@ -7606,56 +7712,56 @@ bunamidine
 nicoxamat
 Largon
 paraflutizide
-Tab-Profen
+pamaquine
 Polysporin
 Rimantadine
 fenquizone
 Sulfalar
 clodoxopone
-minoxidil
+methaphenilene
 bucromarone
-flunidazole
+spirofylline
 alafosfalin
 caricotamide
 levodropropizine
 Alupent
 bosutinib
 derpanicate
-fepromide
-Cosmegen
+Apap with codeine phosphate
+Advicor
 Aminess
 luliconazole
 Beta-HC
+phenampromide
 toldimfos
 fenbendazole
-diniprofylline
+triclosan
 Anodynos-DHC
 aganepag
 Ontak
-prosulpride
+omtriptolide sodium
 Propacet 100
 Betacetylmethadol
 Oretic
 Sativex
-bisaramil
+Biphetamine
+suxibuzone
 febarbamate
 sorafenib
-Kytril
+cargutocin
 Arlidin
 ulobetasol
 topixantrone
-clodacaine
-Talohexal
+aminoxytriphene
+Rauval
 vorapaxar
 Wurinitur
 amfepentorex
-Bropirimine
 Taractan
 ambuside
 tilozepine
 detajmium bitartrate
 clonixeril
-enciprazine
 pimozide
 selumetinib
 Pherazine
@@ -7663,28 +7769,30 @@ Novasone
 terbucromil
 Testoderm
 sermetacin
-dimetindene
+Strattera
 RC Lice
 nonaperone
 Sildaflo
 carperitide
+doramectin
 carnidazole
 eptotermin alfa
 MD
 Tegison
+Physiolyte
 enadoline
 Florinef
 prothixene
 lidofenin
 Benorterone
+norpipanone
 Rynatuss
-isoprofen
+mizoribine
 octafonium chloride
 Nascobal
-nisterime
-epirizole
+radezolid
 benclonidine
-tiflamizole
+secretin
 orotic acid
 dotarizine
 potassium canrenoate
@@ -7695,35 +7803,35 @@ Cystospaz
 valine
 lobendazole
 Permax
-Salpix
-pexiganan
+Sanorex
+Rimactane
 perospirone
 Technetium (99mTc) nofetumomab merpentan
-camylofin
+vinpocetine
 Tinamed
 Selax
 Benadryl
 Empracet
 temoporfin
-Ismelin
+pomalidomide
 Tritec
 trengestone
 Vasodilan
 tregalizumab
 Rosaprostol
 tolboxane
-Metampicillin
+Plan B
 cisconazole
-biclodil
+oxantel
 Calcibind
 Pseudo-12
 amanozine
 Optimine
-Enbrel
+Alfenta
 bucelipase alfa
 ethanol
 thioridazine
-denipride
+Unipen
 sebriplatin
 Maxolon
 Hydeltrasol
@@ -7735,7 +7843,7 @@ Climara pro
 flunitrazepam
 lynestrenol
 eculizumab
-Evalose
+cipralisant
 astemizole
 efegatran
 Norflex
@@ -7751,13 +7859,15 @@ ciclonicate
 pirralkonium bromide
 indometacin
 fludiazepam
-travoprost
+sirukumab
 Del-Vi-A
 trifluridine
+chlormidazole
 desloratadine
 mannomustine
 Brinzolamide
 teflurane
+visilizumab
 ocinaplon
 polycarbophil
 apremilast
@@ -7766,7 +7876,7 @@ DTIC-Dome
 Cophene-B
 sarcolysin
 Robengatope
-flupirtine
+Sucraid
 fenadiazole
 cyclarbamate
 inproquone
@@ -7774,20 +7884,21 @@ Aerolone
 ornipressin
 Broclepride
 Masterone
-insulin lispro
+carisbamate
 sulfadimethoxine
 BMS-232632
 levacetylmethadol
 Thioplex
-etofenamate
-talsupram
+Prevpac
+carnitine
+cefotiam
 Hexal Diclac
 molsidomine
 nabilone
 Colocort
 anaritide
 dimethadione
-butanixin
+Axotal
 dimiracetam
 almestrone
 pipazetate
@@ -7799,7 +7910,7 @@ Flexicort
 Barbita
 Inflamase Mild
 Xatral
-Kappadione
+Azasan
 flosulide
 Salactic
 Benzodepa
@@ -7808,20 +7919,19 @@ xipamide
 Uremol
 Methylprednisolone aceponate
 prenoxdiazine
-Dionosil Aqueous
+Nutrilipid
 lapatinib ditosylate
 Cyclomen
 pidolacetamol
-siccanin
 epoetin kappa
 cefozopran
 tiludronate
 Integrilin
-fosazepam
+amitivir
 dimeprozan
 Mepergan
 inolitazone
-Larotid
+Cetacaine
 Estinyl
 loperamide
 Klor-con
@@ -7837,24 +7947,21 @@ proxifezone
 alexitol sodium
 calcium glubionate
 Coly-Mycin M
-Copegus
 eribaxaban
 Congestant D
 HMS® (medrysone)
-carnitine
 desogestrel
 cloperastine
-ibuproxam
-Ovide
+stirocainide
 acipimox
-atreleuton
+cefuzonam
 lactulose
 efletirizine
-peliglitazar
+Urex
 Rivanase AQ
 olpadronic acid
 Eloxatin
-Vitravene
+estriol succinate
 fenclofenac
 Opcon
 Reversol
@@ -7867,25 +7974,24 @@ tepoxalin
 Akbeta
 cefoxitin
 Thiola
-closiramine
+amonafide
+etocarlide
 Quixin
 Triquilar
 Kapidex
-Inpersol
+polysorbate 20
 Rivanicline
-Mandol
-Athrombin
-quadazocine
+Reminyl
 tibezonium iodide
 bunazosin
 Cortisporin
 Nogenic HC
 arprinocid
-Dicurin Procaine
+xenalipin
 Nardil
 Hepsera
 loviride
-Teargen
+Akineton
 Urso
 Microgestin Fe
 albitiazolium bromide
@@ -7899,7 +8005,7 @@ demelverine
 ditiomustine
 atorolimumab
 nifursol
-agatolimod
+dantron
 pirquinozol
 Hexabrix
 Paraplatin
@@ -7913,23 +8019,21 @@ cisatracurium besilate
 diethylstilbestrol
 allylprodine
 tivanidazole
-flunoxaprofen
 tebuquine
-normorphine
+ciclopirox
 Risedronic acid
 pentazocine
 flurbiprofen
 iotasul
-Carbolith
+TobraDex
 ciheptolane
 Vontrol
-nitraquazone
 Thioguanine
 Sucrets
 trichlormethiazide
 Injectapap
+phenylmercuric borate
 Tensilon
-laudexium metilsulfate
 Duvoid
 ascorbic acid
 cantuzumab mertansine
@@ -7938,17 +8042,15 @@ ecothiopate iodide
 Striant
 Ditate-DS
 hetacillin
-difetarsone
-fenfluthrin
+calcipotriene
 nifurpirinol
 revatropate
 butoconazole
 revamilast
 vatreptacog alfa (activated)
-ifosfamide
 tranilast
 CytoGam
-Stadol
+colesevelam
 nicomorphine
 Neo-Cort-Dome
 promethazine
@@ -7956,25 +8058,25 @@ halofuginone
 reteplase
 Orlex
 iprindole
-efetozole
-thiram
+argipressin
+Cystadane
 fepitrizol
 mefenidramium metilsulfate
-Seasonale
+Bertosamil
 clemizole penicillin
 Chemet
 Prostin E2
 Oncaspar
 perflunafene
 Metadate
-pipobroman
+Acebutolol HCl
 melarsomine
 Olux
 levofacetoperane
 Vapo-Iso
+alvimopan
 phenolphthalein
-flumizole
-etifelmine
+Folvite
 An-sulfur colloid
 nerelimomab
 pipradrol
@@ -7986,38 +8088,34 @@ ethypicone
 thiambutosine
 sulfadiazine
 alfadex
-siplizumab
+razoxane
 aminorex
 taluglucerase alfa
-ismomultin alfa
+Precedex
 Dimetapp
 acediasulfone
 racefenicol
-timofibrate
+Cholan-HMB
 sodium metrizoate
 fazadinium bromide
 histidine
-Sparine
 edobacomab
 triclofos
 ledismase
 Lipo-Hepin
-nifuradene
-pyridofylline
 cinaproxen
-climbazole
+Lorcet-HD
 MPI Indium DTPA In 111
 clofazimine
 Metipirox
 Testred
 Principen
-sedecamycin
+prazarelix
 mequitazine
-relomycin
+Demadex
 Cervidil
 Tambocor
-Panmycin
-Metesind
+naluzotan
 Rifametane
 stiripentol
 telcagepant
@@ -8027,6 +8125,7 @@ tifencillin
 Keftab
 necopidem
 beclometasone
+mivazerol
 sufosfamide
 difluprednate
 carteolol
@@ -8038,10 +8137,9 @@ sometripor stilonium iodide
 croscarmellose
 anipamil
 olaratumab
-Stimate
+didrovaltrate
 sutilains
-diiodohydroxyquinoline
-Unitensen
+clevidipine
 amiquinsin
 reboxetine
 delimotecan
@@ -8052,7 +8150,7 @@ albuglutide
 Mesnex
 cannabis
 Cardiotec
-Hydrogenated ergot alkaloids
+felbatol
 tolindate
 esculamine
 Erythrocin
@@ -8063,15 +8161,14 @@ Hydropres
 atracurium besilate
 Brexidol 20
 biriperone
-bisfenazone
 Eskalith
 sermorelin
-Metamfetamine
+quinetalate
 Rhinosyn
-phenyracillin
+semduramicin
 trovirdine
 6-MP
-ethotoin
+alendronic acid
 Slow-K
 Barucainide
 Brombay
@@ -8079,14 +8176,14 @@ Bronopol
 iopronic acid
 aceburic acid
 alisporivir
-Parnate
+Cebid
 uredofos
-cefsumide
 bitoscanate
 cycrimine
 nifekalant
+cilastatin
 Tegretol
-azlocillin
+nuclotixene
 diclonixin
 Septi-Soft
 Actimmune
@@ -8098,38 +8195,35 @@ terfenadine
 spiroxepin
 Phiso-Scrub
 troxonium tosilate
+sodium ascorbate
 tralonide
 morazone
-oxpheneridine
-dalvastatin
 pindolol
 cipamfylline
-Catarase
 diaveridine
 Rutoside
 bifluranol
 tanaproget
-Maolate
+clorgiline
 mecamylamine
 Nydrazid
-felbatol
 diacerein
 forodesine
 Vesprin
 clopipazan
-litronesib
+Droxia
 erizepine
 troxipide
 AVAR
 Cortalone
 Phospholine Iodide
 cingestol
-oxazafone
+Venofer
 Jintropin
 samixogrel
 Pascalium
 iophenoic acid
-flurazepam
+Ala-Scalp
 tallimustine
 Sulsoxin
 becantone
@@ -8137,10 +8231,8 @@ Sleepwell 2-nite
 Corzide
 Rea-Lo
 trofosfamide
-josamycin
-Halflytely
+polysorbate 60
 Slo-Phyllin
-candoxatrilat
 Creon 5
 Betaprodine
 B 9273
@@ -8148,13 +8240,13 @@ azolimine
 iboctadekin
 fluorodopa
 pivoxazepam
-axomadol
+quinacillin
 carabersat
 veradoline
 nagrestipen
 Head &amp; Shoulders Conditioner
-sulfatolamide
-enviomycin
+dienogest
+primidolol
 inakalant
 CG
 emakalim
@@ -8165,11 +8257,11 @@ Biaxin
 indapamide
 apricoxib
 Ulcerease
-actarit
+levamisole
 penflutizide
 Terra-Cortril
 polymyxin B
-nogalamycin
+cimoxatone
 setiptiline
 chloral hydrate
 altoqualine
@@ -8181,20 +8273,21 @@ insulin zinc suspension (amorphous)
 setipiprant
 clofibric acid
 irloxacin
-Rifaximin
+Reno
 mexiletine
 mezlocillin
 butanilicaine
-etryptamine
-Isoptin
+Cuprimine
+fenyramidol
 teprotide
 ChiRhoStim
 pimetine
+regavirumab
 indiplon
 fenamifuril
 Dynapen
 Ciloxan
-Angiomax
+dilmefone
 meseclazone
 Dermatop
 Ocusert Pilo
@@ -8204,19 +8297,18 @@ Benzocaine
 clobenzepam
 denpidazone
 Cibacalcin
-enloplatin
 pamapimod
 testolactone
-Restall
+encyprate
 epristeride
-topiroxostat
+hexamidine
 Arthrotec
 Suboxone
 Robaxin
 cilobamine
 nitracrine
 avagacestat
-isosulpride
+Brevicon
 Statrol
 delergotrile
 filgrastim
@@ -8224,7 +8316,7 @@ Metbufen
 hydroxocobalamin
 Sonorx
 drotebanol
-pareptide
+sotatercept
 Shur-Seal
 diamocaine
 calcitonin, human
@@ -8232,19 +8324,19 @@ Proloid
 supidimide
 Nicorette
 anpirtoline
-cipropride
+carbazochrome salicylate
 Benserazide
 Oxsoralen
-chlorhexidine
-acequinoline
+Metallibure
 Azahexal
 indoramin
 Embolex
 Faslodex
 Innofem
-morsuximide
-icomucret
-trimoprostil
+tobicillin
+Trobicin
+Modicon
+Betasizofiran
 setazindol
 Briobacept
 oxymesterone
@@ -8261,18 +8353,17 @@ salnacedin
 Brian Care
 sulesomab
 deprodone
-Duricef
+Renova
 bipenamol
-Travert
+laropiprant
 cofisatin
 Thyrogen
 pempidine
-Elocon
+cloxazolam
 Codimal-L.A. 12
 khelloside
 Rofact
-Benznidazole
-Folvite
+Altebrel
 verapamil
 adamexine
 sprifermin
@@ -8281,40 +8372,36 @@ dezocine
 methandriol
 Librium
 Carrington Antifungal
-venritidine
+hydroxyzine
 Ticlid
 triaziquone
 sumetizide
 cloquinate
 mecloxamine
-Curretab
+Romidepsin
 Ortho Tri-Cyclen
-Canasa
-parathiazine
 sarilumab
 5-ASA
-Skelaxin
+Risperidone
 piroximone
-Ethril
+fasobegron
 cilazapril
 Bervastatin
 begacestat
 dazolicine
 sulla
 Acihexal
-visnadine
+cobiprostone
 Narcan
 fimasartan
-Solaraze
 ACTH
 moveltipril
-semorphone
-epoetin iota
-atosiban
+clonixin
+exiproben
+Loraz
 teflutixol
 pipotiazine
 hydrochlorothiazide
-crenolanib
 Milontin
 fluzinamide
 edodekin alfa
@@ -8325,7 +8412,6 @@ ReciGen
 dinitolmide
 naftopidil
 Candin
-nicofibrate
 fludazonium chloride
 pitofenone
 etoposide
@@ -8335,6 +8421,7 @@ cefalexin
 calteridol
 Cytadren
 dosulepin
+tramazoline
 sorbitan trioleate
 raxofelast
 pirazofurin
@@ -8345,31 +8432,33 @@ dihydroergotamine
 piroheptine
 calcium levofolinate
 aldioxa
-Ronacaleret
+alifedrine
 emicerfont
 faxeladol
 Keflex
 flezelastine
-Corphed
+Intelence
 xemilofiban
 citicoline
 Mymethasone
 Moban
 talimogene laherparepvec
-Cefobid
+dihexyverine
+irinotecan
 afatinib
 calcium disodium versenate
 Restasis
-Riopan
+lucatumumab
 verlukast
-Sulfacet-R
+Sinemet
 adsorbocarpine
 darunavir
 butalbital
 Boudreaux's Butt Paste
-noscapine
-Nephramine 5.4%
+SB-265805
+acebutolol
 quinestrol
+RS-25259
 Hepatasol 8%
 verteporfin
 Metronidazole
@@ -8378,15 +8467,15 @@ omoconazole
 indobufen
 articaine
 butaxamine
-Samarium (153Sm) lexidronam
+lasalocid
 fenoxypropazine
 valdipromide
+lescol
 Flovent
 iobenguane (131 I)
 vindeburnol
 Vfend
-piretanide
-Betasizofiran
+falecalcitriol
 thenyldiamine
 carvotroline
 Ertaczo
@@ -8394,11 +8483,10 @@ atinumab
 dehydroemetine
 A-Methapred
 mexrenoate potassium
-Brevibloc
+Actin-N
 Betamethadol
 podilfen
 etozolin
-Selecor
 netilmicin
 Triphed
 Aminophyllin
@@ -8411,44 +8499,42 @@ sancycline
 sodium bitionolate
 cyclopenthiazide
 Corvert
-Septisol
-nafazatrom
+memantine
+nifuraldezone
 tramiprosate
-Retavase
 butacaine
-oxypyrronium bromide
+bemegride
 imidazole salicylate
-plitidepsin
+soretolide
 Sodium Polyphosphate-Tin Kit
-sulfiram
+davalintide
 trimeperidine
 propenidazole
-Baquiloprim
-lasalocid
+tuclazepam
 anamorelin
 danitracen
 Bromoxanide
-adrafinil
+tioperidone
 sabcomeline
+Codoxy
 sibopirdine
 flunarizine
 ospemifene
 nitroscanate
-Niaspan
+cefivitril
 estradiol benzoate
 Sennatural
-Betalin 12
+Tinver
 binetrakin
-triafungin
-taliglucerase alfa
+Vesanoid
 amafolone
 tolpropamine
 Pre-Sate
 modipafant
 otenabant
-celucloral
-ferndex
-Benoquin
+enbucrilate
+Sulcrate
+anistreplase
 OvaRex
 dextromoramide
 embramine
@@ -8461,7 +8547,7 @@ nimustine
 sulopenem etzadroxil
 ecopladib
 cyclomenol
-Tronolane
+talastine
 Tral
 Velosulin
 Labid
@@ -8469,30 +8555,30 @@ Procanbid
 cisapride
 ambomycin
 etynodiol
+topotecan
 Keflin
-Baciguent
+enalapril
 Sulster
 Delaxin
 Theostat 80
 xenazoic acid
 quinotolast
 cloxotestosterone
-reclazepam
+cyclovalone
 Natacyn
 esflurbiprofen
 eltoprazine
-Epitol
+clobetasol
 deferitrin
 Alphatrex
 nebicapone
-carafiban
 Delta-Dome
 Cortrophin-Zinc
 Allercon Tablet
 Regulace
 cromitrile
 irsogladine
-Fovane
+Optison
 cypenamine
 Broperamole
 ecalcidene
@@ -8504,21 +8590,21 @@ nofecainide
 Yocon
 Bamaquimast
 oxoprostol
+Microlite
 Tol-Tab
 fenestrel
 Asbron
 toborinone
 dexibuprofen
+levosemotiadil
 trifezolac
 xylofilcon A
 poloxalene
 Romifenone
 Cardene
-bucladesine
 oxetorone
 Avandia
-icometasone enbutate
-diaplasinin
+tifluadom
 salclobuzate sodium
 Mintezol
 ceftobiprole
@@ -8531,41 +8617,45 @@ tetroxoprim
 Regulex
 Buticaps
 Attenuvax
+iodofiltic acid (123 I)
 ciprocinonide
 enalaprilat
 Paxipam
-blonanserin
+loxanast
 Ocusulf
 belotecan
 iomeprol irtemazole
 nitazoxanide
 Aggrenox
-Alphamul
+Tindal
 diproteverine
 carbimazole
 Betanidine
 Minizide
-etilefrine pivalate
+dicloxacillin
 fenamole
 ketotifen
 dimesone
-Selpak
+Liquaemin
 Technecoll
+tazobactam
 piperacetazine
 Delestrogen
 naranol
-Trexall
+Miltown
 monatepil
+Hygroton
 Clorpactin WCS-90
-talibegron
+Branchamin 4%
 Adenocard
 pinolcaine
-sergliflozin
+Foamicon
 Cerebyx
 enviroxime
-Plan B
 edifoligide
+Nurofen
 somavubove
+Lipidil
 protamine zinc insulin injection
 Creomulsion Cough
 Romurtide
@@ -8576,7 +8666,7 @@ bicalutamide
 Valmid
 dimetofrine
 cimaterol
-Dalmane
+sodium calcium edetate
 adimolol
 quinine
 acefylline piperazine
@@ -8585,51 +8675,47 @@ etiroxate
 Cozaar
 pranoprofen
 tioxamast
-camonagrel
 fengabine
 talipexole
 Dricort
 polythiazide
 clomethiazole
-cefpirome
+cyprodenate
 mivobulin
-ipragliflozin
 etaracizumab
-Promapar
 Heavy Solution Nupercaine
 piconol
 Peridex
-prodolic acid
+Maxaquin
 Hy-Pam "25"
 Aci-jel
-tixanox
-beloxamide
-dithiazanine iodide
+Hepflush-10
+Rifamide
 orientiparcin
-taurolidine
-Fluorine F-18
+itramin tosilate
+eprazinone
+mozavaptan
 Silain
-chlorbetamide
+Infuvite
 Serpanray
 Surgam
 Lidopen
 bufexamac
 datelliptium chloride
 tranylcypromine
-sibrafiban
+quinupristin
 Tri-K
 exemestane
-hexamidine
 Constilac
 seclazone
 carpronium chloride
 Triclos
 anilamate
-sulfachlorpyridazine
+Tridione
 clinprost
 ceftriaxone
 Tetralan
-disoxaril
+chlorbenzoxamine
 Anectine
 panomifene
 Pathocil
@@ -8647,32 +8733,33 @@ Anolor 300
 sultamicillin
 lintopride
 Silphen
-delmetacin
+aklomide
 delorazepam
 losartan
 Cyclessa
 azanator
-cefuracetime
+Codiclear DH
 Amevive
 nitrocycline
 Trajenta
+Ritalin
 butopamine
 vindesine
 ixabepilone
 Butazolidin
-Carbiset Tablet
-ketoxal
-Alora
+Arcalyst
 sornidipine
-cevipabulin
+Preos
+Metostilenol
+Hiprex
 serum gonadotrophin
 ethomoxane
 peliomycin
-ancitabine
-Sucralfate
+nepicastat
+incobotulinumtoxinA
 canrenone
 dexsecoverine
-Rimifon
+Pediapred
 trimedoxime bromide
 pentapiperide
 Solugel
@@ -8684,13 +8771,12 @@ Desoxyn
 iprotiazem
 cetrorelix
 Trichlormas
-Ricasetron
-doxorubicin
+hydroxyethyl starch 130/0.4
+nasaruplase beta
 insulin glargine
 amilomotide
 Metrenperone
 thymocartin
-Prefest
 ioseric acid
 Rejuva-A
 Hi-Cor
@@ -8698,7 +8784,7 @@ mecillinam
 delanterone
 fosveset
 setileuton
-tibolone
+buquiterine
 Avagard
 Cytotec
 Metrifonate
@@ -8710,7 +8796,7 @@ Clindoxyl Gel
 Trilisate
 tarazepide
 ioflupane (123 I)
-Ritonavir
+cinoxacin
 Cobolin-M
 hydroxystilbamidine
 antazoline
@@ -8730,34 +8816,32 @@ aminothiazole
 benaprizine
 nitarsone
 letrozole
-Metazamide
+Vagifem
 coleneuramide
 lodelaben
 sodium stibogluconate
 Secran
-adinazolam
+Pamine
 fresolimumab
 cloral betaine
 Xifaxan
-exepanol
-dimepranol
+intriptyline
 dipyrithione
 raloxifene
 Diuril
 alefacept
 Celestone
-Medihaler-Iso
+pritumumab
 dimetotiazine
 quinaprilat
 etipirium iodide
-ociltide
+timobesone
 nesbuvir
 Lidex
 Vesicare
 bitolterol
 streptoniazid
 amprenavir
-Biopatch
 Lidoderm
 Colyte
 pirenoxine
@@ -8768,20 +8852,18 @@ bufrolin
 Tridil
 lucinactant
 sucralox
-probucol
 idaverine
-eproxindine
-poldine metilsulfate
+Starlix
 sorbitan oleate
 Rocuronium bromide
 temarotene
 Rolgamidine
 EpiPen
 Neo-Polycin
-Draximage MDP
+Isomonit
 myralact
 renzapride
-Cedilanid-D
+Tamiflu
 somagrebove
 Sterapred
 ceftibuten
@@ -8792,10 +8874,10 @@ Hydeltra-TBA
 cirazoline
 venlafaxine
 halofantrine
-tiprolisant
+tyromedan
 indacaterol
 bunamiodyl
-budipine
+leritine
 nesosteine
 carbarsone
 Flexeril
@@ -8805,28 +8887,28 @@ DDAVP
 exaprolol
 sumacetamol
 Comtrex
-boldenone
+Orfadin
 bumetanide
 oxadimedine
 Cortifoam
 Vectrin
 Actigall
+Bextra
 Tim-AK
 tamoxifen
 teprenone
-Tricor
 cinprazole
-itameline
+Cleocin
 Armour Thyroid
 fluvastatin
 frabuprofen
 proflavine
-pamaquine
 BactoShield
 etomidoline
-prolonium iodide
+mafosfamide
 dibotermin alfa
-Betazole
+taprenepag
+pravadoline
 promoxolane
 nifuralide
 Dermabet
@@ -8840,30 +8922,30 @@ Akpentolate
 Satric
 Metrazifone
 Cenestin
-letrazuril
+hexopyrronium bromide
+Bamaluzole
 Neuramate
-lifarizine
-thiomersal
+forfenimex
+suronacrine
 cetraxate
-Mykacet
+levo-T
 moxaverine
-Sulfamylon
+clodronic acid
 nifuroxime
 clocoumarol
 clometocillin
 Aralast
-clanfenur
 sulfalene
-Vigamox
-Cetrotide
+Caelyx
+lessina
 Avonex
-ralitrexed
+Kerledex
 iodocholesterol (131 I)
-Apap with codeine phosphate
+fepromide
 radretumab
 econazole
-nevirapine
-esoxybutynin chloride
+Mebendazole
+aminopromazine
 Akne-Mycin
 pifexole
 tolcapone
@@ -8876,16 +8958,16 @@ amogastrin
 Co-Gesic
 Istalol
 examorelin
-famiraprinium chloride
+Nulytely
 milverine
 truxipicurium iodide
 Avelox
 choline fenofibrate
 fencibutirol
-Axotal
+butanixin
 Liothyronine Sodium
 trefentanil
-Stelazine
+nomegestrol
 prolintane
 Curosurf
 arhalofenate
@@ -8895,10 +8977,10 @@ Maxitrol
 diphenadione
 ATG
 edifolone
-napactadine
-Cognex
+oxendolone
+lobenzarit
 racemethorphan
-indacrinone
+ketotrexate
 cysteine
 tiprinast
 vilanterol
@@ -8906,7 +8988,7 @@ tropicamide
 Tao
 Dalgan
 Phosphocol P32
-Tornalate
+aliflurane
 Arixtra
 etaqualone
 neocinchophen
@@ -8915,32 +8997,32 @@ captopril
 Depodur
 pyridostigmine bromide
 hydralazine
-prazarelix
+sedecamycin
+ethylmethylthiambutene
 Bavituximab
 adipiodone
-abarelix
-Calciparine
+pentisomide
 dibrompropamidine
 viprostol
 ataluren
 Statobex
 pacrinolol
-E-Z-EM Prep Lyte
+isovaleramide
 propyperone
 pyrantel
 Prinzide
 Topsyn
 Terfonyl
+penicillinase
 BiCNU
 salprotoside
 Wartec
 Procardia
-inalimarev
 Norquest Fe
 esafloxacin
 iosumetic acid
 moxicoumone
-levamisole
+actarit
 Diupres
 Hytrin
 A.P.L.
@@ -8952,22 +9034,21 @@ Monodox
 deximafen
 levonorgestrel
 pirmagrel
+taglutimide
 StrongStart
 iquindamine
 disofenin
 mezacopride
 aloracetam
 methastyridone
-fepentolic acid
-Metreleptin
+valpromide
 Batimastat
 2-PAM
 Torecan
 Medigesic Plus
 laflunimus
-suloxifen
+abarelix
 terodiline
-artemisinin
 deferasirox
 Mytelase
 Barbital sodium
@@ -8987,12 +9068,11 @@ ditiocarb sodium
 Ludiomil
 lozilurea
 Fluohexal
-nifurimide
 iobenzamic acid
 Methoxyphedrine
 Dexone
 nitroclofene
-enbucrilate
+VasoClear
 mepramidil
 prothipendyl
 ABCD
@@ -9010,14 +9090,12 @@ Symmetrel
 sonermin
 Estring
 Inderal
-crufomate
+Nutracort
 cicloxolone
 creatinolfosfate
-endomide
-CBCDA
+Vepesid
 Neulasta
 Antiminth
-lupitidine
 lifibrol
 indium (111In) capromab pendetide
 Berotec
@@ -9032,9 +9110,10 @@ pirazolac
 azimilide
 fluorometholone
 acaprazine
-etonam
+Ophthocort
 clamidoxic acid
 pyrazinamide
+anagliptin
 everolimus
 entacapone
 thiacetarsamide sodium
@@ -9046,8 +9125,6 @@ Tri-Nasal
 indocate
 butadiazamide
 Erythra-Derm
-Urex
-Metallibure
 Metandren
 Dexacidin
 Kenalog
@@ -9055,12 +9132,12 @@ Prostascint
 nemorubicin
 laquinimod sodium
 telatinib
-tidiacic
+cetofenicol
 flopropione
-Isomonit
+Draximage MDP
 Vaxigrip
-tyromedan
-leritine
+tiprolisant
+budipine
 Eligard
 urofollitropin
 midesteine
@@ -9069,58 +9146,57 @@ febuxostat
 Sevorane AF
 8-methoxy-psoralen
 amphenidone
-pravadoline
+cormetasone
 farampator
 epinephrine
 Cinobac
-suronacrine
-Mebendazole
+mosapramine
+nevirapine
 Chealamide
-Renovist
+Vasocon
 Norcept-E
 Cernevit-12
-Larodopa
+opiniazide
 tazomeline
 Carafate
 Robitet
-ketotrexate
+indacrinone
 plomestane
 amitraz
 Tracrium
 terutroban
-telmisartan
 Duramorph PF
 M.V.C. 9+3
 Metergotamine
 amindocate
 Bromfenac
-Brodspec
+parnaparin
 Didrex
 mazipredone
 nitrofurantoin
-encainide
+Crestor
 valaciclovir
 vatelizumab
 bifonazole
-arasertaconazole
 pirarubicin
 cropropamide
-Ophthocort
+ramipril
 theodrenaline
 nalbuphine
 Nasonex
 temozolomide
-darinaparsin
+xenipentone
+novobiocin
 Laryng-O-Jet Kit
-opiniazide
+Larodopa
 Sumycin
-parnaparin
+Brodspec
 carbazeran
 neflumozide
 Mytrex
 nifuratrone
 Numorphan
-Bel-Phen-Ergot S
+Metastron
 eticlopride
 Tylox
 oxandrolone
@@ -9134,35 +9210,34 @@ sudismase
 quinprenaline
 semagacestat
 biotin
-Metastron
+Aller-Chlor
 alniditan
-xenyhexenic acid
+Cardiogen-82
 Cortenema
 Desogen
 fostedil
-poliglusam
+nimidane
 ertiprotafib
-toloxychlorinol
+Ortho-Est
 Ovcon
 cefetamet
 olivomycin
-retaspimycin
+Plaquenil
 mazapertine
 morolimumab
 Methoserpidine
 sarpogrelate
-nitrendipine
+fenproporex
 sanguinarium chloride
 AK-Con
 succimer
 Phenurone
 Isopto Cetamide
-Ting
-nitroxoline
-omadacycline
+naboctate
+CEA-Scan
 pentetrazol
 tilbroquinol
-Doxil
+temocillin
 azelnidipine
 Claritin
 sabeluzole
@@ -9175,13 +9250,16 @@ tilnoprofen arbamel
 sapropterin dihydrochloride
 tasimelteon
 iotalamic acid
-levotofisopam
-Ec-naprosyn
+simendan
+oxycinchophen
 Dilt-CD
 crolibulin
 SalAc
+pirisudanol
 naproxol
-clofurac
+Hydrogenated ergot alkaloids
+dimetamfetamine
+Norpramin
 bisorcic
 bornaprolol
 Minitran
@@ -9190,20 +9268,18 @@ Sanctura
 hydroflumethiazide
 cromoglicic acid
 Apresazide
-asocainol
+morinamide
+crotetamide
 Moderil
-salazosulfamide
+azilsartan kamedoxomil
 amezinium metilsulfate
-Oramorph SR
-enlimomab pegol
 pildralazine
 Theelin
 Accupril
 imiquimod
 binfloxacin
-Acebutolol HCl
-Aller-Chlor
-LSD
+cefovecin sodium
+misoprostol
 lucartamide
 pyrithione zinc
 Sular
@@ -9211,33 +9287,30 @@ lofendazam
 Benzathine benzylpenicillin
 Sandostatin
 Vermidol
-subathizone
-nicoclonate
+Promethegan
+Tetrex
 Robatumumab
 mitemcinal fumarate
-Previfem
-acedapsone
+carbidopa
+Hexal Clotreme
 Proleukin
 paguinal hydrochloride
-nimidane
-pascolizumab
-Declomycin
-Bepotastine
+poliglusam
+ceftioxide
+dramedilol
+taurultam
 Rubratope
 chlorisondamine chloride
 Senexon
 diclofurime
-Tofranil
-oxepinac
-Drisdol
-tigapotide
-camobucol
+cyclobenzaprine
+Pfizerpen
 octodrine
-Ortho-Est
+toloxychlorinol
 candoxatril
 Prostin VR Pediatric
 Nipent
-seltraposin
+enoxaparin sodium
 nifurethazone
 Natrecor
 alvelestat
@@ -9245,62 +9318,61 @@ imciromab
 triflumidate
 buterizine
 tetramisole
+alexidine
 naroparcil
-cinnarizine
+Myfortic
 Combivent
-dexfenfluramine
-nifursemizone
-ambenonium chloride
-Vagistat-1
+quinpirole
+buparvaquone
+endixaprine
+Hepatolite
 sultosilic acid
-nonabine
-Abelcet
+pargyline
+selprazine
 imatinib mesylate
 derenofylline
-bisnafide
+candicidin
 denosumab
-Indimacis-125
 carbocloral
-sodium ferric gluconate complex
-arotinolol
-endomycin
+pimilprost
+Creon 20
+Meteneprost
 coumafos
 Metioprim
-Reno
-sulfamethoxypyridazine
-sulfonylurea
+Rosula
+Methylprednisolone
+coumazoline
 malotilate
 terbogrel
 Tarsum
-Ventaire
+medroxyprogesterone
 Benproperine
-pheniodol sodium
+Estrogenic Substance
 Lozartan
 drocinonide
 ciprofloxacin
 Batanopride
 etacrynic acid
 oxophenarsine
-Ritodrine
+kebuzone
 carburazepam
 retosiban
 Roflumilast
 pirenperone
 binifibrate
-erlotinib hydrochloride
+pemetrexed
 bioresmethrin
 Phyllocontin
-amcinafal
-fenproporex
+Follutein
+nitrendipine
 vinflunine
 Ronipamil
+ataciguat
 lorzafone
 cintredekin besudotox
 Octocaine
-sodium picofosfate
 norgestimate
 quizartinib
-iometin (131 I)
 Co-Pyronil 2 Pulvules
 radotinib
 Amnestrogen
@@ -9312,22 +9384,22 @@ hyoscine
 fluprednisolone
 Ilaris
 Clarinex
-surfomer
 tenosiprol
 Anaids Tablet
 Rauserpin
 ferroquine
-Klebcil
+Cefuroxime
 cefazaflur
-naboctate
+Minitec
 Ery-Tab
 Halcion
+apilimod
 flopristin
 dimepregnen
 amfomycin
-levomethorphan
+omadacycline
 nortriptyline
-fluocinolone acetonide
+Duraquin
 Ergamisol
 Rimcazole
 Brontex
@@ -9336,27 +9408,25 @@ bunaprolast
 Ansolysen
 tetrazolast
 Rheomacrodex
-foscarnet sodium
+Duranest
 saredutant
-Ketozole
+polybenzarsol
 diethylcarbamazine
-temocillin
 atiratecan
 Temaril
-fadrozole
+deprostil
 niaprazine
 Capozide
-enfuvirtide
+Prezista
 Clobex
-avicatonin
 levatol
-Nicotrol
-salazosulfadimidine
+naxagolide
+lenperone
 Neoscan
 fludoxopone
 fluproquazone
 vinglycinate
-Barnidipine
+bucrilate
 duoperone
 onamelatucel-L
 Clomhexal
@@ -9364,17 +9434,17 @@ Rodocaine
 Rela
 thialbarbital
 clotixamide
-pemerid
+sodium tyropanoate
 Cordran
-Rubidomycin
-talviraline
+pruvanserin
+Prefest
 Crysticillin A.S.
 Floropryl
 pentrinitrol
 Videx
 phenacemide
 clobenoside
-nacartocin
+moquizone
 enefexine
 bolandiol
 denzimol
@@ -9397,28 +9467,25 @@ SMX-TMP
 Solage
 nolinium bromide
 acetylleucine
-Provera
 vinzolidine
 acrihellin
 Besilesomab
 trelnarizine
 Sublimaze Preservative Free
 selenomethionine (75 Se)
-beclanorsen
+Famvir
 Carteolol
-ethylmethylthiambutene
+promestriene
 Efudex
-valdetamide
-nizatidine
+lanoteplase
+Artane
 spirendolol
 tryparsamide
 mepiprazole
-monometacrine
+parathiazine
 codeine
 cinmetacin
-methaphenilene
-sucrosofate
-Intelence
+quipazine
 fenpipalone
 crenezumab
 nileprost
@@ -9430,91 +9497,89 @@ Benzododecinium chloride
 saracatinib
 cholestyramine
 ecallantide
-simendan
-trimethadione
+Lupron
+Innohep
 tebanicline tosylate
-oxycinchophen
+Ec-naprosyn
 Flagyl
 Vibramycin
 Monurol
-Salagen
-fluanisone
+dronedarone hydrochloride
+Selecor
 Cal Carb-HD
 Pipracil
-Cortrosyn
-Antitussive
+preclamol
+menadione sodium bisulfite
 propikacin
 alsactide
 clenbuterol
-cilnidipine
+ramciclane
 Idkit:HP
 fluoxymesterone
 aspoxicillin
-sufugolix
+Trental
 butoctamide captamine
 lanreotide
 Ceretec
 oxyfedrine
 mitumomab
 dibupyrone
-isradipine
+amicibone
 citenazone
 prednimustine
 phetharbital
-Temaz
+xylocoumarol
 LeukArrest
 trimetozine
 Miacalcin
 fleroxacin
 Citrotein
-tuclazepam
-Inomax
+anitrazafen
+testosterone ketolaurate
 Bufferin
 carglumic acid
 capromab pendetide
 cyclopropane
 ondansetron
-Cholybar
+Clenia
 aciclovir
 trepirium iodide
 cefalotin
 trastuzumab emtansine
-laropiprant
-Brimonidine
+nafenodone
 Telepaque
 sulfamerazine sodium
-Unidet
+tinoridine
 dextofisopam
 pifonakin
 streptodornase
-arnolol
+picilorex
 carazolol
 carumonam
 bifemelane
 Xylocard
 Neodecadron
 progesterone
-Hygroton
+obeticholic acid
 lurtotecan
-Senolax
+carbazochrome
 motavizumab
 Synalgos-DC
 Advair Diskus
 Vanceril
 topterone
 pamidronic acid
-terlipressin
-Orfadin
-lomitapide
+Hycodan
 Xopenex
 polygeline
 lomerizine
-cerivastatin
+Concerta
 dofamium chloride
 Vectibix
 Metandienone
 Regutol
 Depo-Testadiol
+becliconazole
 paroxypropione
 ledazerol
 mitoquidone
@@ -9524,16 +9589,17 @@ Clopixol
 nisoxetine
 Calcijex
 Betatar
-Ceta-Plus
+apicycline
 Anemagen OB
 Rimazolium metilsulfate
 phensuximide
 etarotene
 levormeloxifene
-nicotine
+Verelan
 Midamor
 phenythilone
 Brotame
+morocromen
 iosarcol
 fentiazac
 panamesine
@@ -9542,12 +9608,12 @@ ticagrelor
 milameline
 deptropine
 Nicoderm
-taranabant
+Raplon
 aceclofenac
-acetaminophen
+cellaburate
 Methylthioninium chloride
 Erygel
-propizepine
+Ben-Allergin-50 Injection
 Focalin
 fluticasone
 fenbenicillin
@@ -9555,20 +9621,20 @@ Benralizumab
 halofenate
 ivoqualine
 meproscillarin
-talaglumetad hydrochloride
+iodocetilic acid (123 I)
 sarpicillin
-Dyclone
+Bristacycline
 minepentate
-crotetamide
+asocainol
 penfluridol
 hydrotalcite
 Bepiastine
 sulbactam
 fluminorex
 mitiglinide
-Sodium P.A.S.
+fluradoline
 Elmiron
-Hibiclens
+tosedostat
 tiamiprine
 Proloprim
 Tripedia
@@ -9579,44 +9645,43 @@ dextrorphan
 ioncanlidic acid (123 I)
 oxazepam
 nordinone
-Tiamate
-Motrin
+sulfaguanidine
+terfluranol
 Bensalan
-Clinimix
+nafiverine
 diclofensine
-Ovrette
-AK-Sulf
+Accuretic
+stirimazole
 Celebrex
 Mestinon
 sulfamethizole
 amifampridine
-merbromin
 indisulam
 sumatriptan
 adapalene
 Altamist
-cenersen
+maduramicin
 Infed
 tiospirone
 preladenant
 tiletamine
-atropine methonitrate
+Discase
+ciglitazone
 tripamide
 Oncovin
 carbaril
 oxametacin
-pipramadol
+hexoprenaline
 ametantrone
 solpecainol
-Refludan
-fostamatinib
-Meticorten
+Blocadren
+cetotiamine
+flugestone
 altanserin
-tioxidazole
+azosemide
 mycophenolate sodium
-radezolid
-cefempidone
-lidamidine
+nisterime
+Nix
 budiodarone
 Norplant
 ciproquazone
@@ -9624,21 +9689,19 @@ Navelbine
 cidofovir
 Efidac/24
 nicotinamide
-Synphasic
+vanutide cridificar
 rapacuronium bromide
 pentamorphone
-tazolol
+fenclofos
 sulfaethidole
 mecinarone
 Metrifudil
-Centany
 loxapine
 monensin
 Chloraprep One-Step Frepp
 ioglucomide
 etoxazene
 salafibrate
-cefovecin sodium
 Dexacort
 carbamide peroxide
 thrombomodulin alfa
@@ -9654,30 +9717,32 @@ ranitidine
 sodium cyclamate
 Rifadin
 atropine oxide
+topiroxostat
 tofetridine
 ormeloxifene
-nalmexone
-Xeloda
-Polocaine
+dinsed
+tiliquinatine
 azidocillin
 fiacitabine
 prednazoline
 Insulatard NPH Human
 clebopride
-pleconaril
+Abenol
 butonate
+Exsel
 tegobuvir
+Bena-D
 atomoxetine
-doramectin
+tixanox
 dexmedetomidine
+Vivactil
 ceftizoxime alapivoxil
 iosefamic acid
 andolast
 anakinra
 pregabalin
-lauralkonium chloride
 Methylprednisolone suleptanate
-etravirine
+Amosene
 setastine
 Metohexal
 crospovidone
@@ -9685,10 +9750,9 @@ mepixanox
 protionamide
 ciclopramine
 neraminol
-ivermectin
 cefaclor
 Reyataz
-dronedarone
+Surfak
 biclofibrate
 nifurvidine
 atevirdine
@@ -9700,8 +9764,7 @@ farletuzumab
 OxyContin
 Azulfidine
 follitropin alfa
-Mycodone
-lovastatin
+femara
 Novolin
 clioxanide
 terbequinil
@@ -9710,11 +9773,12 @@ iosulamide
 pantenicate
 isomazole
 catumaxomab
-Promethegan
+Synkayvite
+methaqualone
 valganciclovir
 drofenine
 Seldane
-duloxetine
+ersentilide
 Benzoctamine
 enofelast
 enfilcon A
@@ -9723,29 +9787,30 @@ litoxetine
 clomoxir
 veliflapon
 Clinoril
-froxiprost
+tiliquinol
 imitrodast
 flosequinan
-levosemotiadil
-cetaben
+racementhol
+Norcuron
 tolnapersine
-Rhotrimine
+Platinol
 cinuperone
 cromakalim
 dexamethasone
 clofilium phosphate
+Phrenilin
 daniplestim
 Osteoscan
 Amin-Aid
-stacofylline
+AK-Tracin
 Vasoxyl
+lenercept
 fertirelin
 fospropofol
 eliprodil
 nitramisole
 Sansert
 tazasubrate
-mafoprazine
 midaflur
 ebastine
 xanomeline
@@ -9753,12 +9818,10 @@ adicillin
 denopamine
 prazepine
 flusoxolol
-Valdoxan
 SangCya
 pramocaine
 Aerobid
 jenkem
-latanoprost
 alcloxa
 tedizolid
 Percodan
@@ -9768,64 +9831,64 @@ palifermin
 Methylrosanilinium chloride
 oxybuprocaine
 Tonocard
-medrysone
+aloxiprin
 Intron A
 altinicline
 lorcinadol
 iopanoic acid
 tetracosactide
 methaniazide
-padoporfin
+amiglumide
 iobitridol
-ceftioxide
+Mellaril
 Ismotic
 adefovir
-dramedilol
+Declomycin
 lansoprazole
 B2036-PEG
 ticarcillin
 iodecimol
 osaterone
 tolonidine
-dicycloverine
+Bepotastine
 Balsalazide
-biphasic insulin injection
+Yervoy
 butobendine
 erocainide
-stirocainide
+oxonazine
 iolidonic acid
-xaliproden
+Somnote
 Alu-Cap
-trilostane
+Fluotrex
 Prokine
 sodium dibunate
 dotefonium bromide
 melquinast
 cetohexazine
-clotiazepam
+Brivanib alaninate
 Accutane
 Cepastat
 hexamethonium bromide
-sibenadet
 hydrocortamate
 Clotrimaderm
 dalcotidine
 Propecia
 Slow-Mag
-Ergoloid Mesylates
+ramelteon
 teludipine
 fampridine
 Pitressin Tannate
 umespirone
 azaspirium chloride
+meglitinide
 Carac
-Mexate
+Abasol
 Thytropar
 iclaprim
 Bontril
-alexidine
-Roflufocon B
-Solfoton
+clavulanic acid
+dulaglutide
+alagebrium chloride
 Erycette
 medibazine
 Amohexal
@@ -9833,11 +9896,11 @@ molinazone
 carfilzomib
 povidone
 Medroxyhexal
-Limbitrol
+sulfametrole
 burodiline
 arginine
 cortodoxone
-cyclobenzaprine
+petrichloral
 bendacalol
 calcium sodium ferriclate
 Oxetine
@@ -9847,48 +9910,50 @@ tioxolone
 Nitrolingual pumpspray
 Lidocaton
 fandosentan potassium
-Loestrin
+bisbendazole
 spiromustine
 Oragrafin
+cinoxopazide
+Berubigen
 phenarsone sulfoxylate
 anisacril
-sparfloxacin
+thiomersal
 etalocib
 atolide
 Hemabate
-enoxamast
-Rucaparib
-idenast
+Brecanavir
+icatibant
+vapaliximab
 choriogonadotropin alfa
 methapyrilene
 Bapineuzumab
-canosimibe
-Hedulin
+Fortaz
+josamycin
 xibornol
 bupivacaine
-Plegine
+miboplatin
 Sprintec
-Optison
+Hydrea® (hydroxycarbamide)
 diamfenetide
 CMV-IGIV
-amantadine
+Vicks Formula 44
 mitratapide
-bixalomer
+clemeprol
 Nolvadex
 tenidap
 BCNU
 oxyclipine
 tylosin
-inocoterone
+Lortab
 Cyanoject
-enoxaparin sodium
+seltraposin
 trospectomycin
 ibutilide
 dilmapimod
 aluminium clofibrate
 methacholine chloride
 vinleucinol
-stibosamine
+pyridofylline
 valperinol
 tesaglitazar
 Nexium
@@ -9902,18 +9967,19 @@ Famohexal
 Meticrane
 certolizumab pegol
 aliconazole
-Prandin
+A-Hydrocort
 diclofenamide
-dimefadane
+Alcaine
 Pyocidin
 Augmentin
 technetium (99mTc) furifosmin
 Decaspray
-Xarelto
-carboprost
-ranimycin
-Myfortic
-Trisoralen
+oxapropanium iodide
+Tarka
+Tonopaque
+sipoglitazar
+cinnarizine
+Ultravate
 Xiral
 dulanermin
 navitoclax
@@ -9922,16 +9988,16 @@ allylthiourea
 tiprostanide
 terconazole
 Bucladin-S
-quinpirole
+dexfenfluramine
 bufenadrine
-buparvaquone
+nifursemizone
 pyrrolnitrin
 lifibrate
 Bromofenofos
 sepimostat
-endixaprine
+ambenonium chloride
 virginiamycin
-salsalate
+polysorbate 8
 Theocon
 Chronovera
 ceruletide
@@ -9944,25 +10010,23 @@ clioquinol
 kainic acid
 Crosseal
 B-Caro-T
+sulfamethoxypyridazine
 linezolid
-norepinephrine
+imisopasem manganese
 butedronic acid
-orbifloxacin
-Cortone
+Beroctocog alfa
+ketazolam
 darbepoetin alfa
 Anhydron
 efaproxiral
 Topamax
 dimesna
-lodaxaprine
 fosfocreatinine
-lonapalene
 Controloc
-epostane
 Aristocort
 tasquinimod
 Humegon
-pentalamide
+Rubex
 Migranal
 Lasix
 Roxolonium metilsulfate
@@ -9971,8 +10035,8 @@ carfenazine
 Valorin
 enzastaurin
 Triaderm
-Rofecoxib
-picoplatin
+nonivamide
+ipragliflozin
 penamecillin
 Balziva
 Ultratag
@@ -9980,16 +10044,16 @@ phenylbutazone
 piperacillin
 AFP-Cide
 terbufibrol
-fenprinast
 hexobendine
-Aviane
+nifurimide
 fomepizole
+K+
 simotaxel
 iroplact
 pancopride
 tolevamer sodium
 ecogramostim
-candicidin
+bisnafide
 tolfamide
 tomoxiprole
 phytomenadione
@@ -9997,21 +10061,20 @@ fedrilate
 pirinidazole
 aspartic acid
 phenindamine
-aganodine
+Bacitracin
+menitrazepam
 ebalzotan
-Corticaine
+hydroxyprogesterone caproate
 pilsicainide
 prazitone
 capuride
 hexedine
-sirukumab
 paflufocon D-hem-iberfilcon A
 Bricanyl
-iodocetilic acid (123 I)
 denenicokin
-forminitrazole
-spiramycin
-Creon 20
+isoleucine
+valnoctamide
+arotinolol
 pentagastrin
 Nitrol
 siltenzepine
@@ -10022,46 +10085,40 @@ Naquival
 teriflunomide
 clobutinol
 Etrafon
-raxibacumab
+mimbane
 Cardiografin
 salmefamol
 Afrin
 clofenoxyde
-Broparestrol
-selprazine
-Bromhexine
-Rosula
-carbazochrome salicylate
+cladribine
+amiperone
 tipindole
 doretinel
 Doribax
 actodigin
 Duocaine
-fenpiprane
+levocetirizine
 Arestocaine hcl
-Sinemet
 entsufon
 TriNessa
 salacetamide
 xyloxemine
-colterol
+piberaline
 cetrimide
 eperezolid
 ketoconazole
 Jantoven
-talmetoprim
-Tavist
-Ritiometan
+Metaglip
 erythromycin
-tridihexethyl iodide
+semaglutide
 trestolone
 Betacarotene
 fenspiride
 carzelesin
 tacrine
 miltefosine
-medroxyprogesterone
-Rizatriptan
+nonathymulin
+Norlutin
 Inspra
 Univasc
 fluocortin
@@ -10071,11 +10128,10 @@ denibulin
 Triaprin
 Brofed
 lortalamine
-thiopropazate
 atrimustine
-dutasteride
 resocortol
-Axert
+Comfort Tears Solution
+alfetamine
 iscotrizinol
 Pletal
 Technescan
@@ -10085,16 +10141,14 @@ eclanamine
 cirolemycin
 Besonprodil
 Betimol
-Diflucan
+ractopamine
 fosinopril
 Oxytrol
-iprozilamine
 pertuzumab
 Renedil
 Dermacort
 Benicar
 azastene
-Altebrel
 tasidotin
 cinitapride
 clibucaine
@@ -10109,10 +10163,9 @@ azaprocin
 naftalofos
 hexcarbacholine bromide
 disulfamide
-fenbufen
+Rocepafant
 Kerlone
 Alpharedisol
-aliflurane
 etiproston
 Deltasone
 vasopressin injection
@@ -10128,15 +10181,13 @@ cetamolol
 flunisolide
 dicresulene
 polysorbate 120
-chloroserpidine
+Regular Iletin
 Aldoclor
-clorgiline
 MPI DMSA Kidney Reagent
 lotrifen
 clidanac
 Erypar
 mesudipine
-alfaprostol
 Cortan
 Lorabid
 ketocainol
@@ -10147,10 +10198,10 @@ flazalone
 Bromacrylide
 Briakinumab
 alipamide
-Thyro-Tabs
-dosmalfate
-felbinac
-nepaprazole
+Sucostrin
+Peg-Lyte
+sodium picosulfate
+lonazolac
 Aciphex
 fibracillin
 Metocinium iodide
@@ -10164,27 +10215,24 @@ promelase
 tipentosin
 LymphoStat-B
 prilocaine
-sulfogaiacol
+oxiracetam
 peginesatide
 cyproterone
 ambucaine
-tiropramide
 lagatide
-alvimopan
+oxindanac
 Trinalin
 paldimycin
 quinestradol
-Cardioplegic
 cabozantinib
 Nysert
-Su-Tuss-HD
+311C90
 Ocumycin
-sintropium bromide
 Monistat
-pirtenidine
-buthalital sodium
+Meprospan
+Tussigon
 streptozocin
-Orlaam
+nifurfoline
 afutuzumab
 epiestriol
 amrinone
@@ -10192,16 +10240,14 @@ oltipraz
 Herceptin
 levodopa
 Actifed
-Riluzole
 tramadol
-Dormate
+altapizone
 Neo-Medrol
 Brethaire
 Aredia
 Mexx
-afovirsen
 delprostenate
-Follutein
+amcinafal
 acetohydroxamic acid
 dexbrompheniramine
 Akpro
@@ -10213,6 +10259,7 @@ octopamine
 calcium trisodium pentetate
 dronabinol
 Rituximab
+telithromycin
 loperamide oxide
 albiglutide
 Xanax
@@ -10225,7 +10272,7 @@ Benzylpenicillin
 Amatine
 Timolide
 icosapent
-idoxuridine
+perisoxal
 Alrex
 Tysabri
 Rintatolimod
@@ -10238,13 +10285,13 @@ Bisac-Evac
 AMO Vitrax
 sprodiamide
 citatepine
-Colgate Total
+imuracetam
 triparanol
 pethidine
 acetyldigitoxin
-Kantrex
+Metralindole
 Theo-Sav
-cangrelor
+tebatizole
 pelretin
 Aldactone
 aceglatone
@@ -10255,27 +10302,26 @@ bidimazium iodide
 Vanatrip
 Actidose
 Anexsia
-tramazoline
+cevipabulin
 tetrofosmin
-Cysto-Conray II
 narafilcon
 Hypaque
-hydrocortone
+Betaprone
+Comvax
 Penhexal VK
-Sarisol
+azatadine
 quazepam
 racefemine
 enestebol
 quilostigmine
-meclofenoxate
+sagopilone
 mariptiline
 quingestanol
 temiverine
-Cheratussin DAC
-piribedil
-Flutex
-Naturetin
-nifurprazine
+cefsumide
+Crixivan
+Retrovir
+Soluvite
 fopirtoline
 triamterene
 ethyl dirazepate
@@ -10286,7 +10332,7 @@ cefonicid
 Cyanokit
 inositol nicotinate
 dapsone
-penicillinase
+Rolaids
 Restoril
 clorprenaline
 Cipro
@@ -10297,7 +10343,6 @@ Ibrin
 somatropin
 Halotex
 leflunomide
-verilopam
 androstanolone
 Acetoxyl
 cliropamine
@@ -10306,28 +10351,28 @@ libivirumab
 flucrilate
 premafloxacin
 losmapimod
-Select 1/35
 carprofen
 ticabesone
 rabeximod
-prorenoate potassium
+tosylchloramide sodium
 Presamine
 tolmetin
+Combipres
 cariprazine
 pramiverine
 verofylline
-Riboflavin
+miraversen
 Orinase
 Timentin
 Altocor
+mitoclomine
 Maxidex
 omacetaxine mepesuccinate
 efipladib
 AeroChamber
 transferrin aldifitox
 medroxalol
-Exosurf Neonatal
-fentonium bromide
+Norvir
 Ilosone
 stercuronium iodide
 Aureomycin
@@ -10336,11 +10381,9 @@ procinonide
 docarpamine
 Kaletra
 phenprocoumon
-dienogest
 votucalis
 Euthroid
-Minitec
-NPH insulin
+palatrigine
 lemalesomab
 dipyrocetyl
 Bosatria
@@ -10354,7 +10397,7 @@ olradipine
 pitenodil
 clarithromycin
 Chlor-Tripolon
-carmoxirole
+nemifitide
 styramate
 Amipaque
 prinomide
@@ -10365,13 +10408,12 @@ sulfasymazine
 trethocanic acid
 Depocyt
 nantradol
-volasertib
+levetiracetam
 azaconazole
 pimethixene
 Titralac
 Pediatric Lta Kit
-preclamol
-Balnetar
+pipequaline
 Pagitane
 niclosamide
 propisergide
@@ -10390,33 +10432,31 @@ Trisudex
 arterolane
 Unipres
 Rifalazil
-octaverine
+verilopam
 levofenfluramine
 ustekinumab
-Panheprin
 vinmegallate
 tenilsetam
 beclobrate
 Micardis
-Trysul
-secbutabarbital
+Factive
+melarsonyl potassium
 aleglitazar
-doreptide
+Hipputope
 clorindione
-Cefuroxime
+Klebcil
 nicopholine
 technetium (99mTc) teboroxime
 neticonazole
 pirolazamide
-bucillamine
-Alphazine
+isotretinoin
 toloxatone
 budesonide
 fenharmane
 monophosphothiamine
 retigabine
 Pre-Pen
-nanafrocin
+asfotase alfa
 sulfacarbamide
 isalsteine
 nemazoline
@@ -10429,7 +10469,6 @@ Tega-Vert
 aminoethyl nitrate
 acefylline clofibrol
 limazocic
-Bromelains
 trimetamide
 Amigesic
 quinuclium bromide
@@ -10441,10 +10480,11 @@ Maxzide
 Aches-N-Pain
 Clistin
 Cantharone
-doxefazepam
+Rosterolone
 dorlimomab aritox
 leucinocaine
 clotrimazole
+Osmitrol
 propazolamide
 fotemustine
 Hyprotigen 5%
@@ -10455,54 +10495,55 @@ amelometasone
 boceprevir
 marbofloxacin
 sobetirome
+levomethorphan
 telapristone
 carbetapentane
-Lorcet-HD
 Benzyl Benzoate
 Cort-Dome
+levofloxacin
 Sebcur
 cefclidin
 flubendazole
 levcromakalim
 dazoxiben
 Astelin
-clofenotane
-Anthra-Derm
+Psorcon
+Carmol 20
 Kafocin
 Kayexalate
 darifenacin hydrochloride
-Duraquin
+fluocinolone acetonide
 reparixin
-lorpiprazole
-Sal-Plant
+clanfenur
+exametazime
 Niacor
 Bromanate
 sipuleucel-T
 clidinium bromide
 pentosan polysulfate sodium
 chenodeoxycholic acid
-cilmostim
+trabectedin
 xenbucin
 danegaptide
 mitotenamine
-Lidosite Topical System Kit
+chlorquinaldol
 volazocine
 Naphcon Forte
 anazocine
 dexpanthenol
-quinupristin
 Bazinaprine
 enpromate
 volociximab
 elisartan
 Ionosol
-chlordiazepoxide
+dimpylate
+surinabant
 medrylamine
 interferon gamma
 denagliptin
 ioxilan
 phenformin
-dazopride
+lorapride
 Timoptic
 Atropen
 isomolpan
@@ -10512,10 +10553,10 @@ Aramine
 amolimogene bepiplasmid
 deligoparin sodium
 diclofenac
-pidobenzone
+oxaprotiline
 bifarcept
 butilfenin
-Duranest
+foscarnet sodium
 minretumomab
 butixocort
 prifuroline
@@ -10525,59 +10566,56 @@ sepazonium chloride
 Dibenzyline
 haloprogin
 dutacatib
+Rupatadine
 plicamycin
 Edrophonium
 Allersol
 Copper T Model TCU 380a
-tifluadom
 Demi-Regroton
 Bilivist
 levalbuterol propionate
 clozapine
 Lamictal
-eglumetad
+Tazicef
 flumazenil
-tanespimycin
-isosorbide
+proscillaridin
 amoxapine
 phenamazoline
 sultiame
 Dilor
-ranimustine
+peplomycin
 Santyl
 Antilirium
-Apresoline-Esidrix
+itasetron
 sulfisomidine
 Oracort
 Sclerosol
 quarfloxin
-clorindanic acid
+leurubicin
 detorubicin
 nicotinic acid
-Bicillin
 amfetamine
-cadazolid
+mephentermine
 cloprothiazole
 Balofloxacin
 Hep-Lock
-cedefingol
+Soma
 norfloxacin
 naftidrofuryl
 indium (111In) biciromab
 aditeren
 algeldrate
-Cenocort Forte
-tilactase
+Capzasin-HP
+doconexent
 Revex
-Apresoline
+homarylamine
 Ceepryn
 leukeran
-Rowasa
 alprafenone
 ocrilate
-diclometide
-Amidate
+piketoprofen
 Bacid
+Tomocat
 nedocromil
 Calci-Mix
 sulprostone
@@ -10592,28 +10630,27 @@ conestat alfa
 Baza Antifungal
 vardenafil
 argatroban
-onrehi
+Ala-Quin
+Nuvion
 Habitrol
 Azo Gantanol
 tiopinac
 Vumon
-clavulanic acid
-irolapride
 nifenazone
-naxagolide
+Nicotrol
 perzinfotel
 Estraderm
-bederocin
-mozavaptan
+renytoline
+methanthelinium bromide
 etanterol
 elsamitrucin
 Benzotic
-atriciguat
+Thalitone
 trebananib
 Ellence
 Sarenin
 Stan-Gard
-norcodeine
+Nitropress
 ezatiostat
 Oratane
 Vi-Dom-A
@@ -10627,21 +10664,17 @@ hexasonium iodide
 nilutamide
 timelotem
 Claforan
-sulfametomidine
-Famvir
+Rosanil
 Trimox
 Clonapan
 isamfazone
 utibaprilat
-carbaldrate
+Taxotere
 dextropropoxyphene
 oxyphenbutazone
 isotiquimide
 amipizone
-chlormezanone
 lavoltidine
-Abasol
-thenalidine
 etoloxamine
 Maxalt
 Activase
@@ -10654,35 +10687,29 @@ tienilic acid
 etoglucid
 alemtuzumab
 octimibate
-Chlorphed
+Low-Quel
 aglepristone
 troxerutin
 dioxethedrin
 Prevacid
 azalanstat
 C-Phed Tannate
-Triostat
-Sibelium
 Poly-Pred
 prednazate
-Metaterol
 cefuroxime
 hyalosidase
-fenaftic acid
 Diclohexal
 pegloticase
-Romergoline
+flufenamic acid
 flomoxef
-sograzepide
-sodium tyropanoate
-Rubex
+Portalac
+pemerid
 hexestrol
 Lacrisert
-ravatirelin
-polysorbate 80
+Topicycline
+avanafil
 cefetecol
 Cutar
-CEA-Scan
 ericolol
 Toprol-XL
 Elavil
@@ -10696,14 +10723,15 @@ Rosuvastatin
 difenamizole
 acitazanolast
 ethchlorvynol
-secalciferol
+avizafone
 propyphenazone
+Lactated Ringer's solution
 setipafant
 fluazacort
-pruvanserin
+Rubidomycin
 fenabutene
 clorotepine
-sulfamonomethoxine
+Spasmolin
 Theo-Dur
 pyroxamine
 Amphocin
@@ -10712,7 +10740,7 @@ dimetridazole
 Butex Forte
 AlphaNine SD
 Aquaphyllin
-Lincocin
+myrtecaine
 efaroxan
 bufetolol
 TMP-SMX
@@ -10725,17 +10753,15 @@ enfenamic acid
 Selestoject
 butibufen
 nadifloxacin
-quifenadine
 Prantal
 Ronifibrate
 Baypress
-carmetizide
+Cysto-Conray II
 Bambermycin
 amfecloral
 Celexa
 tenifatecan
 ornoprostil
-ActHIB
 Meti-Derm
 Vistacot
 Slo-Salt
@@ -10744,27 +10770,29 @@ mirosamicin
 velaglucerase alfa
 tropabazate
 Meretek UBT Kit
-apalcillin
+Sofarin
 Rubivite
 Cyomin
 lorazepam
 delmopinol
-Methiodal sodium
-dipotassium clorazepate
+levdobutamine
+tretinoin tocoferil
+Catapres
 clemizole
 nitrazepam
 heroin
-Pandel
+pheniprazine
 Versel
+Ethmozine
+enviradene
 Erythro-Statin
 elinogrel
 spirorenone
 Bromocriptine
-Low-Quel
 pranazepide
 almadrate sulfate
 levosalbutamol
-azacyclonol
+ecomustine
 nicaraven
 verpasep caltespen
 CTX
@@ -10772,14 +10800,14 @@ Tiazac
 febantel
 talaporfin
 lufuradom
-Tylenol
+levoxadrol
 tizabrin
+cinanserin
 clormecaine
 Rubramin PC
-otelixizumab
+TPN Electrolytes
 Choletec
 bemarinone
-semduramicin
 carlecortemcel-L
 phenprobamate
 midecamycin
@@ -10789,10 +10817,11 @@ ocaperidone
 Inapsine
 celmoleukin
 ansoxetine
-Acticort
+doliracetam
+Apokyn
 Lumenhance
 Atromid-S
-chlorphenesin
+Micronor
 pegaspargase
 perifosine
 pinazepam
@@ -10802,45 +10831,41 @@ cevoglitazar
 mosapride
 somfasepor
 fluindarol
-clocortolone
+lefradafiban
 fexinidazole
 rezatomidine
-halocarban
+pentoxyverine
 tibenelast
 Inversine
-fludrocortisone
 Rufen
 Tropicacyl
 flutemetamol (18F)
-iopamidol
+Bemitradine
 esmolol
 Actidil
 trimazosin
 Metahexamide
 alinastine
 Naprelan
-Wydase
+potassium nitrazepate
 Drize
 Rufinamide
 Atrosept
 lilopristone
 Teslascan
-ulipristal
+piriprost
 racecadotril
 Mephyton
-hetaflur
+Bropirimine
 pimefylline
-lutropin alfa
-Sporahexal
+azidamfenicol
 pronetalol
 afamelanotide
 ethionamide
 acepromazine
-falecalcitriol
 afloqualone
-flufosal
+fosenazide
 buramate
-Diabeta
 ilepatril
 Clindamax
 Benztropine
@@ -10852,43 +10877,41 @@ cetomacrogol 1000
 Spherulin
 cetilistat
 nicocortonide
-Enlon
+Metomidate
 moricizine
-hachimycin
 florbetaben (18F)
 atorvastatin
 lormetazepam
 sulocarbilate
 Isotonic Gentamicin Sulfate
-Avita
+vebufloxacin
 sulfasomizole
 Metazocine
-Tussigon
 arsthinol
 ramatroban
 Betasept
 formebolone
-Acetadote
+Ropitoin
+haletazole
 liothyronine
 fosfomycin
-eniluracil
+fenaclon
 nimotuzumab
-elziverine
+Cicloral
 pimonidazole
-sulfaperin
+NPH Iletin
+aganirsen
 ponalrestat
-itasetron
-difencloxazine
+fepradinol
+alnespirone
 Amytal
 vincamine
-Tisit
 fasiplon
 difenidol
 Semicid
 oxmetidine
 cilobradine
 aviptadil
-celivarone
 enoximone
 cyclazocine
 tiapirinol
@@ -10896,21 +10919,19 @@ bofumustine
 Sethotope
 terikalant
 Pediatric Advil
-dihydralazine
+Tridesilon
 solasulfone
 Infumorph
-tiazesim
+bisfentidine
 choline alfoscerate
 Rythmodan
 colfenamate
 anileridine
 Tequin
 Hetrazan
-chlormerodrin
 Penetrex
 Desowen
 Aspergum
-enalapril
 Quiphile
 Depo-Provera
 Uni-tussin
@@ -10921,13 +10942,12 @@ flecainide
 Tetram
 tiratricol
 florfenicol
-esorubicin
+Vitrase
 Bretazenil
 demecycline
-etocarlide
-polysorbate 20
+beclanorsen
+Inpersol
 cediranib
-fepradinol
 Atropair
 varlitinib
 trimeprazine tartrate
@@ -10945,14 +10965,14 @@ epitizide
 famciclovir
 Alka-Seltzer
 Selectol
-razoxane
+siplizumab
 onercept
 ciltoprazine
 orbofiban
 cromoglicate lisetil
-doxazosin
+spiroxatrine
 sultopride
-Artane
+nizatidine
 anirolac
 amfetaminil
 butixirate
@@ -10962,11 +10982,13 @@ Daraprim
 Solu-Cortef
 aminitrozole
 aceperone
+etymemazine
 Colace
 Esgic
 vedaprofen
 Vasocidin
 dixanthogen
+tozadenant
 araprofen
 Pseudovent
 pipradimadol
@@ -10982,7 +11004,7 @@ TriHIBit
 sulfapyridine
 Android
 CYT
-Profenal
+enloplatin
 dinaciclib
 hydroxindasol
 ColBenemid
@@ -10994,15 +11016,16 @@ befiradol
 Sytobex
 quingestrone
 Sulmeprim
-quipazine
+fenpiverinium bromide
 amifloverine
-Romidepsin
+Curretab
 Brentuximab vedotin
-quinezamide
+Metindizate
 xylazine
 verucerfont
 Tusstat
 Tenex
+Meclomen
 atopaxar
 Ecstasy
 nidroxyzone
@@ -11018,14 +11041,13 @@ trametinib
 Serentil
 Di-Metrex
 spiperone
-cefivitril
+Niaspan
 Ansaid
 acebrochol
-anistreplase
+Benoquin
 calcipotriol
 ezogabine
 procyclidine
-pyridarone
 Albert Tiafen
 Tegrin
 avosentan
@@ -11049,30 +11071,30 @@ Methylpentynol
 tiqueside
 amperozide
 Blephamide
-chlorbenzoxamine
+disoxaril
 Brompheniramine
-Codiclear DH
+Sleepinal
 Intropin
 Compound 65
 Epicort
 Aloxi
 terbuficin
 norleusactide
+orconazole
 azaquinzole
 opratonium iodide
 E-Glades
 Bremelanotide
 Rilopirox
 hemoglobin glutamer-256
-pamiteplase
 debrisoquine
 Normiflo
 Optipranolol
 Cin-Quin
 mixidine
 Duracillin A.S.
-dimazole
-Tamiflu
+eproxindine
+Cedilanid-D
 lauroguadine
 dipivefrine
 cyclizine
@@ -11081,20 +11103,18 @@ Tripelennamine
 viloxazine
 levonantradol
 Roxatidine
-Lupron
 tienoxolol
-taprenepag
-acriflavinium chloride
-Innohep
+epicriptine
+trimethadione
 carebastine
-indium (111In) igovomab
+antramycin
 Phosphotec
 iotranic acid
 cabergoline
-Nulytely
+famiraprinium chloride
 haloprogesterone
 etybenzatropine
-nomegestrol
+Stelazine
 chlorproguanil
 idebenone
 Cesamet
@@ -11108,64 +11128,62 @@ sevopramide
 Prophene 65
 opipramol
 telbivudine
-dronedarone hydrochloride
-taglutimide
+Salagen
+atropine
 pentetic acid
 pipamazine
 lufironil
 Metamizole
 ipamorelin
 ancriviroc
-technetium (99mTc) siboroxime
+CBCDA
 Tinactin Antifungal
-arbaclofen placarbil
+HC (Hydrocortisone)
+proxorphan
 hexadiline
+leuprorelin
 ecenofloxacin
 Tenake
 sodium gentisate
 danazol
 bucumolol
 etoformin
-cormetasone
+lupitidine
 Synarel
 Cithalith-S Syrup
-Lantus
 DepoCyt
 Rilmakalim
-ranibizumab
 histapyrrodine
 hexetidine
-Triacet
+Copaxone
 Normodyne
 miloxacin
 acronine
 leucine
 nifurizone
 efonidipine
-dimetamfetamine
+clofurac
 nabiximols
-menadione sodium bisulfite
 proxicromil
-Tetrex
+nicoclonate
 pirenzepine
 duazomycin
 arclofenin
 Tinaderm
-Hepatolite
-Methylin
+Vagistat-1
 levlofexidine
-Crotan
+becaplermin
 perflubron
 Cobalasine Injection
-Meteneprost
-Ultraquin
+endomycin
+atilmotin
 vemurafenib
-etidronic acid
+Kesso-Gesic
 retinol
 eplivanserin
 Adoxa
 leniquinsin
-indium (111In) imciromab
+deboxamet
 sitagliptin
 pyritinol
 Methadose
@@ -11179,14 +11197,14 @@ mopidralazine
 Ala-Tet
 levophenacylmorphan
 Tri-Pseudo
-Valcyte
+Uni-Fed
 Charcadole
 cenisertib
 libecillide
 edrecolomab
 Bemote
 ciclactate
-ramciclane
+cilnidipine
 isoprednidene
 Antepar
 Berefrine
@@ -11199,25 +11217,23 @@ Enduron
 Valium
 norgestomet
 tesimide
-iolopride (123 I)
 Viracept
-Trental
+sufugolix
 flupimazine
 tiaprofenic acid
-apicycline
+Ceta-Plus
 Methylchromone
 flestolol
-arsanilic acid
+locicortolone dicibate
 dichlorophenarsine
 Trimeth-Sulfa
 Aphedrid
-pargyline
 ursulcholic acid
-nafiverine
-stirimazole
+Clinimix
+AK-Sulf
 Brocrinat
 flucicatide (18F)
-Blocadren
+Refludan
 tiamulin
 Argyrol S.S.
 Trilafon
@@ -11236,8 +11252,7 @@ trimoxamine
 vilazodone
 sergolexole
 procinolol
-afacifenacine
-Resectisol
+levo-Dromoran
 Surgicel
 Norlutate
 dofetilide
@@ -11254,13 +11269,12 @@ methcathinone
 Penbritin
 atiprimod
 ceftezole
-meglitinide
+Flumadine
 Syprine
-fenalcomine
 lamotrigine
 Congestac
 Rosabulin
-Hydrea® (hydroxycarbamide)
+cefixime
 Barusiban
 Transderm scop
 Seroquel
@@ -11270,16 +11284,15 @@ clonitrate
 afalanine
 acevaltrate
 olaquindox
-oxapropanium iodide
-Biodine
-neoarsphenamine
+Xarelto
+Cholac
 Benzonatate
 fenperate
 carboquone
 Lunelle
 edonentan
 Orapred
-polysorbate 8
+salsalate
 chlorazanil
 acetophenazine
 apraclonidine
@@ -11292,29 +11305,25 @@ amflutizole
 Alustra
 foscolic acid
 bleomycin
+Bermoprofen
 Clysodrast
 vincanol
-Valpin 50
 haloperidol
 Benzopyrronium bromide
 Bronkaid
 neostigmine bromide
 Balapiravir
-thiopental sodium
-piberaline
+drazidox
 insulin glulisine
-Nevrin
+Ritiometan
 proglumetacin
-Actonel
 Tranmep
 binizolast
 clometacin
-anitrazafen
 BeneFix
 fludalanine
-miboplatin
 Toposar
-testosterone ketolaurate
+Inomax
 Miralax
 Rhinolar
 Ureaphil
@@ -11327,22 +11336,21 @@ olsalazine
 ioprocemic acid
 tubulozole
 torcitabine
-ABC Pack
+sintropium bromide
 propantheline bromide
 dacisteine
-tenecteplase
 xantifibrate
 ethyl loflazepate
 Roflufocon E
 temafloxacin
-omtriptolide sodium
 emilium tosilate
 ulimorelin
 letimide
 ambruticin
 Creo-Terpin
+mitoflaxone
 lexipafant
-sevitropium mesilate
+Doca
 dapabutan
 MS Contin
 detrothyronine
@@ -11356,23 +11364,19 @@ Protopam Chloride
 fludarabine
 vinleurosine
 resminostat
-Clenia
+Cholybar
 cloperidone
 firategrast
 CroFab
 Betalin S
-flutrimazole
-sodium acetrizoate
-bisfentidine
+cefpiramide
 Aveeno Cleansing Bar
-pipequaline
+flumedroxone
 vaneprim
-tilmacoxib
 rebimastat
 Dostinex
 Rofleponide
-asfotase alfa
-Discase
+nanafrocin
 flunixin
 oxytocin
 butantrone
@@ -11389,7 +11393,7 @@ iotriside
 Tri-Sprintec
 naprodoxime
 fibrin, human
-bizelesin
+plusonermin pranosal
 procymate
 carbenzide
 Belix
@@ -11398,24 +11402,22 @@ peraclopone
 allocupreide sodium
 medorinone
 Bactrim
-Tomocat
-nafenodone
+Betalin 12
+Brimonidine
 timegadine
 flumetasone
 oxitriptyline
-flumedroxone
 tebufelone
 sitofibrate
-sotatercept
 fenoterol
-doliracetam
+thenalidine
 troquidazole
-ispinesib mesylate
-Renormax
+Triostat
+frovatriptan
 moxastine
 diperodon
 bunaftine
-avizafone
+secalciferol
 Asaphen
 Benfotiamine
 bolmantalate
@@ -11424,27 +11426,24 @@ Pramine
 levaquin
 tiracizine
 etisazole
-tapentadol
+alfaprostol
 aditoprim
 foravirumab
 tidembersat
-lerdelimumab
+halocarban
 pentoxifylline
 tiprotimod
 sodium phosphate (32 P)
-Aleve
 actinoquinol
-methanthelinium bromide
+Diabeta
 Biolon
 primycin
 Bexxar
 Ru-Vert-M
-norethisterone
+difencloxazine
 Selepen
-hydrobentizide
 Nutrestore
 tisoquone
-Alli
 tesetaxel
 tetrazepam
 Hydrap-ES
@@ -11459,7 +11458,7 @@ ketanserin
 tixocortol
 Benzobarbital
 fluprednidene
-Meclomen
+Jayln
 burapitant
 diftalone
 piritrexim
@@ -11469,22 +11468,23 @@ artilide
 fluperamide
 piflutixol
 dimecolonium iodide
-panitumumab
+pamiteplase
 texacromil
 deltibant
-antramycin
+indium (111In) igovomab
 tenocyclidine
-Nallpen
+Panretin
 A-Poxide
 fosfonet sodium
 Asendin
-Clavulin
+AK-Zol
 mercaptomerin
 BioThrax
 CaldeCORT
+dornase alfa
 ethyl dibunate
 tauromustine
-obeticholic acid
+Hydro-D
 Tremin
 vadimezan
 propyliodone
@@ -11498,24 +11498,23 @@ iopromide
 cicortonide
 Ambisome
 etilamfetamine
-cefixime
-butidrine
+thiopental sodium
 terguride
 Q-Pam
 nalidixic acid
 dazadrol
 fezolamine
-oxacillin
-morforex
+Symadine
 clomocycline
 suvorexant
 AH-Chew
-Cutivate
+tenecteplase
 sofalcone
 prifinium bromide
 Lanabiotic
 clomipramine
-Amnesteem
+pregnenolone
+Chloroserpine
 squalamine lactate
 cloximate
 Herplex
@@ -11524,6 +11523,7 @@ nafomine
 nefiracetam
 diflumidone
 Talwin
+LeukoScan
 Pravigard Pac
 clinafloxacin
 acedoben
@@ -11531,7 +11531,7 @@ menbutone
 Mycifradin
 propanocaine
 Mycostatin
-sarmazenil
+ularitide
 Pediotic
 picoperine
 adatanserin

@@ -1,51 +1,59 @@
 #------------------------------------------------------------------------------
-#	Author: Frank Carotenuto				Date: 11/27/2014
+#	Author: Frank Carotenuto			Date: 11/27/2014
 #
-#	Description: Creates a list of Known pharmaceutical drugs
+#	Description: Constructs a list of all Known pharmaceutical drugs
 #------------------------------------------------------------------------------
-import urllib, re, threading  
+import urllib, sys, re, threading  
 from Queue import Queue
 
 #------------------------------------------------------------------------------
-#
-#
-#
+#	Retrives all pharmaceutical drugs on page and appends them to parent_list
 #------------------------------------------------------------------------------
 def get_drugs(uri):
-	global F
-	temp = "http://en.wikipedia.org" + uri.replace('\"', '').strip()
-	sock3 = urllib.urlopen(temp)
-	htmlSource2 = sock3.read()
-	Q = re.findall(r'\">.*?</a></b>', htmlSource2)
-	F = set(Q).union(F)
-	sock3.close()
+	global parent_list
+	URL = "http://en.wikipedia.org" + uri.replace('\"', '').strip()
+	regex = '\">.*?</a></b>'
+	child_list = findall_on_page(regex, URL)
+	parent_list += child_list
 
 #------------------------------------------------------------------------------
-#
-#
-#
+#	Constructs a list of all with lists of pharmaceutical drugs
 #------------------------------------------------------------------------------
-def get_uris():
-	sock = urllib.urlopen("http://en.wikipedia.org/wiki/List_of_drugs")
-	htmlSource = sock.read()
-	L = re.findall(r'/wiki/List_of_drugs:_...', htmlSource)
+def get_wiki_pages():
+	URL = "http://en.wikipedia.org/wiki/List_of_drugs"
+	regex = '/wiki/List_of_drugs:_...'
+	URI_list = findall_on_page(regex, URL)
+
+	X = set()
+	for URI in URI_list:
+		URL = "http://en.wikipedia.org" + URI.replace('\"', '').strip()
+		regex, split_by, index = '/wiki/List_of_drugs:_.*?"', '</p>', 4
+		URL_list = findall_on_page(regex, URL, split_by, index)
+
+		X = set(URL_list).difference(set(URI_list)).union(X)
+
+	return X
+
+#------------------------------------------------------------------------------
+#	Finds all regular expression matches on a given page. Option to split
+#	the page and find all matches at given index.
+#------------------------------------------------------------------------------
+def findall_on_page(Rx, URL, split_by = '', index = -1):     
+	sock = urllib.urlopen(URL)
+
+	if split_by is '':
+		htmlSource = sock.read()
+	else:
+		htmlSource = sock.read().split(split_by)[index]
+
+	re_list = re.findall(Rx, htmlSource)
 	sock.close()
 
-	N = set()
-	for x in range(len(L)):
-		temp = "http://en.wikipedia.org" + L[x].replace('\"', '').strip()
-		sock2 = urllib.urlopen(temp)
-		htmlSource2 = sock2.read().split("</p>")
-		M = re.findall(r'/wiki/List_of_drugs:_.*?"', htmlSource2[4])
-		sock2.close()
-		N = set(M).difference(set(L)).union(N)
+	return re_list
 
-	return N
 
 #------------------------------------------------------------------------------
-#
-#
-#
+#	Runs each thread in an infinite loop until Queue q is empty. 
 #------------------------------------------------------------------------------
 def do_work():
 	global q
@@ -54,23 +62,26 @@ def do_work():
 		get_drugs(uri)
 		q.task_done()
 
+#------------------------------------------------------------------------------
+# 	Creates given number of threads, having them retrieve data from 
+#	pool of URLs
+#------------------------------------------------------------------------------
+if __name__ == "__main__":
+	parent_list = []
+	q = Queue()
 
-F = set()
-q = Queue()
+	for x in range(int(sys.argv[1])):
+		t = threading.Thread(target=do_work)
+		t.daemon = True
+		t.start()
 
-for subsite in list(get_uris()):
-	q.put(subsite)
+	for URI in list(get_wiki_pages()):
+		q.put(URI)
 
-for x in range(15):
-	t = threading.Thread(target=do_work)
-	t.daemon = True
-	t.start()
+	q.join()
 
-q.join()
+	text_file = open("Output.txt", "w")
+	for Rx_drug in list(set(parent_list)):
+		text_file.write(Rx_drug[2:-8] + "\n")
 
-W = list(F)
-text_file = open("Output.txt", "w")
-for j in range(0, len(W)):
-	text_file.write(W[j].replace('</a></b>', '').replace('">', '') + "\n")
-
-text_file.close()
+	text_file.close()
